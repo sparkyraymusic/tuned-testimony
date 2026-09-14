@@ -320,7 +320,9 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 5:20. 'Woe to those who call evil good and good evil...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-520-good-and-evil-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/9zF8V6qdl7A", },
+      { name: "Lyric Video", url: "https://youtu.be/Aiwr-tuVYTk", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/isaiah-5-20-good-and-evil-scripture-song-single/6785184810", },
+      { name: "Amazon Music", url: "http://www.amazon.com/gp/product/B0H6TLDZ88", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng" },
     ],
   },
