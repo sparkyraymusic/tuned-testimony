@@ -1,3 +1,4 @@
+import { byuEducationWeekSongs } from "./speeches-songified/byu-education-week";
 import { byuSpeechesSongs } from "./speeches-songified/byu-speeches";
 import { aRoyalArmySongs } from "./hymns/a-royal-army";
 import { boundlessGraceSongs } from "./hymns/boundless-grace";
@@ -50,6 +51,7 @@ import { april1984ConferenceSongs } from "./conference/1980s/1984-april";
 
 export const songs = [
   ...byuSpeechesSongs,
+  ...byuEducationWeekSongs,
   ...aRoyalArmySongs,
   ...boundlessGraceSongs,
   ...everNearSongs,
