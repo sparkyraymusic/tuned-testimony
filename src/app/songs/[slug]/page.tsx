@@ -1,3 +1,5 @@
+import SongVideo from "@/components/SongVideo";
+import { getSongVideo } from "@/data/songs/get-song-video";
 import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -29,13 +31,16 @@ export default async function SongPage({ params }: SongPageProps) {
   );
 
   const image = getSongImage(song, album?.image);
+  const video = getSongVideo(song.links);
 
   return (
     <main className={[styles.page, song.collection === "Speeches Songified" ? styles.speeches : ""].join(" ")}>
       <SiteHeader />
 			<section className={styles.hero}>
 				<div className={styles.heroGrid}>
-      {image && (
+      {video ? (
+        <SongVideo key={video.id} video={video} title={song.title} artwork={image} />
+      ) : image && (
         <div className={styles.heroImage}>
           <Image
             src={image}
