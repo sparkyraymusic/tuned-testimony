@@ -126,7 +126,7 @@ export const goodlySongs: Song[] = [
 	  image: "/songs/hymns/let-us-oft-speak-kind-words-country.png",
     description: "A warm Country reimagining of Let Us Oft Speak Kind Words, encouraging kindness, encouragement, and compassion in the way we speak to one another.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/wFjEK8aZAYo", },
+      { name: "Lyric Video", url: "https://youtu.be/S-yB8KGRXUo", },
       { name: "Spotify", url: "https://open.spotify.com/track/4W1oxhyTQgFScENpNgbDiw?si=06f378fc50d14c82", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/let-us-oft-speak-kind-words-country/1806334486", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=NcfHGp537Lw&si=uT4pbzFHC-0YjO0V", },
