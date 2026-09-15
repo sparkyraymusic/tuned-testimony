@@ -122,7 +122,7 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.png",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-stand-all-amazed-pop-ballad",
 		links: [
-			{ name: "Lyric Video", url: "https://youtu.be/EXx_NvpYH6Q", },
+			{ name: "Lyric Video", url: "https://youtu.be/rw-wIGHCSdQ", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/i-stand-all-amazed?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
