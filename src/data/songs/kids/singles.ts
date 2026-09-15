@@ -19,4 +19,18 @@ export const kidsSingles: Song[] = [
       { name: "Lyric Video", url: "https://youtu.be/JbwPiR5nirA", },
     ],
   },
+  {
+    slug: "jesus-once-of-humble-birth-kids",
+    title: "Jesus, Once of Humble Birth",
+    collection: "Kids",
+    releaseType: "Single",
+    style: "Kids",
+    releaseDate: "2026-09-29",
+    image: "/songs/hymns/kids/jesus-once-of-humble-birth-kids.png",
+    description: "A reverent, kid-friendly reimagining of the beloved hymn Jesus, Once of Humble Birth.",
+    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jesus-once-of-humble-birth-kids",
+    links: [
+      { name: "Lyric Video", url: "https://youtu.be/8JiWk795zSE", },
+    ],
+  },
 ];
