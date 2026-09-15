@@ -32,6 +32,10 @@ export default async function SongPage({ params }: SongPageProps) {
 
   const image = getSongImage(song, album?.image);
   const video = getSongVideo(song.links);
+  const isSpeech = song.collection === "Speeches Songified";
+  const displayTitle = isSpeech
+    ? song.title.replace(/\s*\(Speeches Songified\)\s*$/i, "")
+    : song.title;
 
   return (
     <main className={[styles.page, song.collection === "Speeches Songified" ? styles.speeches : ""].join(" ")}>
@@ -55,9 +59,9 @@ export default async function SongPage({ params }: SongPageProps) {
           <div className={styles.heroContent}>
             <p className="eyebrow">{song.collection} Collection</p>
 
-            <h1>{song.title}</h1>
+            <h1>{displayTitle}</h1>
 
-            <p className={styles.style}>{song.style}</p>
+            <p className={styles.style}>{isSpeech ? "Speeches Songified" : song.style}</p>
 
             <p className={styles.description}>{song.description}</p>
             {song.collection === "Speeches Songified" && (
