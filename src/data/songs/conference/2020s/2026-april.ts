@@ -112,11 +112,11 @@ export const april2026ConferenceSongs: Song[] = [
     sessionOrder: 1,
     talkOrder: 3,
     image: "/songs/conference/2026/april/clark-g-gilbert-come-home.png",
-    spotify: "https://open.spotify.com/track/3CaA5jOrcaNql3Mnf5YXk1?si=a52e5f555a9344c5",
+    lyricVideo: "https://youtu.be/A-Itzp2dQHs",
+	spotify: "https://open.spotify.com/track/3CaA5jOrcaNql3Mnf5YXk1?si=a52e5f555a9344c5",
     youtubeMusic: "https://music.youtube.com/watch?v=PVv-RQ6e0p8&si=dlHX69hE0XdVdeHW",
     appleMusic: "https://music.apple.com/us/song/come-home-clark-g-gilbert-apr-2026/1894832945",
     amazonMusic: "https://music.amazon.com/albums/B0GWP57FFG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_shqZcrgo8q1QFAERcqLAVZ625&trackAsin=B0GWP9YW28",
-    lyricVideo: "https://youtu.be/X05CIC0yLrs",
   }),
 
   conferenceSong({
