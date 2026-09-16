@@ -156,3 +156,5 @@
 .speechMeta > div { display: grid; grid-template-columns: 7rem minmax(0, 1fr); gap: .75rem; }
 .speechMeta dt { color: #d3e2ef; }
 .speechMeta dd { margin: 0; color: #d3d9df; }
+
+.scripture .style { color: var(--blue); }
