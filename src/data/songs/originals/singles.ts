@@ -66,7 +66,7 @@ export const originalSingles: Song[] = [
     description: "A humorous original Tuned Testimony song that flips the phrase “Mormon Mafia” into a celebration of organized kindness, service, casseroles, and showing up for one another.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/the-mormon-mafia",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/6i8dTtYND_w", },
+      { name: "Cinematic Video", url: "https://youtu.be/6i8dTtYND_w", },
       { name: "Spotify", url: "https://open.spotify.com/track/2kfOma41ZlujdajjLT2owE?si=b97ea9cef7094447", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=WXbumePGzvo&si=2bxs-vS4r9xs5wN_", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/the-mormon-mafia-single/6798637966", },

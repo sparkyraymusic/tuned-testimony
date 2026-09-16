@@ -30,7 +30,7 @@ export const kidsSingles: Song[] = [
     description: "A reverent, kid-friendly reimagining of the beloved hymn Jesus, Once of Humble Birth.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jesus-once-of-humble-birth-kids",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/8JiWk795zSE", },
+      { name: "Cinematic Video", url: "https://youtu.be/8JiWk795zSE", },
     ],
   },
 ];

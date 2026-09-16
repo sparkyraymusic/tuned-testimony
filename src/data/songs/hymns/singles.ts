@@ -122,7 +122,7 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.png",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-stand-all-amazed-pop-ballad",
 		links: [
-			{ name: "Lyric Video", url: "https://youtu.be/rw-wIGHCSdQ", },
+			{ name: "Cinematic Video", url: "https://youtu.be/rw-wIGHCSdQ", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/i-stand-all-amazed?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
@@ -137,7 +137,7 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/count-your-blessings-k-pop-rap.png",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/count-your-blessings-k-poprap",
 		links: [
-			{ name: "Lyric Video", url: "https://youtu.be/t_ubGu73-a0", },
+			{ name: "Cinematic Video", url: "https://youtu.be/t_ubGu73-a0", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/count-your-blessings?crumbs=hymns&order=number&lang=eng", },
 		],
 	},

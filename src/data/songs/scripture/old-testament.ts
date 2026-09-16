@@ -303,6 +303,10 @@ export const oldTestamentSingles: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-118-white-as-snow-scripture-song",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/KUSV2VIZ4fM", },
+      { name: "Spotify", url: "https://open.spotify.com/track/4sLCzvAR4u4Jabck8n9Bzh?si=e01df7c996804a1a", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=a1VJd9RwsW0&si=UKqldukCPsmNDILg", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-1-18-white-as-snow-scripture-song/6784753818", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H6MPP72T?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_gYop6YOAVts6nuM9OPmhwOOhM", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/1?lang=eng" },
     ],
   },
@@ -320,8 +324,10 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 5:20. 'Woe to those who call evil good and good evil...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-520-good-and-evil-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/Aiwr-tuVYTk", },
-      { name: "Apple Music", url: "https://music.apple.com/us/album/isaiah-5-20-good-and-evil-scripture-song-single/6785184810", },
+      { name: "Cinematic Video", url: "https://youtu.be/Aiwr-tuVYTk", },
+      { name: "Spotify", url: "https://open.spotify.com/track/5YjW8cxGmzAEWB0ydM2rhf?si=b56aa7a55146446e", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=DyJioq51i7A&si=Wxl-XxODl8z5Ok8O", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/isaiah-5-20-good-and-evil-scripture-song-single/6785184810?uo=4", },
       { name: "Amazon Music", url: "http://www.amazon.com/gp/product/B0H6TLDZ88", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/5?lang=eng" },
     ],
@@ -340,7 +346,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 29:3-14. 'I will marvel at the work of your hands...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-2913-14-marvellous-work-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/WH4VtFbxMjA", },
+      { name: "Cinematic Video", url: "https://youtu.be/WH4VtFbxMjA", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng" },
     ],
   },
@@ -358,7 +364,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 53:3-5. 'He was pierced for our transgressions, crushed for our iniquities...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-533-5-with-his-stripes-we-are-healed-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/Ck9xNGIJ5tk", },
+      { name: "Cinematic Video", url: "https://youtu.be/Ck9xNGIJ5tk", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=eng" },
     ],
   },
@@ -376,7 +382,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 55:8-9. 'For my ways are higher than your ways...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-558-9-my-ways-are-higher-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/lDf-Liiz7VY", },
+      { name: "Cinematic Video", url: "https://youtu.be/lDf-Liiz7VY", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=eng" },
     ],
   },
@@ -394,7 +400,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 58:13-14. 'Delight yourself in the Lord...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-5813-14-delight-thyself-in-the-lord-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/2KrTFuGu8WA", },
+      { name: "Cinematic Video", url: "https://youtu.be/2KrTFuGu8WA", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng" },
     ],
   },
