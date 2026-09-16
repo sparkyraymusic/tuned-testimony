@@ -63,7 +63,7 @@ export default function SiteFooter() {
         })}
       </div>
 
-      <p>Faith • Scripture • Music</p>
+      <p>Faith • Testimony • Music</p>
     </footer>
   );
 }

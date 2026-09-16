@@ -69,13 +69,13 @@ export default function Home() {
             height={474}
             priority
           />
-          <p className="eyebrow">Faith • Scripture • Music</p>
+          <p className="eyebrow">Faith • Testimony • Music</p>
 
           <h1 className={styles.accessibleTitle}>Tuned Testimony</h1>
 
           <p className={styles.heroDescription}>
-            Reimagined hymns, scripture songs, conference messages, speeches, and
-            original music created to strengthen faith in Jesus Christ.
+            Reimagined hymns, scripture songs, conference messages turned to song,
+            speeches songified, and original music created to strengthen faith in Jesus Christ.
           </p>
 
           <div className={styles.heroActions}>
