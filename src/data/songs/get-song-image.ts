@@ -18,7 +18,7 @@ export function getSongImage(song: Song, albumImage?: string) {
     song.conferenceYear &&
     song.conferenceMonth
   ) {
-    return `/songs/conference/${song.conferenceYear}-${song.conferenceMonth.toLowerCase()}/default.png`;
+    return `/songs/conference/${song.conferenceYear}/${song.conferenceMonth.toLowerCase()}/default.png`;
   }
 
   if (song.collection === "Scripture" && song.scriptureVolume) {

@@ -14,7 +14,7 @@ export const conferences: Conference[] = [
     year: 2026,
     month: "April",
     title: "April 2026 General Conference",
-    image: "/songs/conference/2026-april/default.png",
+    image: "/songs/conference/2026/april/default.png",
     },
   {
     slug: "2021-april",
