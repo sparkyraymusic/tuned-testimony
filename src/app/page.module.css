@@ -4,14 +4,14 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 4rem 2rem;
+  padding: 8rem 2rem 4rem;
   overflow: hidden;
   text-align: center;
   background:
     radial-gradient(
       circle at 50% 30%,
-      rgba(201, 162, 39, 0.18) 0%,
-      rgba(201, 162, 39, 0.06) 25%,
+      rgba(87, 207, 208, 0.18) 0%,
+      rgba(87, 207, 208, 0.06) 25%,
       transparent 55%
     ),
     linear-gradient(
@@ -53,7 +53,7 @@
 
 .heroLogo {
   display: block;
-  width: clamp(180px, 25vw, 300px);
+  width: min(100%, 650px);
   height: auto;
   margin: 0 auto 1.5rem;
 }
@@ -278,8 +278,8 @@
 
 .platformLink:hover {
   transform: translateY(-2px);
-  border-color: rgba(201, 162, 39, 0.5);
-  background: rgba(201, 162, 39, 0.06);
+  border-color: rgba(87, 207, 208, 0.5);
+  background: rgba(87, 207, 208, 0.06);
 }
 
 .collectionCardImage {
@@ -431,3 +431,6 @@
   .collectionCard, .featuredCard { transition: none; }
   .collectionCard:hover, .featuredCard:hover { transform: none; }
 }
+
+.accessibleTitle { position: absolute; width: 1px; height: 1px; padding: 0; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+@media (max-width: 600px) { .hero { padding-top: 3rem; } }

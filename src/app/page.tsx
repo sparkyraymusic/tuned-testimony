@@ -63,15 +63,15 @@ export default function Home() {
         <div className={styles.heroContent}>
           <Image
             className={styles.heroLogo}
-            src="/tuned-testimony-logo.png"
+            src="/brand/wordmark.png"
             alt="Tuned Testimony"
-            width={300}
-            height={300}
+            width={1200}
+            height={474}
             priority
           />
           <p className="eyebrow">Faith • Scripture • Music</p>
 
-          <h1>Tuned Testimony</h1>
+          <h1 className={styles.accessibleTitle}>Tuned Testimony</h1>
 
           <p className={styles.heroDescription}>
             Reimagined hymns, scripture songs, conference messages, speeches, and
