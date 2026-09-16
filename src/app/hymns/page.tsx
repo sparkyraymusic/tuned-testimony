@@ -46,13 +46,15 @@ export default function HymnsPage() {
               className={styles.singleCard}
             >
               {song.image && (
+                <div className={styles.singleArt}>
                 <Image
                   src={song.image}
                   alt={`${song.title} cover art`}
-                  width={600}
-                  height={600}
+                  fill
+                  sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 240px"
                   className={styles.singleImage}
                 />
+                </div>
               )}
 
               <div className={styles.singleContent}>
@@ -83,8 +85,8 @@ export default function HymnsPage() {
                 <Image
                   src={album.image}
                   alt={`${album.title} album cover`}
-                  width={600}
-                  height={600}
+                  fill
+                  sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 320px"
                 />
               </div>
 
