@@ -133,7 +133,7 @@
   margin-top: 1.75rem;
   padding: 0.8rem 1.25rem;
   border-radius: 999px;
-  background: var(--gold);
+  background: var(--brand);
   color: #101820;
   font-size: 0.95rem;
   font-weight: 800;
@@ -150,7 +150,6 @@
 
 .speeches .hero { background: radial-gradient(circle at 25% 35%, #739abd24, transparent 60%), linear-gradient(150deg, #10283e, #081827 70%); }
 .speeches .style { color: #d3e2ef; }
-.speeches .hyperFollow { background: #a9c3da; color: #081827; border-color: #a9c3da; }
 .speeches .heroImage { border-bottom: 3px solid #8caeca; }
 .speechMeta { display: grid; gap: .75rem; margin: 1.5rem 0; }
 .speechMeta > div { display: grid; grid-template-columns: 7rem minmax(0, 1fr); gap: .75rem; }
