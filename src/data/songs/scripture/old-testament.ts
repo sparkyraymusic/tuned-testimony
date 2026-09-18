@@ -324,7 +324,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 5:20. 'Woe to those who call evil good and good evil...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-520-good-and-evil-scripture-song",
     links: [
-      { name: "Cinematic Video", url: "https://youtu.be/Aiwr-tuVYTk", },
+      { name: "Cinematic", url: "https://youtu.be/Aiwr-tuVYTk", },
       { name: "Spotify", url: "https://open.spotify.com/track/5YjW8cxGmzAEWB0ydM2rhf?si=b56aa7a55146446e", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=DyJioq51i7A&si=Wxl-XxODl8z5Ok8O", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/isaiah-5-20-good-and-evil-scripture-song-single/6785184810?uo=4", },
@@ -346,7 +346,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 29:3-14. 'I will marvel at the work of your hands...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-2913-14-marvellous-work-scripture-song",
     links: [
-      { name: "Cinematic Video", url: "https://youtu.be/WH4VtFbxMjA", },
+      { name: "Cinematic", url: "https://youtu.be/WH4VtFbxMjA", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng" },
     ],
   },
@@ -364,7 +364,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 53:3-5. 'He was pierced for our transgressions, crushed for our iniquities...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-533-5-with-his-stripes-we-are-healed-scripture-song",
     links: [
-      { name: "Cinematic Video", url: "https://youtu.be/Ck9xNGIJ5tk", },
+      { name: "Cinematic", url: "https://youtu.be/Ck9xNGIJ5tk", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/53?lang=eng" },
     ],
   },
@@ -382,7 +382,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 55:8-9. 'For my ways are higher than your ways...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-558-9-my-ways-are-higher-scripture-song",
     links: [
-      { name: "Cinematic Video", url: "https://youtu.be/lDf-Liiz7VY", },
+      { name: "Cinematic", url: "https://youtu.be/lDf-Liiz7VY", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/55?lang=eng" },
     ],
   },
@@ -400,7 +400,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 58:13-14. 'Delight yourself in the Lord...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-5813-14-delight-thyself-in-the-lord-scripture-song",
     links: [
-      { name: "Cinematic Video", url: "https://youtu.be/2KrTFuGu8WA", },
+      { name: "Cinematic", url: "https://youtu.be/2KrTFuGu8WA", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng" },
     ],
   },

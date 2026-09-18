@@ -18,7 +18,7 @@ export const april2013ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Jeffrey R. Holland’s April 2013 message, “Lord, I Believe.”",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeffrey-r-holland-lord-i-believe-conference-talk-song---apr-2013",
     links: [
-      { name: "Cinematic Video", url: "https://youtu.be/PhEmvb3XRnk", },
+      { name: "Cinematic", url: "https://youtu.be/PhEmvb3XRnk", },
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/lord-i-believe?lang=eng", },
     ],
   },

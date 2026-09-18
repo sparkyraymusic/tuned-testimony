@@ -122,7 +122,11 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.png",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-stand-all-amazed-pop-ballad",
 		links: [
-			{ name: "Cinematic Video", url: "https://youtu.be/rw-wIGHCSdQ", },
+			{ name: "Cinematic", url: "https://youtu.be/rw-wIGHCSdQ", },
+			{ name: "Spotify", url: "https://open.spotify.com/album/6Okid5Fb313Vu6I3HSqDd6", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=pKbCGBREGIo&si=EeLYRg3CNKVPgL3W", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/album/i-stand-all-amazed-pop-ballad-single/6791117302?uo=4", },
+			{ name: "Amazon Music", url: "http://www.amazon.com/gp/product/B0H8YDP3R6", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/i-stand-all-amazed?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
@@ -137,8 +141,23 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/count-your-blessings-k-pop-rap.png",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/count-your-blessings-k-poprap",
 		links: [
-			{ name: "Cinematic Video", url: "https://youtu.be/t_ubGu73-a0", },
+			{ name: "Cinematic", url: "https://youtu.be/t_ubGu73-a0", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/count-your-blessings?crumbs=hymns&order=number&lang=eng", },
+		],
+	},
+	{
+		slug: "joseph-smiths-first-prayer-pop-rock",
+		title: "Joseph Smith's First Prayer",
+		collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-09-15",
+		style: "Pop/Rock",
+		description: "A Pop/Rock reimagining of the hymn Joseph Smith's First Prayer.",
+		image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.png",
+		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/joseph-smiths-first-prayer-poprock",
+		links: [
+			{ name: "Cinematic", url: "https://youtu.be/Gn1TxPDNukg", },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/joseph-smiths-first-prayer?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
 ];

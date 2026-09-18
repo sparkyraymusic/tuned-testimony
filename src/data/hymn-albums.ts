@@ -20,11 +20,30 @@ type HymnAlbum = {
 
 export const hymnAlbums: HymnAlbum[] = [
 	{
+		slug: "josephs-vision",
+		title: "Joseph's Vision",
+		subtitle: "Hymns celebrating Joseph Smith and the Restoration",
+		image: "/albums/josephs-vision.png",
+		links: [
+			{ name: "Spotify", url: "https://open.spotify.com/album/61SUeXDxeyO4lokvcE3Ggv", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/album/josephs-vision-ep/1808667843?uo=4", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kf4Dy7tMwboA_Vau3Ik1TrA_kBASw0KcY&si=jqDZmTFK_OzUEOd4", },
+			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0F4XM3F5L?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_kHHpNnjHmCdq8xP6FyGTzIrvg", }
+		],
+		tracks: [
+			{ title: "Joseph Smith's First Prayer", style: "Pop", songSlug: "josephs-first-prayer-pop", },
+			{ title: "We Thank Thee, O God, for a Prophet", style: "Pop", songSlug: "we-thank-thee-o-god-for-a-prophet-pop", },
+			{ title: "Come, Ye Children of the Lord", style: "Pop", songSlug: "come-ye-children-of-the-lord-pop", },
+			{ title: "A Poor Wayfaring Man of Grief", style: "Pop/Rock", songSlug: "a-poor-wayfaring-man-of-grief-pop-rock", },
+			{ title: "Praise To The Man", style: "Pop/Rock", songSlug: "praise-to-the-man-pop-rock", },
+			{ title: "Battle Hymn of the Republic", style: "Rock", songSlug: "battle-hymn-of-the-republic-rock", },
+		],
+	},
+	{
 		slug: "goodly",
 		title: "Goodly",
 		subtitle: "Hymns of good, righteous living",
 		image: "/albums/goodly.png",
-
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/4T4rzzi6Pf9naxK09dtVf7", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/goodly/1806334479?uo=4", },
@@ -32,7 +51,6 @@ export const hymnAlbums: HymnAlbum[] = [
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0F3J3C2FH?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_Udox6gpGsM7dDSGWdUY9UOMjD", },
 			{ name: "Tidal", url: "https://tidal.com/album/427916339/u", },
 		],
-
 		tracks: [
 			{ title: "Choose the Right", style: "Pop", songSlug: "choose-the-right-pop", },
 			{ title: "Love at Home", style: "Country", songSlug: "love-at-home-country", },
@@ -141,7 +159,6 @@ export const hymnAlbums: HymnAlbum[] = [
 		title: "Boundless Grace",
 		subtitle: "Hymns of grace, trust, and devotion",
 		image: "/albums/boundless-grace.png",
-
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/3yZH1s9wJXYcnNjyB2h5Re?si=WcOnpR7mQ6eXzN6eI8vgXA", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/boundless-grace/1876124846", },
@@ -149,7 +166,6 @@ export const hymnAlbums: HymnAlbum[] = [
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0GMGZYF3G?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_mP8Yambw9GB4A0CKeN8fIvg3S", },
 			{ name: "Tidal", url: "https://tidal.com/album/497402850/u", },
 		],
-
 		tracks: [
 			{ title: "Come, Thou Fount of Every Blessing", style: "Pop/Country", songSlug: "come-thou-fount-of-every-blessing" },
 			{ title: "Amazing Grace", style: "Classic Rock", songSlug: "amazing-grace" },

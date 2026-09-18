@@ -5,6 +5,7 @@ import { boundlessGraceSongs } from "./hymns/boundless-grace";
 import { everNearSongs } from "./hymns/ever-near";
 import { goodlySongs } from "./hymns/goodly";
 import { primaryDaysSongs } from "./hymns/primary-days";
+import { josephsVisionSongs } from "./hymns/josephs-vision";
 import { hymnSingles } from "./hymns/singles";
 import { internationalSingles } from "./international/singles";
 import { kidsSingles } from "./kids/singles";
@@ -57,6 +58,7 @@ export const songs = [
   ...everNearSongs,
   ...goodlySongs,
   ...primaryDaysSongs,
+  ...josephsVisionSongs,
   ...hymnSingles,
   ...internationalSingles,
   ...kidsSingles,
