@@ -93,7 +93,7 @@ export const josephsVisionSongs: Song[] = [
     ],
   },
   {
-    slug: "battle-hymn-of-the-republic-pop-rock",
+    slug: "battle-hymn-of-the-republic-rock",
     title: "Battle Hymn of the Republic",
     collection: "Hymns",
     releaseType: "Album Track",

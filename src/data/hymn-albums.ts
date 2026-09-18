@@ -31,7 +31,7 @@ export const hymnAlbums: HymnAlbum[] = [
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0F4XM3F5L?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_kHHpNnjHmCdq8xP6FyGTzIrvg", }
 		],
 		tracks: [
-			{ title: "Joseph Smith's First Prayer", style: "Pop", songSlug: "josephs-first-prayer-pop", },
+			{ title: "Joseph Smith's First Prayer", style: "Pop", songSlug: "joseph-smiths-first-prayer-pop", },
 			{ title: "We Thank Thee, O God, for a Prophet", style: "Pop", songSlug: "we-thank-thee-o-god-for-a-prophet-pop", },
 			{ title: "Come, Ye Children of the Lord", style: "Pop", songSlug: "come-ye-children-of-the-lord-pop", },
 			{ title: "A Poor Wayfaring Man of Grief", style: "Pop/Rock", songSlug: "a-poor-wayfaring-man-of-grief-pop-rock", },
