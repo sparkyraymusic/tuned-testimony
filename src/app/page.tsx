@@ -13,12 +13,12 @@ import SiteFooter from "@/components/SiteFooter";
 
 const featuredMusic = [
   {
-    title: "Precious Savior, Dear Redeemer",
-    subtitle: "Pop Version",
+    title: "Joseph Smith's First Prayer",
+    subtitle: "Pop/Rock Version",
     collection: "Hymns",
-    image: "/songs/hymns/precious-savior-dear-redeemer.png",
+    image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.png",
     className: "hymns",
-    href: "/songs/precious-savior-dear-redeemer",
+    href: "/songs/joseph-smiths-first-prayer-pop-rock",
   },
   {
     title: "Isaiah 53:3-5",
