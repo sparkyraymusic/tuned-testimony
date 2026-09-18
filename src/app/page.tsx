@@ -69,7 +69,7 @@ export default function Home() {
             height={474}
             priority
           />
-          <p className="eyebrow">Faith • Testimony • Music</p>
+          <p className={styles.tagline}>Cherished Words. Fresh Take.</p>
 
           <h1 className={styles.accessibleTitle}>Tuned Testimony</h1>
 

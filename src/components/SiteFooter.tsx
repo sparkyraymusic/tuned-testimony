@@ -63,7 +63,7 @@ export default function SiteFooter() {
         })}
       </div>
 
-      <p>Faith • Testimony • Music</p>
+      <p>Cherished Words. Fresh Take.</p>
     </footer>
   );
 }

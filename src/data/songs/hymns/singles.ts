@@ -160,4 +160,19 @@ export const hymnSingles: Song[] = [
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/joseph-smiths-first-prayer?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
+	{
+		slug: "dare-to-do-right-alternative-pop-punk-rock",
+		title: "Dare to Do Right",
+		collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-09-15",
+		style: "Alternative Pop Punk Rock",
+		description: "An Alternative Pop Punk Rock reimagining of the hymn Dare to Do Right.",
+		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.png",
+		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/dare-to-do-right-alternative-pop-punk-rock",
+		links: [
+			{ name: "Cinematic", url: "https://youtu.be/O5UeVDl5MOU", },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/dare-to-do-right?crumbs=childrens-songbook&order=number&lang=eng", },
+		],
+	},
 ];
