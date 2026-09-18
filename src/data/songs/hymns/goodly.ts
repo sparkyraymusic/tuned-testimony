@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const goodlySongs: Song[] = [
   {
     slug: "choose-the-right-pop",
+    hymnId: "choose-the-right",
     title: "Choose the Right",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -22,6 +23,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "love-at-home-country",
+    hymnId: "love-at-home",
     title: "Love at Home",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -41,6 +43,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "have-i-done-any-good-ballad",
+    hymnId: "have-i-done-any-good",
     title: "Have I Done Any Good?",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -60,6 +63,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "the-iron-rod-country",
+    hymnId: "the-iron-rod",
     title: "The Iron Rod",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -79,6 +83,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "count-your-blessings-pop",
+    hymnId: "count-your-blessings",
     title: "Count Your Blessings",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -97,6 +102,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "should-you-feel-inclined-to-censure-island",
+    hymnId: "should-you-feel-inclined-to-censure",
     title: "Should You Feel Inclined to Censure",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -116,6 +122,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "let-us-oft-speak-kind-words-country",
+    hymnId: "let-us-oft-speak-kind-words",
     title: "Let Us Oft Speak Kind Words",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -135,6 +142,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "oh-say-what-is-truth-pop",
+    hymnId: "oh-say-what-is-truth",
     title: "Oh Say, What Is Truth?",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -153,6 +161,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "oh-holy-words-of-truth-and-love-ballad",
+    hymnId: "oh-holy-words-of-truth-and-love",
     title: "Oh, Holy Words of Truth and Love",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -172,6 +181,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "dare-to-do-right-pop",
+    hymnId: "dare-to-do-right",
     title: "Dare to Do Right",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -190,6 +200,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "nay-speak-no-ill-country",
+    hymnId: "nay-speak-no-ill",
     title: "Nay, Speak No Ill",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -209,6 +220,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "do-what-is-right-pop",
+    hymnId: "do-what-is-right",
     title: "Do What Is Right",
     collection: "Hymns",
     releaseType: "Album Track",

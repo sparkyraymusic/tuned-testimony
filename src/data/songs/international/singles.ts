@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const internationalSingles: Song[] = [
   {
     slug: "now-let-us-rejoice-spanish",
+    hymnId: "now-let-us-rejoice",
     title: "Ya regocijemos",
     collection: "International",
     releaseType: "Single",
@@ -21,6 +22,7 @@ export const internationalSingles: Song[] = [
   },
   {
     slug: "now-let-us-rejoice-portuguese",
+    hymnId: "now-let-us-rejoice",
     title: "Alegres Cantemos",
     collection: "International",
     releaseType: "Single",
@@ -39,6 +41,7 @@ export const internationalSingles: Song[] = [
   },
   {
     slug: "now-let-us-rejoice-tagalog",
+    hymnId: "now-let-us-rejoice",
     title: "Tayo’y Magalak",
     collection: "International",
     releaseType: "Single",
@@ -58,6 +61,7 @@ export const internationalSingles: Song[] = [
 
 	{
 		slug: "i-know-that-my-redeemer-lives-german",
+    hymnId: "i-know-that-my-redeemer-lives",
 		title: "Ich weiß, daß mein Erlöser lebt",
 		collection: "International",
 		releaseType: "Single",
@@ -76,6 +80,7 @@ export const internationalSingles: Song[] = [
 	},
 	{
 		slug: "the-lord-is-my-light-portuguese",
+    hymnId: "the-lord-is-my-light",
 		title: "Jesus, Minha Luz",
 		collection: "International",
 		releaseType: "Single",
@@ -94,6 +99,7 @@ export const internationalSingles: Song[] = [
 	},
 	{
 		slug: "i-need-thee-every-hour-japanese",
+    hymnId: "i-need-thee-every-hour",
 		title: "絶えず頼り主求む",
 		collection: "International",
 		releaseType: "Single",

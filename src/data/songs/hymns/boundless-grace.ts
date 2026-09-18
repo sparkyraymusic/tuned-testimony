@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const boundlessGraceSongs: Song[] = [
   {
     slug: "come-thou-fount-of-every-blessing",
+    hymnId: "come-thou-fount-of-every-blessing",
     title: "Come, Thou Fount Of Every Blessing",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -21,6 +22,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "amazing-grace",
+    hymnId: "amazing-grace",
     title: "Amazing Grace",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -39,6 +41,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "my-shepherd-will-supply-my-need",
+    hymnId: "my-shepherd-will-supply-my-need",
     title: "My Shepherd Will Supply My Need",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -57,6 +60,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "the-lords-my-shepherd",
+    hymnId: "the-lords-my-shepherd",
     title: "The Lord’s My Shepherd",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -75,6 +79,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "his-eye-is-on-the-sparrow",
+    hymnId: "his-eye-is-on-the-sparrow",
     title: "His Eye Is On The Sparrow",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -93,6 +98,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "softly-and-tenderly-jesus-is-calling",
+    hymnId: "softly-and-tenderly-jesus-is-calling",
     title: "Softly And Tenderly Jesus Is Calling",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -111,6 +117,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "take-my-heart-and-let-it-be-consecrated",
+    hymnId: "take-my-heart-and-let-it-be-consecrated",
     title: "Take My Heart And Let It Be Consecrated",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -129,6 +136,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "standing-on-the-promises",
+    hymnId: "standing-on-the-promises",
     title: "Standing On The Promises",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -147,6 +155,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "it-is-well-with-my-soul",
+    hymnId: "it-is-well-with-my-soul",
     title: "It Is Well With My Soul",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -165,6 +174,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "this-little-light-of-mine",
+    hymnId: "this-little-light-of-mine",
     title: "This Little Light Of Mine",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -183,6 +193,7 @@ export const boundlessGraceSongs: Song[] = [
   },
   {
     slug: "his-voice-as-the-sound",
+    hymnId: "his-voice-as-the-sound",
     title: "His Voice As The Sound",
     collection: "Hymns",
     releaseType: "Album Track",

@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const aRoyalArmySongs: Song[] = [
   {
     slug: "onward-christian-soldiers",
+    hymnId: "onward-christian-soldiers",
     title: "Onward, Christian Soldiers",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -36,6 +37,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "let-us-all-press-on",
+    hymnId: "let-us-all-press-on",
     title: "Let Us All Press On",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -69,6 +71,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "behold-a-royal-army",
+    hymnId: "behold-a-royal-army",
     title: "Behold! A Royal Army",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -102,6 +105,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "true-to-the-faith",
+    hymnId: "true-to-the-faith",
     title: "True to the Faith",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -135,6 +139,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "come-along-come-along",
+    hymnId: "come-along-come-along",
     title: "Come Along, Come Along",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -168,6 +173,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "whos-on-the-lords-side",
+    hymnId: "whos-on-the-lords-side",
     title: "Who’s On The Lord’s Side?",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -201,6 +207,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "called-to-serve",
+    hymnId: "called-to-serve",
     title: "Called To Serve",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -234,6 +241,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "hope-of-israel",
+    hymnId: "hope-of-israel",
     title: "Hope Of Israel",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -267,6 +275,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "we-are-all-enlisted",
+    hymnId: "we-are-all-enlisted",
     title: "We Are All Enlisted",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -300,6 +309,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "o-thou-rock-of-our-salvation",
+    hymnId: "o-thou-rock-of-our-salvation",
     title: "O Thou Rock Of Our Salvation",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -333,6 +343,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "ill-go-where-you-want-me-to-go",
+    hymnId: "ill-go-where-you-want-me-to-go",
     title: "I’ll Go Where You Want Me To Go",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -366,6 +377,7 @@ export const aRoyalArmySongs: Song[] = [
   },
   {
     slug: "put-your-shoulder-to-the-wheel",
+    hymnId: "put-your-shoulder-to-the-wheel",
     title: "Put Your Shoulder To The Wheel",
     collection: "Hymns",
     releaseType: "Album Track",

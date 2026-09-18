@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const primaryDaysSongs: Song[] = [
   {
     slug: "jesus-wants-me-for-a-sunbeam",
+    hymnId: "jesus-wants-me-for-a-sunbeam",
     title: "Jesus Wants Me For A Sunbeam",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -21,6 +22,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "can-a-little-child-like-me",
+    hymnId: "can-a-little-child-like-me",
     title: "Can A Little Child Like Me?",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -39,6 +41,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "tell-me-the-stories-of-jesus",
+    hymnId: "tell-me-the-stories-of-jesus",
     title: "Tell Me The Stories Of Jesus",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -57,6 +60,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "all-things-bright-and-beautiful",
+    hymnId: "all-things-bright-and-beautiful",
     title: "All Things Bright and Beautiful",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -75,6 +79,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "if-with-all-your-hearts",
+    hymnId: "if-with-all-your-hearts",
     title: "If With All Your Hearts",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -93,6 +98,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "jesus-once-was-a-little-child",
+    hymnId: "jesus-once-was-a-little-child",
     title: "Jesus Once Was A Little Child",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -111,6 +117,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "beauty-everywhere",
+    hymnId: "beauty-everywhere",
     title: "Beauty Everywhere",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -129,6 +136,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "thanks-to-our-father",
+    hymnId: "thanks-to-our-father",
     title: "Thanks to Our Father",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -147,6 +155,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "the-wise-man-and-the-foolish-man",
+    hymnId: "the-wise-man-and-the-foolish-man",
     title: "The Wise Man and the Foolish Man",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -165,6 +174,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "tell-me-dear-lord",
+    hymnId: "tell-me-dear-lord",
     title: "Tell Me, Dear Lord",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -183,6 +193,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "shine-on",
+    hymnId: "shine-on",
     title: "Shine On",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -201,6 +212,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "i-think-when-i-read-that-sweet-story",
+    hymnId: "i-think-when-i-read-that-sweet-story",
     title: "I Think When I Read That Sweet Story",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -219,6 +231,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "stand-for-the-right",
+    hymnId: "stand-for-the-right",
     title: "Stand For The Right",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -237,6 +250,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "thank-thee-father",
+    hymnId: "thank-thee-father",
     title: "Thank Thee, Father",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -255,6 +269,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "dare-to-do-right",
+    hymnId: "dare-to-do-right",
     title: "Dare To Do Right",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -273,6 +288,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "heavenly-father-now-i-pray",
+    hymnId: "heavenly-father-now-i-pray",
     title: "Heavenly Father, Now I Pray",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -291,6 +307,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "lift-up-your-voice-and-sing",
+    hymnId: "lift-up-your-voice-and-sing",
     title: "Lift Up Your Voice And Sing",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -309,6 +326,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "the-dearest-names",
+    hymnId: "the-dearest-names",
     title: "The Dearest Names",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -327,6 +345,7 @@ export const primaryDaysSongs: Song[] = [
   },
   {
     slug: "saturday",
+    hymnId: "saturday",
     title: "Saturday",
     collection: "Hymns",
     releaseType: "Album Track",

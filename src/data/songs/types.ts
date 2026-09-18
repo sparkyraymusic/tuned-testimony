@@ -1,3 +1,5 @@
+import type { HymnId } from "../hymnals";
+
 export type StreamingLink = {
   name: string;
   url: string;
@@ -15,6 +17,7 @@ export type SongCollection =
 export type ReleaseType = "Single" | "Album Track";
 
 export type Song = {
+  hymnId?: HymnId;
   slug: string;
   title: string;
   collection: SongCollection;

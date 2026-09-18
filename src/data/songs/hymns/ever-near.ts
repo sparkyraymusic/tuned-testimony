@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const everNearSongs: Song[] = [
   {
     slug: "nearer-my-god-to-thee-piano-ballad",
+    hymnId: "nearer-my-god-to-thee",
     title: "Nearer, My God, To Thee",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -36,6 +37,7 @@ export const everNearSongs: Song[] = [
   },
   {
     slug: "precious-savior-dear-redeemer",
+    hymnId: "precious-savior-dear-redeemer",
     title: "Precious Savior, Dear Redeemer",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -74,6 +76,7 @@ export const everNearSongs: Song[] = [
   },
 	{
 		slug: "jesus-the-very-thought-of-thee",
+    hymnId: "jesus-the-very-thought-of-thee",
 		title: "Jesus, The Very Thought Of Thee",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -107,6 +110,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "jesus-lover-of-my-soul",
+    hymnId: "jesus-lover-of-my-soul",
 		title: "Jesus, Lover Of My Soul",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -140,6 +144,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "come-unto-jesus",
+    hymnId: "come-unto-jesus",
 		title: "Come Unto Jesus",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -173,6 +178,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "come-follow-me",
+    hymnId: "come-follow-me",
 		title: "Come, Follow Me",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -206,6 +212,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "come-we-that-love-the-lord",
+    hymnId: "come-we-that-love-the-lord",
 		title: "Come, We That Love The Lord",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -239,6 +246,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "be-still-my-soul",
+    hymnId: "be-still-my-soul",
 		title: "Be Still, My Soul",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -272,6 +280,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "the-lord-my-pasture-will-prepare",
+    hymnId: "the-lord-my-pasture-will-prepare",
 		title: "The Lord My Pasture Will Prepare",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -305,6 +314,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "ye-simple-souls-who-stray",
+    hymnId: "ye-simple-souls-who-stray",
 		title: "Ye Simple Souls Who Stray",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -335,6 +345,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "how-long-o-lord-most-holy-and-true",
+    hymnId: "how-long-o-lord-most-holy-and-true",
 		title: "How Long, O Lord Most Holy And True",
 		collection: "Hymns",
 		releaseType: "Album Track",
@@ -368,6 +379,7 @@ export const everNearSongs: Song[] = [
 	},
 	{
 		slug: "i-know-that-my-redeemer-lives",
+    hymnId: "i-know-that-my-redeemer-lives",
 		title: "I Know That My Redeemer Lives",
 		collection: "Hymns",
 		releaseType: "Album Track",

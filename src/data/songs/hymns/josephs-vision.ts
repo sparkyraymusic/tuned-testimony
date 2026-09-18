@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const josephsVisionSongs: Song[] = [
   {
     slug: "joseph-smiths-first-prayer-pop",
+    hymnId: "joseph-smiths-first-prayer",
     title: "Joseph Smith's First Prayer",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -22,6 +23,7 @@ export const josephsVisionSongs: Song[] = [
   },
   {
     slug: "we-thank-thee-o-god-for-a-prophet-pop",
+    hymnId: "we-thank-thee-o-god-for-a-prophet",
     title: "We Thank Thee, O God, for a Prophet",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -40,6 +42,7 @@ export const josephsVisionSongs: Song[] = [
   },
   {
     slug: "come-ye-children-of-the-lord-pop",
+    hymnId: "come-ye-children-of-the-lord",
     title: "Come, Ye Children of the Lord",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -58,6 +61,7 @@ export const josephsVisionSongs: Song[] = [
   },
   {
     slug: "a-poor-wayfaring-man-of-grief-pop-rock",
+    hymnId: "a-poor-wayfaring-man-of-grief",
     title: "A Poor Wayfaring Man of Grief",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -76,6 +80,7 @@ export const josephsVisionSongs: Song[] = [
   },
   {
     slug: "praise-to-the-man-pop-rock",
+    hymnId: "praise-to-the-man",
     title: "Praise to the Man",
     collection: "Hymns",
     releaseType: "Album Track",
@@ -94,6 +99,7 @@ export const josephsVisionSongs: Song[] = [
   },
   {
     slug: "battle-hymn-of-the-republic-rock",
+    hymnId: "battle-hymn-of-the-republic",
     title: "Battle Hymn of the Republic",
     collection: "Hymns",
     releaseType: "Album Track",

@@ -5,6 +5,7 @@ import styles from "./page.module.css";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { hymnSingles } from "@/data/songs/hymns/singles";
+import HymnBrowseNav from "@/components/HymnBrowseNav";
 
 export default function HymnsPage() {
   return (
@@ -24,6 +25,7 @@ export default function HymnsPage() {
           </Link>
         </div>
       </section>
+      <HymnBrowseNav active="albums" />
       <section className={styles.singlesSection}>
         <div className={styles.sectionHeading}>
           <p className="eyebrow">Latest Releases</p>

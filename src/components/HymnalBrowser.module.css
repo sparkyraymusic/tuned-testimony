@@ -1,0 +1,49 @@
+.browseNav { display: flex; flex-wrap: wrap; justify-content: center; gap: .75rem; padding: 2rem 1rem 0; }
+.browseNav a, .browser button { color: #f7f5ef; border: 1px solid #516459; background: #17251e; border-radius: 999px; padding: .8rem 1.2rem; font: inherit; cursor: pointer; text-decoration: none; }
+.browseNav a[aria-current], .browser button[aria-pressed="true"] { background: #b0d4ad; color: #132019; border-color: #b0d4ad; }
+.browseNav a:hover, .browser button:not(:disabled):hover { border-color: #d0edce; }
+.browseNav a:focus-visible, .browser :is(button, input, summary, a):focus-visible { outline: 3px solid var(--brand); outline-offset: 4px; }
+.browser { max-width: 1100px; margin: auto; }
+.browser h2 { margin: 2.5rem 0 .75rem; font-size: clamp(1.75rem, 4vw, 2.5rem); }
+.bookChoices { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1rem; }
+.bookChoices button { display: flex; flex-direction: column; align-items: flex-start; justify-content: space-between; text-align: left; gap: 1rem; border-radius: 1.25rem; padding: 1.5rem; font-weight: 700; }
+.pill { display: inline-block; flex-shrink: 0; font-size: .8rem; font-weight: 600; line-height: 1.3; padding: .4rem .7rem; border-radius: 999px; background: #ffffff10; border: 1px solid #ffffff28; white-space: nowrap; }
+.bookChoices button[aria-pressed="true"] .pill { background: #13201910; border-color: #13201940; }
+.note { color: #b7c3bf; line-height: 1.65; font-size: .95rem; }
+.note a { color: #b0d4ad; text-underline-offset: 4px; }
+.controls { margin: 1.5rem 0; padding: 1.5rem; background: #15211f; border: 1px solid #ffffff1c; border-radius: 1.25rem; }
+.controls label { display: block; font-weight: 600; margin-bottom: .75rem; }
+.controls input { width: 100%; border: 1px solid #65776c; border-radius: .6rem; padding: .9rem 1rem; background: #101820; color: #f7f5ef; font: inherit; }
+.controls input::placeholder { color: #a8b5af; }
+.controls p { color: #b7c3bf; }
+.alphabet { display: flex; flex-wrap: wrap; gap: .45rem; }
+.alphabet button { min-width: 44px; min-height: 44px; padding: .5rem; border-radius: .5rem; }
+.alphabet button:disabled { opacity: .35; cursor: default; }
+.list { display: grid; gap: .85rem; }
+.hymn { position: relative; isolation: isolate; overflow: hidden; border: 1px solid #7eaa8545; border-radius: 1.15rem; background: radial-gradient(ellipse at 100% 0, #4f7a5a30, transparent 65%), #16221e; }
+.hymn::before, .hymn::after { content: ""; position: absolute; pointer-events: none; z-index: -1; width: 140px; height: 140px; border: 1px solid #a9d6ad18; border-radius: 50%; top: -75px; right: -35px; }
+.hymn::after { width: 185px; height: 185px; top: -97px; right: -57px; }
+.hymn summary { display: flex; align-items: center; gap: 1rem; padding: 1.25rem; cursor: pointer; list-style: none; }
+.hymn summary::-webkit-details-marker { display: none; }
+.number { min-width: 3.5rem; color: #b0d4ad; font-size: 1.4rem; font-weight: 700; }
+.numberLabel { display: block; font-size: .65rem; text-transform: uppercase; letter-spacing: .1em; margin-bottom: .2rem; }
+.title { flex: 1; font-size: 1.1rem; font-weight: 650; line-height: 1.5; }
+.chevron { font-size: 1.5rem; color: #b0d4ad; }
+.hymn[open] .chevron { transform: rotate(45deg); }
+.versions { list-style: none; padding: 0 1.25rem 1.25rem; margin: 0; display: grid; gap: .65rem; }
+.versions a { display: flex; align-items: center; gap: .8rem; padding: 1rem; border-radius: .75rem; border: 1px solid #ffffff20; color: #f7f5ef; text-decoration: none; background: #10182099; }
+.versions a:hover { border-color: #b0d4ad; background: #223129; }
+.versions a > span:first-child { flex: 1; min-width: 0; }
+.versionTitle { display: block; margin: .3rem 0; line-height: 1.5; }
+.empty { padding: 2rem 0; }
+@media (max-width: 650px) {
+  .bookChoices { grid-template-columns: 1fr; gap: .6rem; }
+  .bookChoices button { flex-direction: row; align-items: center; padding: 1rem; }
+  .hymn summary { flex-wrap: wrap; gap: .75rem; }
+  .title { flex-basis: calc(100% - 5rem); }
+  .hymn summary > .pill { margin-left: 4.25rem; }
+  .chevron { margin-left: auto; }
+  .versions a { flex-wrap: wrap; }
+  .versions a > span:first-child { flex-basis: 100%; }
+  .controls { padding: 1rem; }
+}

@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const hymnSingles: Song[] = [
   {
     slug: "now-let-us-rejoice-pop",
+    hymnId: "now-let-us-rejoice",
     title: "Now Let Us Rejoice",
     collection: "Hymns",
     releaseType: "Single",
@@ -22,6 +23,7 @@ export const hymnSingles: Song[] = [
 
   {
     slug: "come-come-ye-saints-cinematic-bluegrass",
+    hymnId: "come-come-ye-saints",
     title: "Come, Come, Ye Saints",
     collection: "Hymns",
     releaseType: "Single",
@@ -40,6 +42,7 @@ export const hymnSingles: Song[] = [
   },
 	{
 		slug: "high-on-the-mountain-top-country-folk-rock",
+    hymnId: "high-on-the-mountain-top",
 		title: "High On The Mountain Top",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -58,6 +61,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "lead-kindly-light-cinematic-worship",
+    hymnId: "lead-kindly-light",
 		title: "Lead, Kindly Light",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -76,6 +80,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "guide-us-o-thou-great-jehovah-classic-rock",
+    hymnId: "guide-us-o-thou-great-jehovah",
 		title: "Guide Us, O Thou Great Jehovah",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -94,6 +99,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "o-my-father-power-ballad",
+    hymnId: "o-my-father",
 		title: "O My Father",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -113,6 +119,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "i-stand-all-amazed-pop-ballad",
+    hymnId: "i-stand-all-amazed",
 		title: "I Stand All Amazed",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -132,6 +139,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "count-your-blessings-k-pop-rap",
+    hymnId: "count-your-blessings",
 		title: "Count Your Blessings",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -147,6 +155,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "joseph-smiths-first-prayer-pop-rock",
+    hymnId: "joseph-smiths-first-prayer",
 		title: "Joseph Smith's First Prayer",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -162,6 +171,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "dare-to-do-right-alternative-pop-punk-rock",
+    hymnId: "dare-to-do-right",
 		title: "Dare to Do Right",
 		collection: "Hymns",
 		releaseType: "Single",

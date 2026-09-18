@@ -3,6 +3,7 @@ import type { Song } from "../types";
 export const kidsSingles: Song[] = [
   {
     slug: "now-let-us-rejoice-kids",
+    hymnId: "now-let-us-rejoice",
     title: "Now Let Us Rejoice",
     collection: "Kids",
     releaseType: "Single",
@@ -21,6 +22,7 @@ export const kidsSingles: Song[] = [
   },
   {
     slug: "jesus-once-of-humble-birth-kids",
+    hymnId: "jesus-once-of-humble-birth",
     title: "Jesus, Once of Humble Birth",
     collection: "Kids",
     releaseType: "Single",
