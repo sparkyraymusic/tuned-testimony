@@ -29,12 +29,12 @@ const featuredMusic = [
     href: "/songs/isaiah-53-3-5-with-his-stripes-we-are-healed",
   },
   {
-    title: "Clark G. Gilbert: Come Home",
-    subtitle: "Conference Talk Song — Apr 2026",
+    title: "Jeffrey R. Holland: Lord, I Believe",
+    subtitle: "Conference Talk Song — Apr 2013",
     collection: "Conference",
-    image: "/songs/conference/2026/april/clark-g-gilbert-come-home.png",
+    image: "/songs/conference/2013/april/jeffrey-r-holland-lord-i-believe.png",
     className: "conference",
-    href: "/songs/clark-g-gilbert-come-home",
+    href: "/songs/jeffrey-r-holland-lord-i-believe",
   },
   {
     title: "The Mormon Mafia",

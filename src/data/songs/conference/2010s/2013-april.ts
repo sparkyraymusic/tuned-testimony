@@ -19,6 +19,10 @@ export const april2013ConferenceSongs: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeffrey-r-holland-lord-i-believe-conference-talk-song---apr-2013",
     links: [
       { name: "Cinematic", url: "https://youtu.be/PhEmvb3XRnk", },
+      { name: "Spotify", url: "https://open.spotify.com/track/3KlgIx1ZZawD55riHGxsD7?si=3231d172eb994f2b", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=oimaIZlFIug&si=G_1PnUSPwHacZXrr", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/jeffrey-r-holland-lord-i-believe-conference-talk-song/6808331843", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HHPN96L1?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_XD8fGU0LN2zU6OYR57FK3Kqyn", },
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2013/04/lord-i-believe?lang=eng", },
     ],
   },
