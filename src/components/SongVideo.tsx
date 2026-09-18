@@ -8,7 +8,7 @@ import styles from "./SongVideo.module.css";
 export default function SongVideo({ video, title, artwork }: { video: Video; title: string; artwork: string }) {
   const [playing, setPlaying] = useState(false);
   const [thumbnailFailed, setThumbnailFailed] = useState(false);
-  const label = video.isShort ? "YouTube Short" : "lyric video";
+  const label = video.isShort ? "YouTube Short" : video.isCinematic ? "cinematic video" : "lyric video";
   return (
     <div className={[styles.media, video.isShort ? styles.short : ""].join(" ")}>
       <div className={styles.frame}>

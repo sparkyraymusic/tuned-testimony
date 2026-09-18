@@ -25,6 +25,7 @@ const icons = {
   YouTube: FaYoutube,
   "Lyric Video": FaYoutube,
   "Cinematic": FaYoutube,
+  "Cinematic Lyric Video": FaYoutube,
   "YouTube Lyric Video": FaYoutube,
   "YouTube Short": FaYoutube,
   Spotify: FaSpotify,

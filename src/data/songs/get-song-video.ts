@@ -1,10 +1,10 @@
 import type { StreamingLink } from "./types";
 
-export type SongVideo = { id: string; isShort: boolean };
+export type SongVideo = { id: string; isShort: boolean; isCinematic: boolean };
 
 export function getSongVideo(links: StreamingLink[]): SongVideo | undefined {
   const videos = links.flatMap((link) => {
-    if (!/^(YouTube )?Lyric Video$|^YouTube Shorts?$/i.test(link.name.trim())) return [];
+    if (!/^(YouTube )?Lyric Video$|^YouTube Shorts?$|^Cinematic( Lyric Video)?$/i.test(link.name.trim())) return [];
     try {
       const url = new URL(link.url);
       if (!['https:', 'http:'].includes(url.protocol)) return [];
@@ -17,7 +17,7 @@ export function getSongVideo(links: StreamingLink[]): SongVideo | undefined {
         else if (["shorts", "embed"].includes(parts[0])) id = parts[1];
       }
       if (!id || !/^[a-zA-Z0-9_-]{11}$/.test(id)) return [];
-      return [{ id, isShort: parts[0] === "shorts" || /^YouTube Shorts?$/i.test(link.name.trim()) }];
+      return [{ id, isCinematic: /^Cinematic/i.test(link.name.trim()), isShort: parts[0] === "shorts" || /^YouTube Shorts?$/i.test(link.name.trim()) }];
     } catch { return []; }
   });
   return videos.find(video => !video.isShort) ?? videos[0];
