@@ -53,7 +53,7 @@ export default function HymnsPage() {
                   src={song.image}
                   alt={`${song.title} cover art`}
                   fill
-                  sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, 240px"
+                  sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, (max-width: 1400px) 31vw, 430px"
                   className={styles.singleImage}
                 />
                 </div>
