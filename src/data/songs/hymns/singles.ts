@@ -42,7 +42,7 @@ export const hymnSingles: Song[] = [
   },
 	{
 		slug: "high-on-the-mountain-top-country-folk-rock",
-    hymnId: "high-on-the-mountain-top",
+   	hymnId: "high-on-the-mountain-top",
 		title: "High On The Mountain Top",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -61,7 +61,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "lead-kindly-light-cinematic-worship",
-    hymnId: "lead-kindly-light",
+   	hymnId: "lead-kindly-light",
 		title: "Lead, Kindly Light",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -80,7 +80,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "guide-us-o-thou-great-jehovah-classic-rock",
-    hymnId: "guide-us-o-thou-great-jehovah",
+   	hymnId: "guide-us-o-thou-great-jehovah",
 		title: "Guide Us, O Thou Great Jehovah",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -99,7 +99,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "o-my-father-power-ballad",
-    hymnId: "o-my-father",
+   	hymnId: "o-my-father",
 		title: "O My Father",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -119,7 +119,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "i-stand-all-amazed-pop-ballad",
-    hymnId: "i-stand-all-amazed",
+   	hymnId: "i-stand-all-amazed",
 		title: "I Stand All Amazed",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -139,7 +139,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "count-your-blessings-k-pop-rap",
-    hymnId: "count-your-blessings",
+   	hymnId: "count-your-blessings",
 		title: "Count Your Blessings",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -155,7 +155,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "joseph-smiths-first-prayer-pop-rock",
-    hymnId: "joseph-smiths-first-prayer",
+   	hymnId: "joseph-smiths-first-prayer",
 		title: "Joseph Smith's First Prayer",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -166,12 +166,15 @@ export const hymnSingles: Song[] = [
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/joseph-smiths-first-prayer-poprock",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/Gn1TxPDNukg", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/1gzBT9GbHaUDEJoWiSEpVT?si=82957d7fb24046fb", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=EJpXdnXLw1o&si=UpMZbn7VvNVsd8a8", },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HKBSP57G?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_biAR5dmL9rP2W8InmOko27QTi", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/joseph-smiths-first-prayer?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
 	{
 		slug: "dare-to-do-right-alternative-pop-punk-rock",
-    	hymnId: "dare-to-do-right",
+   	hymnId: "dare-to-do-right",
 		title: "Dare to Do Right",
 		collection: "Hymns",
 		releaseType: "Single",
@@ -186,7 +189,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "battle-hymn-of-the-republic-cinematic-gospel-rock",
-    	hymnId: "battle-hymn-of-the-republic",
+   	hymnId: "battle-hymn-of-the-republic",
 		title: "Battle Hymn of the Republic",
 		collection: "Hymns",
 		releaseType: "Single",
