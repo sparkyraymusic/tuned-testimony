@@ -38,7 +38,7 @@ export default async function SongPage({ params }: SongPageProps) {
     : song.title;
 
   return (
-    <main className={[styles.page, song.collection === "Speeches Songified" ? styles.speeches : song.collection === "Scripture" ? styles.scripture : ""].join(" ")}>
+    <main className={[styles.page, song.collection === "Speeches Songified" ? styles.speeches : song.collection === "Scripture" ? styles.scripture : song.collection === "Conference" ? styles.conference : song.collection === "Originals" ? styles.originals : song.collection === "International" ? styles.international : song.collection === "Kids" ? styles.kids : ""].join(" ")}>
       <SiteHeader />
 			<section className={styles.hero}>
 				<div className={styles.heroGrid}>

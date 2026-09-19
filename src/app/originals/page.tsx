@@ -52,8 +52,9 @@ export default function OriginalsPage() {
                   <Image
                     src={song.image}
                     alt={`${song.title} cover art`}
-                    width={600}
-                    height={600}
+                    width={1600}
+                    height={900}
+                    sizes="(max-width: 600px) 90vw, (max-width: 1000px) 45vw, (max-width: 1400px) 31vw, 430px"
                     className={styles.singleImage}
                   />
                 )}

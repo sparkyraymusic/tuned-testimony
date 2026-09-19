@@ -157,3 +157,7 @@
 .speechMeta dd { margin: 0; color: #d3d9df; }
 
 .scripture .style { color: var(--blue); }
+.conference .style { color: var(--red); }
+.originals .style { color: var(--yellow); }
+.international .style { color: #8b6fa8; }
+.kids .style { color: var(--orange); }
