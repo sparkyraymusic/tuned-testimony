@@ -16,7 +16,9 @@ export default function HymnsByHymnalPage() {
   const entries: HymnalEntry[] = (Object.keys(hymnCatalog) as HymnId[]).map((id) => ({
     id,
     ...hymnCatalog[id],
-    versions: songs.filter((song) => song.hymnId === id).map((song) => ({
+    versions: songs.filter((song) => song.hymnId === id)
+      .sort((a, b) => (b.releaseDate ?? "").localeCompare(a.releaseDate ?? ""))
+      .map((song) => ({
       slug: song.slug, title: song.title, style: song.style,
       collection: song.collection, albumTitle: song.albumTitle,
     })),
