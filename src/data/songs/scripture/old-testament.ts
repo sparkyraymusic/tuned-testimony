@@ -302,7 +302,7 @@ export const oldTestamentSingles: Song[] = [
     description: "A scripture song based on Isaiah 1:18. 'Come now, and let us reason together,' says the Lord...",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-118-white-as-snow-scripture-song",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/KUSV2VIZ4fM", },
+      { name: "Cinematic", url: "https://youtu.be/5qpspVuPIh4", },
       { name: "Spotify", url: "https://open.spotify.com/track/4sLCzvAR4u4Jabck8n9Bzh?si=e01df7c996804a1a", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=a1VJd9RwsW0&si=UKqldukCPsmNDILg", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-1-18-white-as-snow-scripture-song/6784753818", },
