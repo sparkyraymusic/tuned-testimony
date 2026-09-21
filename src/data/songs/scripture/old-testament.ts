@@ -347,6 +347,10 @@ export const oldTestamentSingles: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-2913-14-marvellous-work-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/WH4VtFbxMjA", },
+      { name: "Spotify", url: "https://open.spotify.com/track/12Gk0K5FkgoxYgGYdO0waF?si=94649d4d68c346f6", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=4Fk-4JuOQKQ&si=Iz0oM_vnJm1X3UdX", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-29-13-14-marvelous-work-scripture-song/6791054318", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H8WN2MPS?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_BXdmzSCr9NiXc9akS8L3bxItU", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/29?lang=eng" },
     ],
   },
