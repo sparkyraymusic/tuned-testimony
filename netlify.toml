@@ -1,0 +1,24 @@
+# Send both HymnDrift hostnames to Tuned Testimony, preserving paths and queries.
+[[redirects]]
+  from = "https://hymndrift.com/*"
+  to = "https://tunedtestimony.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://hymndrift.com/*"
+  to = "https://tunedtestimony.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.hymndrift.com/*"
+  to = "https://tunedtestimony.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.hymndrift.com/*"
+  to = "https://tunedtestimony.com/:splat"
+  status = 301
+  force = true
