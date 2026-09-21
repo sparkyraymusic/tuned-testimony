@@ -5,6 +5,8 @@ import SiteFooter from "@/components/SiteFooter";
 import { songs } from "@/data/songs";
 import { scriptureCollections } from "@/data/scripture-collections";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 export default function ScripturePage() {
   return (
@@ -15,6 +17,7 @@ export default function ScripturePage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Scripture Collection</p>
           <h1>Scripture Songs</h1>
+          <PlayAll title="All Scripture Songs" queue={buildListeningQueue(songs.filter(song => song.collection === "Scripture"))} />
           <p>
             Explore scripture set to music, organized by the standard works.
           </p>

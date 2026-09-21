@@ -3,6 +3,8 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { songs } from "@/data/songs";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue, conferenceOrder } from "@/lib/listening";
 
 function speakerSlug(name: string) {
   return name
@@ -67,6 +69,7 @@ export default function ConferenceSpeakersPage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Conference Collection</p>
           <h1>Conference Songs</h1>
+          <PlayAll title="All Conference Songs" queue={buildListeningQueue(songs.filter(song => song.collection === "Conference").sort(conferenceOrder))} />
           <p>
             General Conference messages transformed into music.
           </p>

@@ -4,6 +4,8 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { kidsSingles } from "@/data/songs/kids/singles";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 export default function KidsPage() {
   return (
@@ -14,6 +16,7 @@ export default function KidsPage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Children&apos;s Hymn Collection</p>
           <h1>Children&apos;s Hymns</h1>
+          <PlayAll title="Kids Hymns" queue={buildListeningQueue([...kidsSingles].sort((a, b) => (b.releaseDate ?? "").localeCompare(a.releaseDate ?? "")))} />
           <p>
             Bright, joyful arrangements made for children and families to sing,
             learn, and enjoy together.

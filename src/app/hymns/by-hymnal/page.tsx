@@ -5,6 +5,7 @@ import HymnBrowseNav from "@/components/HymnBrowseNav";
 import HymnalBrowser, { type HymnalEntry } from "@/components/HymnalBrowser";
 import { hymnCatalog, type HymnId } from "@/data/hymnals";
 import { songs } from "@/data/songs";
+import { buildListeningQueue } from "@/lib/listening";
 import styles from "../page.module.css";
 
 export const metadata: Metadata = {
@@ -21,6 +22,7 @@ export default function HymnsByHymnalPage() {
       .map((song) => ({
       slug: song.slug, title: song.title, style: song.style,
       collection: song.collection, albumTitle: song.albumTitle,
+      playback: song.collection === "Hymns" ? buildListeningQueue([song]).tracks[0] : undefined,
     })),
   })).filter((entry) => entry.versions.length > 0);
 

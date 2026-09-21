@@ -5,6 +5,8 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { songs } from "@/data/songs";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 export const metadata: Metadata = {
   title: "Speeches Songified | Tuned Testimony",
@@ -24,6 +26,7 @@ export default function SpeechesSongifiedPage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Good words. Lasting melodies.</p>
           <h1>Speeches Songified</h1>
+          <PlayAll title="Speeches Songified" queue={buildListeningQueue(speechSongs)} />
           <p>Inspiring speeches transformed into music, carrying messages of faith, grace, and hope into everyday life.</p>
           <Link href="/#music" className="button button-secondary">Back to Collections</Link>
         </div>
@@ -39,6 +42,7 @@ export default function SpeechesSongifiedPage() {
           return (
             <details key={speaker} className={styles.speaker} name="speech-speaker" open={speakers.length === 1}>
               <summary><span>{speaker}</span><span className={styles.pill}>{speakerSongs.length} {speakerSongs.length === 1 ? "song" : "songs"}</span></summary>
+              <PlayAll title={speaker} queue={buildListeningQueue(speakerSongs)} />
               <div className={styles.grid}>
                 {speakerSongs.map(song => (
                   <Link key={song.slug} href={"/songs/" + song.slug} className={styles.card}>

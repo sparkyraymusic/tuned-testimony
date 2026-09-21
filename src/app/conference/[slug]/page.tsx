@@ -6,6 +6,8 @@ import SiteFooter from "@/components/SiteFooter";
 import { conferences } from "@/data/conferences";
 import { songs } from "@/data/songs";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue, conferenceOrder } from "@/lib/listening";
 
 
 
@@ -51,6 +53,7 @@ export default async function ConferenceDetailPage({
         <div className={styles.heroContent}>
           <p className="eyebrow">Conference Songs</p>
           <h1>{conference.title}</h1>
+          <PlayAll title={conference.title} queue={buildListeningQueue([...conferenceSongs].sort(conferenceOrder))} />
           <p>
             Songs inspired by messages from {conference.title}, organized in
             conference order.
@@ -88,6 +91,7 @@ export default async function ConferenceDetailPage({
           return (
             <section className={styles.sessionSection} key={session.name}>
               <h2>{session.name}</h2>
+              <PlayAll title={`${conference.title} · ${session.name}`} queue={buildListeningQueue(sessionSongs)} />
 
               <div className={styles.trackList}>
                 {sessionSongs.map((song) => (

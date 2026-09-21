@@ -4,6 +4,8 @@ import SiteFooter from "@/components/SiteFooter";
 import { conferences } from "@/data/conferences";
 import { songs } from "@/data/songs";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue, conferenceOrder } from "@/lib/listening";
 
 export default function ConferencePage() {
   const songCounts = new Map<string, number>();
@@ -36,6 +38,7 @@ export default function ConferencePage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Conference Collection</p>
           <h1>Conference Songs</h1>
+          <PlayAll title="All Conference Songs" queue={buildListeningQueue(songs.filter(song => song.collection === "Conference").sort(conferenceOrder))} />
           <p>
             General Conference messages transformed into music.
           </p>
@@ -96,6 +99,7 @@ export default function ConferencePage() {
                       : "conferences"}
                   </span>
                 </summary>
+                <PlayAll title={`${decade}s Conferences`} queue={buildListeningQueue(songs.filter(song => song.collection === "Conference" && Math.floor((song.conferenceYear ?? 0) / 10) * 10 === decade).sort(conferenceOrder))} />
 
                 <div className={styles.conferenceGrid}>
                   {decadeConferences.map((conference) => {

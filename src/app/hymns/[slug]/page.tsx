@@ -6,6 +6,9 @@ import { hymnAlbums } from "@/data/hymn-albums";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import StreamingLinks from "@/components/StreamingLinks";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
+import { songs } from "@/data/songs";
 
 type HymnAlbumPageProps = {
   params: Promise<{
@@ -41,6 +44,13 @@ export default async function HymnAlbumPage({
           <div className={styles.heroContent}>
             <p className="eyebrow">Hymns Collection</p>
             <h1>{album.title}</h1>
+            <PlayAll title={album.title} queue={{
+              ...buildListeningQueue(album.tracks.flatMap(track => {
+                const song = songs.find(song => song.slug === track.songSlug);
+                return song ? [song] : [];
+              })),
+              total: album.tracks.length,
+            }} />
             <p className={styles.subtitle}>{album.subtitle}</p>
 						{album.links.length > 0 && (
 							<StreamingLinks

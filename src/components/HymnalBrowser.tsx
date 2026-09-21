@@ -4,12 +4,14 @@ import { useState } from "react";
 import Link from "next/link";
 import { hymnals, type HymnalId } from "@/data/hymnals";
 import styles from "./HymnalBrowser.module.css";
+import PlayAll from "./PlayAll";
+import type { QueueTrack } from "@/lib/listening";
 
 export type HymnalEntry = {
   id: string;
   title: string;
   numbers: Partial<Record<HymnalId, string>>;
-  versions: { slug: string; title: string; style: string; collection: string; albumTitle?: string }[];
+  versions: { slug: string; title: string; style: string; collection: string; albumTitle?: string; playback?: QueueTrack }[];
 };
 
 export default function HymnalBrowser({ entries }: { entries: HymnalEntry[] }) {
@@ -25,6 +27,7 @@ export default function HymnalBrowser({ entries }: { entries: HymnalEntry[] }) {
     (!search || entry.numbers[book]!.toLowerCase().startsWith(search.replace(/^#/, "")) ||
       entry.title.toLocaleLowerCase().includes(search) ||
       entry.versions.some((version) => version.title.toLocaleLowerCase().includes(search))));
+  const englishVersions = visible.flatMap(entry => entry.versions.filter(version => version.collection === "Hymns"));
 
   return (
     <div className={styles.browser}>
@@ -55,6 +58,11 @@ export default function HymnalBrowser({ entries }: { entries: HymnalEntry[] }) {
         </div>
       </div>
       <p className={styles.note} role="status">{visible.length} {visible.length === 1 ? "hymn" : "hymns"} &middot; {visible.reduce((count, entry) => count + entry.versions.length, 0)} versions</p>
+      <PlayAll title={`${hymnal.title}${search || letter ? " · Filtered hymns" : ""}`} queue={{
+        tracks: englishVersions.flatMap(version => version.playback ? [version.playback] : []),
+        total: englishVersions.length,
+      }} />
+      <p className={styles.note}>Play All follows the current selection and includes main English arrangements. Listen to Kids and International versions in their own collections.</p>
       <div className={styles.list} key={book}>
         {visible.map((entry) => (
           <details key={entry.id} className={styles.hymn}>
@@ -64,6 +72,10 @@ export default function HymnalBrowser({ entries }: { entries: HymnalEntry[] }) {
               <span className={styles.pill}>{entry.versions.length} {entry.versions.length === 1 ? "version" : "versions"}</span>
               <span className={styles.chevron} aria-hidden="true">+</span>
             </summary>
+            <PlayAll title={entry.title} queue={{
+              tracks: entry.versions.flatMap(version => version.playback ? [version.playback] : []),
+              total: entry.versions.filter(version => version.collection === "Hymns").length,
+            }} />
             <ul className={styles.versions}>
               {entry.versions.map((version) => (
                 <li key={version.slug}>

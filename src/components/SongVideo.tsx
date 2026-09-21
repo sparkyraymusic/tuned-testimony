@@ -1,13 +1,20 @@
 "use client";
 
 import Image from "next/image";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { useListening } from "./ListeningProvider";
 import type { SongVideo as Video } from "@/data/songs/get-song-video";
 import styles from "./SongVideo.module.css";
 
 export default function SongVideo({ video, title, artwork }: { video: Video; title: string; artwork: string }) {
   const [playing, setPlaying] = useState(false);
   const [thumbnailFailed, setThumbnailFailed] = useState(false);
+  const { stop } = useListening();
+  useEffect(() => {
+    const stopVideo = () => setPlaying(false);
+    window.addEventListener("tuned-testimony:stop-video", stopVideo);
+    return () => window.removeEventListener("tuned-testimony:stop-video", stopVideo);
+  }, []);
   const label = video.isShort ? "YouTube Short" : video.isCinematic ? "cinematic video" : "lyric video";
   return (
     <div className={[styles.media, video.isShort ? styles.short : ""].join(" ")}>
@@ -21,7 +28,7 @@ export default function SongVideo({ video, title, artwork }: { video: Video; tit
             referrerPolicy="strict-origin-when-cross-origin"
           />
         ) : (
-          <button className={styles.preview} onClick={() => setPlaying(true)} aria-label={"Play " + label + " for " + title}>
+          <button className={styles.preview} onClick={() => { stop(); setPlaying(true); }} aria-label={"Play " + label + " for " + title}>
             <Image
               src={thumbnailFailed ? artwork : "https://i.ytimg.com/vi/" + video.id + "/hqdefault.jpg"}
               alt=""

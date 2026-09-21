@@ -5,6 +5,8 @@ import SiteFooter from "@/components/SiteFooter";
 import { songs } from "@/data/songs";
 import { scriptureCollections } from "@/data/scripture-collections";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 type PageProps = {
   params: Promise<{
@@ -56,6 +58,7 @@ export default async function ScriptureCollectionPage({
         <div className={styles.heroContent}>
           <p className="eyebrow">Scripture Collection</p>
           <h1>{collection.title}</h1>
+          <PlayAll title={collection.title} queue={buildListeningQueue(collectionSongs)} />
           <p>{collection.subtitle}</p>
 
           <Link className="button button-secondary" href="/scripture">
@@ -78,6 +81,7 @@ export default async function ScriptureCollectionPage({
                   </span>
                   <span className={styles.chevron} aria-hidden="true" />
                 </summary>
+                <PlayAll title={`${collection.title} · ${book}`} queue={buildListeningQueue(bookSongs)} />
 
                 <div className={styles.songList}>
                   {bookSongs.map((song) => (

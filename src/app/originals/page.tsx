@@ -4,6 +4,8 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { originalSingles } from "@/data/songs/originals/singles";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 export default function OriginalsPage() {
   return (
@@ -14,6 +16,7 @@ export default function OriginalsPage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Originals Collection</p>
           <h1>Original Songs</h1>
+          <PlayAll title="Original Songs" queue={buildListeningQueue([...originalSingles].sort((a, b) => (b.releaseDate ?? "").localeCompare(a.releaseDate ?? "")))} />
           <p>
             Faith, family, humor, life, and everything in between—original
             songs written to tell stories, share testimony, and occasionally

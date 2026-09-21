@@ -4,6 +4,8 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { internationalSingles } from "@/data/songs/international/singles";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 const languageLabels: Record<string, { nativeName: string; code: string }> = {
   Portuguese: { nativeName: "Português", code: "pt" },
@@ -30,6 +32,7 @@ export default function InternationalPage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">International Collection</p>
           <h1>International Hymns</h1>
+          <PlayAll title="International Hymns" queue={buildListeningQueue(languages.flatMap(language => internationalSingles.filter(song => song.style === language).sort((a, b) => (b.releaseDate ?? "").localeCompare(a.releaseDate ?? ""))))} />
           <p>
             Beloved hymns shared across languages and cultures, celebrating
             faith and testimony through music from around the world.
@@ -66,6 +69,7 @@ export default function InternationalPage() {
                   </span>
                   <span className={styles.languageChevron} aria-hidden="true" />
                 </summary>
+                <PlayAll title={`${language} Hymns`} queue={buildListeningQueue(songs)} />
                 <div className={styles.singlesGrid}>
                   {songs.map((song) => (
                     <Link key={song.slug} href={`/songs/${song.slug}`} className={styles.singleCard}>

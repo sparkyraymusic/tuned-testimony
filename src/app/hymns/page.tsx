@@ -6,6 +6,9 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { hymnSingles } from "@/data/songs/hymns/singles";
 import HymnBrowseNav from "@/components/HymnBrowseNav";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
+import { songs } from "@/data/songs";
 
 export default function HymnsPage() {
   return (
@@ -15,6 +18,7 @@ export default function HymnsPage() {
         <div className={styles.heroContent}>
           <p className="eyebrow">Hymns Collection</p>
           <h1>Hymns</h1>
+          <PlayAll title="All Hymns" queue={buildListeningQueue(songs.filter(song => song.collection === "Hymns"))} />
           <p>
             Timeless hymns reimagined in new musical styles while preserving
             the faith, testimony, and message at their heart.
@@ -30,6 +34,7 @@ export default function HymnsPage() {
         <div className={styles.sectionHeading}>
           <p className="eyebrow">Latest Releases</p>
           <h2>Recent Singles</h2>
+          <PlayAll title="Hymn Singles" queue={buildListeningQueue([...hymnSingles].sort((a, b) => (b.releaseDate ?? "").localeCompare(a.releaseDate ?? "")))} />
           <p>
             The latest hymn arrangements released by Tuned Testimony.
           </p>

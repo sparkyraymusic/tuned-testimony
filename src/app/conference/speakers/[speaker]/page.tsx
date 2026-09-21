@@ -4,6 +4,8 @@ import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
 import { songs } from "@/data/songs";
 import styles from "./page.module.css";
+import PlayAll from "@/components/PlayAll";
+import { buildListeningQueue } from "@/lib/listening";
 
 function speakerSlug(name: string) {
   return name
@@ -79,6 +81,7 @@ export default async function SpeakerDetailPage({
         <div className={styles.heroContent}>
           <p className="eyebrow">Conference Collection</p>
           <h1>{speakerName}</h1>
+          <PlayAll title={speakerName ?? "Conference Speaker"} queue={buildListeningQueue(speakerSongs)} />
           <p>
             Conference Talk Songs inspired by messages from {speakerName}.
           </p>
@@ -113,6 +116,7 @@ export default async function SpeakerDetailPage({
 									{songsByDecade[decade].length === 1 ? "song" : "songs"}
 								</span>
 							</summary>
+							<PlayAll title={`${speakerName} · ${decade}s`} queue={buildListeningQueue(songsByDecade[decade])} />
 
 							<div className={styles.songList}>
 								{songsByDecade[decade].map((song) => (
