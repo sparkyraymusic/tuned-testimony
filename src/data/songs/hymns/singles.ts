@@ -1,3 +1,4 @@
+import { url } from "inspector/promises";
 import type { Song } from "../types";
 
 export const hymnSingles: Song[] = [
@@ -168,6 +169,7 @@ export const hymnSingles: Song[] = [
 			{ name: "Cinematic", url: "https://youtu.be/Gn1TxPDNukg", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/1gzBT9GbHaUDEJoWiSEpVT?si=82957d7fb24046fb", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=EJpXdnXLw1o&si=UpMZbn7VvNVsd8a8", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/joseph-smiths-first-prayer-pop-rock/6813779262", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HKBSP57G?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_biAR5dmL9rP2W8InmOko27QTi", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/joseph-smiths-first-prayer?crumbs=hymns&order=number&lang=eng", },
 		],
@@ -178,7 +180,7 @@ export const hymnSingles: Song[] = [
 		title: "Dare to Do Right",
 		collection: "Hymns",
 		releaseType: "Single",
-		releaseDate: "2026-09-19",
+		releaseDate: "2026-10-03",
 		style: "Alternative Pop Punk Rock",
 		description: "An Alternative Pop Punk Rock reimagining of the hymn Dare to Do Right.",
 		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.png",
@@ -200,7 +202,27 @@ export const hymnSingles: Song[] = [
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/battle-hymn-of-the-republic-cinematic-gospel-rock",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/w3Ctda6ukAk", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/4pOsG2n1RefglAFJwj9GoP?si=4db96623b50947db", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=QV7bmTJtDrY&si=dPDOHwlWhDcUShwm", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/battle-hymn-of-the-republic-cinematic-gospel-rock/6814127571", },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HKDY98HV?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_GYDlUutX5ulzmygaFSKsp3Vh0", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/battle-hymn-of-the-republic?crumbs=hymns&order=number&lang=eng", },
+		],
+	},
+	{
+		slug: "a-poor-wayfaring-man-of-grief-country-ballad",
+   	hymnId: "a-poor-wayfaring-man-of-grief",
+		title: "A Poor Wayfaring Man of Grief",
+		collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-09-26",
+		style: "Country Ballad",
+		description: "A Country Ballad reimagining of the all time classic hymn A Poor Wayfaring Man of Grief.",
+		image: "/songs/hymns/a-poor-wayfaring-man-of-grief-country-ballad.png",
+		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/a-poor-wayfaring-man-of-grief-country-ballad",
+		links: [
+			{ name: "Cinematic", url: "https://youtu.be/kqWz9y6dtr0", },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/a-poor-wayfaring-man-of-grief?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
 ];
