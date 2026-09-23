@@ -16,7 +16,7 @@ const featuredMusic = [
     title: "Joseph Smith's First Prayer",
     subtitle: "Pop/Rock Version",
     collection: "Hymns",
-    image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.png",
+    image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.webp",
     className: "hymns",
     href: "/songs/joseph-smiths-first-prayer-pop-rock",
   },
@@ -24,7 +24,7 @@ const featuredMusic = [
     title: "Isaiah 53:3-5",
     subtitle: "With His Stripes We Are Healed",
     collection: "Scripture",
-    image: "/songs/scripture/old-testament/isaiah-53-3-5-with-his-stripes-we-are-healed-tn.png",
+    image: "/songs/scripture/old-testament/isaiah-53-3-5-with-his-stripes-we-are-healed-tn.webp",
     className: "scripture",
     href: "/songs/isaiah-53-3-5-with-his-stripes-we-are-healed",
   },
@@ -32,7 +32,7 @@ const featuredMusic = [
     title: "Jeffrey R. Holland: Lord, I Believe",
     subtitle: "Conference Talk Song — Apr 2013",
     collection: "Conference",
-    image: "/songs/conference/2013/april/jeffrey-r-holland-lord-i-believe.png",
+    image: "/songs/conference/2013/april/jeffrey-r-holland-lord-i-believe.webp",
     className: "conference",
     href: "/songs/jeffrey-r-holland-lord-i-believe",
   },
@@ -40,7 +40,7 @@ const featuredMusic = [
     title: "The Mormon Mafia",
     subtitle: "Original Song",
     collection: "Originals",
-    image: "/songs/originals/mormon-mafia.png",
+    image: "/songs/originals/mormon-mafia.webp",
     className: "originals",
     href: "/songs/the-mormon-mafia",
   },
@@ -63,10 +63,11 @@ export default function Home() {
         <div className={styles.heroContent}>
           <Image
             className={styles.heroLogo}
-            src="/brand/wordmark.png"
+            src="/brand/wordmark.webp"
             alt="Tuned Testimony"
             width={1200}
             height={474}
+            sizes="(max-width: 714px) calc(100vw - 64px), 650px"
             priority
           />
           <p className={styles.tagline}>Cherished Words. Fresh Take.</p>
@@ -104,6 +105,7 @@ export default function Home() {
                     width={1600}
                     height={900}
                     className={styles.featuredImage}
+                    sizes="(max-width: 800px) calc(100vw - 104px), 381px"
                   />
                 </div>
 
@@ -175,10 +177,11 @@ export default function Home() {
               <Link href="/hymns" className={`${styles.collectionCard} ${styles.collectionCardImage} ${styles.hymns}`}>
                 <div className={styles.collectionImageWrap}>
                   <Image
-                    src="/collections/hymns.png"
+                    src="/collections/hymns.webp"
                     alt="Hymns"
                     width={1600}
                     height={900}
+                    sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px"
                     className={styles.collectionImage}
                   />
                 </div>
@@ -194,10 +197,11 @@ export default function Home() {
               >
                 <div className={styles.collectionImageWrap}>
                   <Image
-                    src="/collections/scriptures.png"
+                    src="/collections/scriptures.webp"
                     alt="Scripture Songs"
                     width={1600}
                     height={900}
+                    sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px"
                     className={styles.collectionImage}
                   />
                 </div>
@@ -212,10 +216,11 @@ export default function Home() {
               <Link href="/conference" className={`${styles.collectionCard} ${styles.collectionCardImage} ${styles.conference}`}>
                 <div className={styles.collectionImageWrap}>
                   <Image
-                    src="/collections/conference.png"
+                    src="/collections/conference.webp"
                     alt="Conference Talk Songs"
                     width={1600}
                     height={900}
+                    sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px"
                     className={styles.collectionImage}
                   />
                 </div>
@@ -229,7 +234,7 @@ export default function Home() {
               </Link>
               <Link href="/speeches-songified" className={[styles.collectionCard, styles.collectionCardImage, styles.speeches].join(" ")}>
                 <div className={styles.collectionImageWrap}>
-                  <Image src="/collections/speeches-songified-text-free.png" alt="Speeches Songified" width={1672} height={941} sizes="(max-width: 700px) 100vw, 55vw" className={styles.collectionImage} />
+                  <Image src="/collections/speeches-songified-text-free.webp" alt="Speeches Songified" width={1672} height={941} sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px" className={styles.collectionImage} />
                 </div>
                 <div className={styles.collectionCardContent}>
                   <h3>Speeches Songified</h3>
@@ -240,10 +245,11 @@ export default function Home() {
               <Link href="/originals" className={`${styles.collectionCard} ${styles.collectionCardImage} ${styles.originals}`}>
                 <div className={styles.collectionImageWrap}>
                   <Image
-                    src="/collections/originals.png"
+                    src="/collections/originals.webp"
                     alt="Original Songs"
                     width={1600}
                     height={900}
+                    sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px"
                     className={styles.collectionImage}
                   />
                 </div>
@@ -258,10 +264,11 @@ export default function Home() {
               <Link href="/international" className={`${styles.collectionCard} ${styles.collectionCardImage} ${styles.international}`}>
                 <div className={styles.collectionImageWrap}>
                   <Image
-                    src="/collections/international.png"
+                    src="/collections/international.webp"
                     alt="International Hymns"
                     width={1600}
                     height={900}
+                    sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px"
                     className={styles.collectionImage}
                   />
                 </div>
@@ -276,10 +283,11 @@ export default function Home() {
               <Link href="/kids" className={`${styles.collectionCard} ${styles.collectionCardImage} ${styles.childrens}`}>
                 <div className={styles.collectionImageWrap}>
                   <Image
-                    src="/collections/childrens.png"
+                    src="/collections/childrens.webp"
                     alt="Children's Hymns"
                     width={1600}
                     height={900}
+                    sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1164px) calc(55vw - 36px), 600px"
                     className={styles.collectionImage}
                   />
                 </div>

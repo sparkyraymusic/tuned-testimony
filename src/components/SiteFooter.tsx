@@ -41,7 +41,7 @@ const socialLinks = [
 export default function SiteFooter() {
   return (
     <footer className={styles.footer}>
-      <Link href="/" aria-label="Tuned Testimony home" className={styles.brand}><Image src="/brand/mark.png" alt="" width={36} height={26} /><span>Tuned Testimony</span></Link>
+      <Link href="/" aria-label="Tuned Testimony home" className={styles.brand}><Image src="/brand/mark.webp" alt="" width={36} height={26} /><span>Tuned Testimony</span></Link>
       <p>© 2026 Tuned Testimony</p>
 
       <div className={styles.socialLinks}>

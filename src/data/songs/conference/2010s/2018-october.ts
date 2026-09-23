@@ -7,7 +7,7 @@ export const october2018ConferenceSongs: Song[] = [
     collection: "Conference",
     releaseType: "Single",
     style: "Conference Talk Song",
-    image: "/songs/conference/2018/october/russell-m-nelson-the-correct-name-of-the-church.png",
+    image: "/songs/conference/2018/october/russell-m-nelson-the-correct-name-of-the-church.webp",
     conferenceYear: 2018,
     conferenceMonth: "October",
     conferenceSession: "Sunday Morning",

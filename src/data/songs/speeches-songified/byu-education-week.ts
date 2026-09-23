@@ -12,7 +12,7 @@ export const byuEducationWeekSongs: Song[] = [
     speechTitle: "Peace and Rest—Even Now",
     speechDate: "2026-08-18",
     releaseDate: "2026-09-13",
-    image: "/songs/speeches-songified/byu-education-week/patrick-kearon-peace-and-rest-even-now.png",
+    image: "/songs/speeches-songified/byu-education-week/patrick-kearon-peace-and-rest-even-now.webp",
     description: "A song inspired by Patrick Kearon's BYU Education Week message, Peace and Rest—Even Now, inviting us to slow down and find peace and rest in Jesus Christ.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/peace-and-resteven-now-speeches-songified",
     links: [

@@ -11,7 +11,7 @@ export const josephsVisionSongs: Song[] = [
     albumSlug: "josephs-vision",
     albumTitle: "Joseph's Vision",
     releaseDate: "2025-04-18",
-    image: "/albums/josephs-vision.png",
+    image: "/albums/josephs-vision.webp",
     description: "A bright Pop reimagining of Joseph Smith's First Prayer, celebrating the courage and peace that come from choosing what is right.",
     links: [
       { name: "YouTube Short", url: "https://youtube.com/shorts/VAeGeWVLU2M?feature=share", },
@@ -31,7 +31,7 @@ export const josephsVisionSongs: Song[] = [
     albumSlug: "josephs-vision",
     albumTitle: "Joseph's Vision",
     releaseDate: "2025-04-18",
-    image: "/albums/josephs-vision.png",
+    image: "/albums/josephs-vision.webp",
     description: "A vibrant Pop reimagining of We Thank Thee, O God, for a Prophet, expressing gratitude for the guidance and inspiration provided by our prophets.",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/track/2mOgnbObTkzGPh5sM9v5Mx?si=0fccd31a9f184041", },
@@ -50,7 +50,7 @@ export const josephsVisionSongs: Song[] = [
     albumSlug: "josephs-vision",
     albumTitle: "Joseph's Vision",
     releaseDate: "2025-04-18",
-    image: "/albums/josephs-vision.png",
+    image: "/albums/josephs-vision.webp",
     description: "A vibrant Pop reimagining of Come, Ye Children of the Lord, encouraging us to come unto Christ and find peace and joy in His presence.",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/track/5mLDNgbnxN4o3S0UovRB8A?si=98307494e41f41a1", },
@@ -69,7 +69,7 @@ export const josephsVisionSongs: Song[] = [
     albumSlug: "josephs-vision",
     albumTitle: "Joseph's Vision",
     releaseDate: "2025-04-18",
-    image: "/albums/josephs-vision.png",
+    image: "/albums/josephs-vision.webp",
     description: "A vibrant Pop/Rock reimagining of A Poor Wayfaring Man of Grief, reminding us to find strength in our trials and trust in God's plan.",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/track/1obMwNnHqWYnIkdMpye6RW?si=cd25d5161a0f4819", },
@@ -88,7 +88,7 @@ export const josephsVisionSongs: Song[] = [
     albumSlug: "josephs-vision",
     albumTitle: "Joseph's Vision",
     releaseDate: "2025-04-18",
-    image: "/albums/josephs-vision.png",
+    image: "/albums/josephs-vision.webp",
     description: "An uplifting Pop/Rock reimagining of Praise to the Man, encouraging us to celebrate God's greatness and His love for us.",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/track/4AuCjtKZeCZDW2oGfruwK7?si=fe29920938a243fa", },
@@ -107,7 +107,7 @@ export const josephsVisionSongs: Song[] = [
     albumSlug: "josephs-vision",
     albumTitle: "Joseph's Vision",
     releaseDate: "2025-04-18",
-    image: "/albums/josephs-vision.png",
+    image: "/albums/josephs-vision.webp",
     description: "A powerful Rock reimagining of the Battle Hymn of the Republic, inspiring courage and determination in the face of adversity.",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/track/14f6lQzjj4NcRhJjrbVBbN?si=4cf98af181034acf", },

@@ -72,6 +72,7 @@ export default async function ConferenceDetailPage({
             alt={`${conference.title} artwork`}
             width={800}
             height={800}
+            sizes="(max-width: 600px) calc(100vw - 40px), 536px"
             className={styles.conferenceArt}
             priority
           />

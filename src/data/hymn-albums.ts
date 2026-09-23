@@ -23,7 +23,7 @@ export const hymnAlbums: HymnAlbum[] = [
 		slug: "josephs-vision",
 		title: "Joseph's Vision",
 		subtitle: "Hymns celebrating Joseph Smith and the Restoration",
-		image: "/albums/josephs-vision.png",
+		image: "/albums/josephs-vision.webp",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/61SUeXDxeyO4lokvcE3Ggv", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/josephs-vision-ep/1808667843?uo=4", },
@@ -43,7 +43,7 @@ export const hymnAlbums: HymnAlbum[] = [
 		slug: "goodly",
 		title: "Goodly",
 		subtitle: "Hymns of good, righteous living",
-		image: "/albums/goodly.png",
+		image: "/albums/goodly.webp",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/4T4rzzi6Pf9naxK09dtVf7", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/goodly/1806334479?uo=4", },
@@ -70,7 +70,7 @@ export const hymnAlbums: HymnAlbum[] = [
     slug: "primary-days",
     title: "Primary Days",
     subtitle: "Timeless songs. Eternal truths.",
-    image: "/albums/primary-days.png",
+    image: "/albums/primary-days.webp",
 		links: [
 			{ name: "YouTube Lyric Videos", url: "https://www.youtube.com/playlist?list=PLHfoT_AcfQVg", },
 			{ name: "Spotify", url: "https://open.spotify.com/album/5PUQtHwAmD4tIW2FV6Eg6x", },
@@ -105,7 +105,7 @@ export const hymnAlbums: HymnAlbum[] = [
 		slug: "ever-near",
 		title: "Ever Near",
 		subtitle: "Hymns of faith, peace & trust in our Savior",
-		image: "/albums/ever-near.png",
+		image: "/albums/ever-near.webp",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/7E02uOPavm4CUnNvO0ekon", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/ever-near/1820876435?uo=4", },
@@ -132,7 +132,7 @@ export const hymnAlbums: HymnAlbum[] = [
     slug: "a-royal-army",
     title: "A Royal Army",
     subtitle: "Songs of faith and service",
-    image: "/albums/a-royal-army.png",
+    image: "/albums/a-royal-army.webp",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/6dLIBhdQvfLIzCyydFYfsZ?si=f6ilDUKYSfGRkGD0p6DVVg", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/a-royal-army/1805825127", },
@@ -158,7 +158,7 @@ export const hymnAlbums: HymnAlbum[] = [
 		slug: "boundless-grace",
 		title: "Boundless Grace",
 		subtitle: "Hymns of grace, trust, and devotion",
-		image: "/albums/boundless-grace.png",
+		image: "/albums/boundless-grace.webp",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/3yZH1s9wJXYcnNjyB2h5Re?si=WcOnpR7mQ6eXzN6eI8vgXA", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/boundless-grace/1876124846", },

@@ -11,7 +11,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Genesis",
     scriptureReference: "Genesis 1:26-27",
     releaseDate: "2026-01-12",
-    image: "/songs/scripture/old-testament/genesis-1-26-27-in-his-image.png",
+    image: "/songs/scripture/old-testament/genesis-1-26-27-in-his-image.webp",
     description: "A Scripture Song based on Genesis 1:26–27, celebrating the divine truth that men and women were created in the image and likeness of God.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-genesis-126-27-in-his-image",
     links: [
@@ -33,7 +33,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Genesis",
     scriptureReference: "Genesis 2:24",
     releaseDate: "2025-12-27",
-    image: "/songs/scripture/old-testament/genesis-2-24-one-flesh.png",
+    image: "/songs/scripture/old-testament/genesis-2-24-one-flesh.webp",
     description: "A Scripture Song based on Genesis 2:24, teaching the sacred union of husband and wife as they leave father and mother, cleave to one another, and become one flesh.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-genesis-224-one-flesh",
     links: [
@@ -55,7 +55,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Genesis",
     scriptureReference: "Genesis 39:9",
     releaseDate: "2026-03-09",
-    image: "/songs/scripture/old-testament/genesis-39-9-no-sin-against-god.png",
+    image: "/songs/scripture/old-testament/genesis-39-9-no-sin-against-god.webp",
     description: "A Scripture Song based on Genesis 39:9 and Joseph’s refusal to betray his trust or sin against God, celebrating integrity and faithfulness in the face of temptation.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-genesis-399-no-sin-against-god",
     links: [
@@ -77,7 +77,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Exodus",
     scriptureReference: "Exodus 20:3-17",
     releaseDate: "2026-04-20",
-    image: "/songs/scripture/old-testament/exodus-20-3-17-the-ten-commandments.png",
+    image: "/songs/scripture/old-testament/exodus-20-3-17-the-ten-commandments.webp",
     description: "A Scripture Song based on Exodus 20:3–17, setting the Ten Commandments to music as a memorable reminder of God’s commandments and our covenant responsibility to follow Him.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-exodus-203-17-the-ten-commandments",
     links: [
@@ -99,7 +99,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Exodus",
     scriptureReference: "Exodus 33:11",
     releaseDate: "2026-04-20",
-    image: "/songs/scripture/old-testament/exodus-33-11-face-to-face.png",
+    image: "/songs/scripture/old-testament/exodus-33-11-face-to-face.webp",
     description: "A Scripture Song based on Exodus 33:11, remembering the remarkable relationship between the Lord and Moses as they spoke face to face, as a man speaks with his friend.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-exodus-3311-face-to-face",
     links: [
@@ -121,7 +121,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Leviticus",
     scriptureReference: "Leviticus 19:18",
     releaseDate: "2026-04-27",
-    image: "/songs/scripture/old-testament/leviticus-19-18-love-thy-neighbor.png",
+    image: "/songs/scripture/old-testament/leviticus-19-18-love-thy-neighbor.webp",
     description: "A Scripture Song based on Leviticus 19:18 and the timeless commandment to reject vengeance and grudges and instead love our neighbors as ourselves.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-leviticus-1918-love-thy-neighbor",
     links: [
@@ -143,7 +143,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Deuteronomy",
     scriptureReference: "Deuteronomy 7:3-4",
     releaseDate: "2026-05-11",
-    image: "/songs/scripture/old-testament/deuteronomy-7-3-4-keep-my-covenant.png",
+    image: "/songs/scripture/old-testament/deuteronomy-7-3-4-keep-my-covenant.webp",
     description: "A Scripture Song based on Deuteronomy 7:3–4, emphasizing covenant faithfulness and the importance of guarding against influences that can turn our hearts away from God.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-deuteronomy-73-4-keep-my-covenant",
     links: [
@@ -165,7 +165,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Joshua",
     scriptureReference: "Joshua 1:8",
     releaseDate: "2026-05-18",
-    image: "/songs/scripture/old-testament/joshua-1-8-meditate-day-and-night.png",
+    image: "/songs/scripture/old-testament/joshua-1-8-meditate-day-and-night.webp",
     description: "A Scripture Song based on Joshua 1:8, encouraging us to keep the word of God close, meditate upon it day and night, and faithfully live what it teaches.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-joshua-18-meditate-day--night",
     links: [
@@ -187,7 +187,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Joshua",
     scriptureReference: "Joshua 24:15",
     releaseDate: "2026-05-18",
-    image: "/songs/scripture/old-testament/joshua-24-15-choose-this-day.png",
+    image: "/songs/scripture/old-testament/joshua-24-15-choose-this-day.webp",
     description: "A Scripture Song based on Joshua 24:15 and Joshua’s bold declaration of commitment: choose whom you will serve, but as for me and my house, we will serve the Lord.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-joshua-2415-choose-this-day",
     links: [
@@ -210,7 +210,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "1 Samuel",
     scriptureReference: "1 Samuel 16:7",
-    image: "/songs/scripture/old-testament/1-samuel-16-7-looketh-on-the-heart.png",
+    image: "/songs/scripture/old-testament/1-samuel-16-7-looketh-on-the-heart.webp",
     description: "A scripture song based on 1 Samuel 16:7 and its reminder that the Lord looks on the heart.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/1-samuel-167-looketh-on-the-heart-scripture-song",
     links: [
@@ -232,7 +232,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Job",
     scriptureReference: "Job 19:25-26",
-    image: "/songs/scripture/old-testament/job-19-25-26-my-redeemer-liveth.png",
+    image: "/songs/scripture/old-testament/job-19-25-26-my-redeemer-liveth.webp",
     description: "A scripture song based on Job 19:25-26 and Job's testimony that his Redeemer lives.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/job-1925-26-my-redeemer-liveth-scripture-song",
     links: [
@@ -254,7 +254,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Psalms",
     scriptureReference: "Psalm 24:3-4",
-    image: "/songs/scripture/old-testament/psalm-24-3-4-clean-hands-pure-heart.png",
+    image: "/songs/scripture/old-testament/psalm-24-3-4-clean-hands-pure-heart.webp",
     description: "A scripture song based on Psalm 24:3-4. Who shall ascend into the hill of the Lord?...He that hath clean hands, and a pure heart...",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/psalms-243-4-clean-hands-pure-heart-scripture-song",
     links: [
@@ -276,7 +276,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Proverbs",
     scriptureReference: "Proverbs 3:5-6",
-    image: "/songs/scripture/old-testament/proverbs-3-5-6-trust-in-the-lord.png",
     description: "A scripture song based on Proverbs 3:5-6. Trust in the Lord with all your heart, and lean not on your own understanding...",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/proverbs-35-6-trust-in-the-lord-scripture-song",
     links: [
@@ -298,7 +297,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Isaiah",
     scriptureReference: "Isaiah 1:18",
-    image: "/songs/scripture/old-testament/isaiah-1-18-white-as-snow.png",
+    image: "/songs/scripture/old-testament/isaiah-1-18-white-as-snow.webp",
     description: "A scripture song based on Isaiah 1:18. 'Come now, and let us reason together,' says the Lord...",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-118-white-as-snow-scripture-song",
     links: [
@@ -320,7 +319,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Isaiah",
     scriptureReference: "Isaiah 5:20",
-    image: "/songs/scripture/old-testament/isaiah-5-20-good-and-evil.png",
+    image: "/songs/scripture/old-testament/isaiah-5-20-good-and-evil.webp",
     description: "A scripture song based on Isaiah 5:20. 'Woe to those who call evil good and good evil...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-520-good-and-evil-scripture-song",
     links: [
@@ -342,7 +341,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Isaiah",
     scriptureReference: "Isaiah 29:3-14",
-    image: "/songs/scripture/old-testament/isaiah-29-3-14-marvelous-work.png",
+    image: "/songs/scripture/old-testament/isaiah-29-3-14-marvelous-work.webp",
     description: "A scripture song based on Isaiah 29:3-14. 'I will marvel at the work of your hands...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-2913-14-marvellous-work-scripture-song",
     links: [
@@ -364,7 +363,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Isaiah",
     scriptureReference: "Isaiah 53:3-5",
-    image: "/songs/scripture/old-testament/isaiah-53-3-5-with-his-stripes-we-are-healed.png",
+    image: "/songs/scripture/old-testament/isaiah-53-3-5-with-his-stripes-we-are-healed.webp",
     description: "A scripture song based on Isaiah 53:3-5. 'He was pierced for our transgressions, crushed for our iniquities...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-533-5-with-his-stripes-we-are-healed-scripture-song",
     links: [
@@ -382,7 +381,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Isaiah",
     scriptureReference: "Isaiah 55:8-9",
-    image: "/songs/scripture/old-testament/isaiah-55-8-9-my-ways-are-higher.png",
+    image: "/songs/scripture/old-testament/isaiah-55-8-9-my-ways-are-higher.webp",
     description: "A scripture song based on Isaiah 55:8-9. 'For my ways are higher than your ways...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-558-9-my-ways-are-higher-scripture-song",
     links: [
@@ -400,7 +399,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureVolume: "Old Testament",
     scriptureBook: "Isaiah",
     scriptureReference: "Isaiah 58:13-14",
-    image: "/songs/scripture/old-testament/isaiah-58-13-14-delight-thyself-in-the-lord.png",
+    image: "/songs/scripture/old-testament/isaiah-58-13-14-delight-thyself-in-the-lord.webp",
     description: "A scripture song based on Isaiah 58:13-14. 'Delight yourself in the Lord...'",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-5813-14-delight-thyself-in-the-lord-scripture-song",
     links: [

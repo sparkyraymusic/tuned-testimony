@@ -33,7 +33,8 @@ export default function SongVideo({ video, title, artwork }: { video: Video; tit
               src={thumbnailFailed ? artwork : "https://i.ytimg.com/vi/" + video.id + "/hqdefault.jpg"}
               alt=""
               fill
-              unoptimized
+              unoptimized={!thumbnailFailed}
+              sizes={video.isShort ? "(max-width: 380px) calc(100vw - 40px), 340px" : "(max-width: 800px) calc(100vw - 40px), (max-width: 1264px) calc(50vw - 64px), 560px"}
               onError={() => setThumbnailFailed(true)}
               className={styles.thumbnail}
             />

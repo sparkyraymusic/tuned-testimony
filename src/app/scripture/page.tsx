@@ -53,6 +53,7 @@ export default function ScripturePage() {
                 alt={`${collection.title} Scripture Collection`}
                 width={320}
                 height={320}
+                sizes="(max-width: 560px) 110px, 160px"
                 className={styles.image}
                 />
             </div>

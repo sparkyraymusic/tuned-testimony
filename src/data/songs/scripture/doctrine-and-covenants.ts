@@ -10,7 +10,7 @@ export const doctrineAndCovenantsSingles: Song[] = [
     scriptureVolume: "Doctrine & Covenants",
     scriptureBook: "D&C 4",
     scriptureReference: "Doctrine & Covenants 4",
-    image: "/songs/scripture/doctrine-and-covenants/dc-4-called-to-the-work.png",
+    image: "/songs/scripture/doctrine-and-covenants/dc-4-called-to-the-work.webp",
     releaseDate: "2026-07-31",
     description: "A Scripture Song based on Doctrine & Covenants 4 and its call to serve God with heart, might, mind, and strength.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/dc-4-called-to-the-work-scripture-song",

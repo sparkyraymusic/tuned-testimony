@@ -7,7 +7,7 @@ export const october1994ConferenceSongs: Song[] = [
     collection: "Conference",
     releaseType: "Album Track",
     style: "Conference Talk Song",
-    image: "/songs/conference/russell-m-nelson-legacy/volume-2.png",
+    image: "/songs/conference/russell-m-nelson-legacy/volume-2.webp",
     conferenceYear: 1994,
     conferenceMonth: "October",
     conferenceSession: "Sunday Afternoon",

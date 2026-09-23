@@ -18,18 +18,18 @@ export function getSongImage(song: Song, albumImage?: string) {
     song.conferenceYear &&
     song.conferenceMonth
   ) {
-    return `/songs/conference/${song.conferenceYear}/${song.conferenceMonth.toLowerCase()}/default.png`;
+    return `/songs/conference/${song.conferenceYear}/${song.conferenceMonth.toLowerCase()}/default.webp`;
   }
 
   if (song.collection === "Scripture" && song.scriptureVolume) {
     const volumeSlug = scriptureVolumeSlugs[song.scriptureVolume];
 
-    return `/songs/scripture/${volumeSlug}/default.png`;
+    return `/songs/scripture/${volumeSlug}/default.webp`;
   }
 
   if (albumImage) {
     return albumImage;
   }
 
-  return "/songs/default.png";
+  return "/tuned-testimony-logo.webp";
 }

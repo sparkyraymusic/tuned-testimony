@@ -55,6 +55,7 @@ export default function KidsPage() {
                     alt={`${song.title} cover art`}
                     width={600}
                     height={600}
+                    sizes="(max-width: 600px) calc(100vw - 40px), 280px"
                     className={styles.singleImage}
                   />
                 )}

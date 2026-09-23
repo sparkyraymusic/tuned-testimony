@@ -9,7 +9,7 @@ export const kidsSingles: Song[] = [
     releaseType: "Single",
     style: "Kids",
     releaseDate: "2026-07-07",
-    image: "/songs/hymns/kids/now-let-us-rejoice-kids.png",
+    image: "/songs/hymns/kids/now-let-us-rejoice-kids.webp",
     description: "A joyful, kid-friendly reimagining of the beloved hymn Now Let Us Rejoice.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/now-let-us-rejoice-kids",
     links: [
@@ -28,7 +28,7 @@ export const kidsSingles: Song[] = [
     releaseType: "Single",
     style: "Kids",
     releaseDate: "2026-09-29",
-    image: "/songs/hymns/kids/jesus-once-of-humble-birth-kids.png",
+    image: "/songs/hymns/kids/jesus-once-of-humble-birth-kids.webp",
     description: "A reverent, kid-friendly reimagining of the beloved hymn Jesus, Once of Humble Birth.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jesus-once-of-humble-birth-kids",
     links: [

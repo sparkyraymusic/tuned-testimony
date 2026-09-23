@@ -30,7 +30,7 @@ export default function SpeechesSongifiedPage() {
           <p>Inspiring speeches transformed into music, carrying messages of faith, grace, and hope into everyday life.</p>
           <Link href="/#music" className="button button-secondary">Back to Collections</Link>
         </div>
-        <Image src="/collections/speeches-songified-text-free.png" alt="Speeches Songified collection artwork" width={1672} height={941} sizes="(max-width: 850px) 100vw, 55vw" className={styles.banner} priority />
+        <Image src="/collections/speeches-songified-text-free.webp" alt="Speeches Songified collection artwork" width={1672} height={941} sizes="(max-width: 850px) 100vw, 55vw" className={styles.banner} priority />
       </section>
       <section className={styles.catalog} aria-labelledby="speeches-heading">
         <div className={styles.heading}>

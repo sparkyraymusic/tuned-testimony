@@ -11,7 +11,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-05-26",
     style: "Pop",
     description: "A fresh pop reimagining of the beloved hymn Now Let Us Rejoice.",
-		image: "/songs/hymns/now-let-us-rejoice-pop.png",
+		image: "/songs/hymns/now-let-us-rejoice-pop.webp",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/now-let-us-rejoice-pop",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/2atLIoqG2RWUiKIqQIeCnl?si=y-mByOdTRF6fGl_jxUkLOA", },
@@ -31,7 +31,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-06-02",
     style: "Cinematic Bluegrass",
     description: "A cinematic bluegrass reimagining of the beloved pioneer hymn Come, Come, Ye Saints.",
-		image: "/songs/hymns/come-come-ye-saints-cinematic-bluegrass.png",
+		image: "/songs/hymns/come-come-ye-saints-cinematic-bluegrass.webp",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/come-come-ye-saints-cinematic-bluegrass",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/5uXWgP5DW3SJ8EgmKeFmZm?si=AygtBohsRX2nUaKCxJ-1sA", },
@@ -50,7 +50,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-06-9",
 		style: "Country Folk Rock",
 		description: "A country folk rock reimagining of the beloved hymn High On The Mountain Top.",
-		image: "/songs/hymns/high-on-the-mountain-top-country-folk-rock.png",
+		image: "/songs/hymns/high-on-the-mountain-top-country-folk-rock.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/high-on-the-mountain-top-country-folk-rock",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/6ACuMlEwNPuloCYitZ34ft?si=9fb4428e6df74929", },
@@ -69,7 +69,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-06-23",
 		style: "Cinematic Worship",
 		description: "A cinematic worship reimagining of the beloved hymn Lead, Kindly Light.",
-		image: "/songs/hymns/lead-kindly-light-cinematic-worship.png",
+		image: "/songs/hymns/lead-kindly-light-cinematic-worship.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/lead-kindly-light-cinematic-worship",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/1sNq3KmRnnZS3XhZ6LPuSC", },
@@ -88,7 +88,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-07-21",
 		style: "Classic Rock",
 		description: "A classic rock reimagining of the beloved hymn Guide Us, O Thou Great Jehovah.",
-		image: "/songs/hymns/guide-us-o-thou-great-jehovah-classic-rock.png",
+		image: "/songs/hymns/guide-us-o-thou-great-jehovah-classic-rock.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/guide-us-o-thou-great-jehovah-classic-rock",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/1mBBEZvQoJCJJli1kszmuY?si=88f297a59cca46b3", },
@@ -107,7 +107,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-09-01",
 		style: "Power Ballad",
 		description: "A power ballad reimagining of the beloved hymn O My Father.",
-		image: "/songs/hymns/o-my-father-power-ballad.png",
+		image: "/songs/hymns/o-my-father-power-ballad.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/o-my-father-power-ballad",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/4SnVzxShHSlZ8VpwPlkOxz", },
@@ -127,7 +127,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-09-15",
 		style: "Pop Ballad",
 		description: "A pop ballad reimagining of the beloved hymn I Stand All Amazed.",
-		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.png",
+		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-stand-all-amazed-pop-ballad",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/rw-wIGHCSdQ", },
@@ -147,7 +147,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-09-15",
 		style: "K-Pop / Rap",
 		description: "A K-Pop / Rap reimagining of the hymn Count Your Blessings.",
-		image: "/songs/hymns/count-your-blessings-k-pop-rap.png",
+		image: "/songs/hymns/count-your-blessings-k-pop-rap.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/count-your-blessings-k-poprap",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/t_ubGu73-a0", },
@@ -163,7 +163,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-09-15",
 		style: "Pop/Rock",
 		description: "A Pop/Rock reimagining of the hymn Joseph Smith's First Prayer.",
-		image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.png",
+		image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/joseph-smiths-first-prayer-poprock",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/Gn1TxPDNukg", },
@@ -183,7 +183,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-10-03",
 		style: "Alternative Pop Punk Rock",
 		description: "An Alternative Pop Punk Rock reimagining of the hymn Dare to Do Right.",
-		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.png",
+		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.webp",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/O5UeVDl5MOU", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/dare-to-do-right?crumbs=childrens-songbook&order=number&lang=eng", },
@@ -198,7 +198,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-09-19",
 		style: "Cinematic Gospel Rock",
 		description: "A Cinematic Gospel Rock reimagining of the all time classic hymn Battle Hymn of the Republic.",
-		image: "/songs/hymns/battle-hymn-of-the-republic-cinematic-gospel-rock.png",
+		image: "/songs/hymns/battle-hymn-of-the-republic-cinematic-gospel-rock.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/battle-hymn-of-the-republic-cinematic-gospel-rock",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/w3Ctda6ukAk", },
@@ -218,7 +218,7 @@ export const hymnSingles: Song[] = [
 		releaseDate: "2026-09-26",
 		style: "Country Ballad",
 		description: "A Country Ballad reimagining of the all time classic hymn A Poor Wayfaring Man of Grief.",
-		image: "/songs/hymns/a-poor-wayfaring-man-of-grief-country-ballad.png",
+		image: "/songs/hymns/a-poor-wayfaring-man-of-grief-country-ballad.webp",
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/a-poor-wayfaring-man-of-grief-country-ballad",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/kqWz9y6dtr0", },

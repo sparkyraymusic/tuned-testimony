@@ -7,7 +7,7 @@ export const april1976ConferenceSongs: Song[] = [
     collection: "Conference",
     releaseType: "Single",
     style: "Conference Talk Song",
-    image: "/songs/conference/1976/april/ezra-taft-benson-the-constitution-a-glorious-standard.png",
+    image: "/songs/conference/1976/april/ezra-taft-benson-the-constitution-a-glorious-standard.webp",
     conferenceYear: 1976,
     conferenceMonth: "April",
     conferenceSession: "Tuesday Morning",

@@ -7,7 +7,7 @@ export const april2013ConferenceSongs: Song[] = [
     collection: "Conference",
     releaseType: "Single",
     style: "Conference Talk Song",
-    image: "/songs/conference/2013/april/jeffrey-r-holland-lord-i-believe.png",
+    image: "/songs/conference/2013/april/jeffrey-r-holland-lord-i-believe.webp",
     conferenceYear: 2013,
     conferenceMonth: "April",
     conferenceSession: "Sunday Afternoon",

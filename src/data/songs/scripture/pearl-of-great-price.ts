@@ -51,7 +51,7 @@ export const pearlOfGreatPriceSingles: Song[] = [
     scriptureBook: "Abraham",
     scriptureReference: "Abraham 2:9-11",
     releaseDate: "2026-02-16",
-    image: "/songs/scripture/pearl-of-great-price/abraham-2-9-11-abrahamic-covenant.png",
+    image: "/songs/scripture/pearl-of-great-price/abraham-2-9-11-abrahamic-covenant.webp",
     description: "A Scripture Song based on Abraham 2:9–11, exploring God's covenant with Abraham and the promised blessings of the gospel, priesthood, and salvation extending to his seed and all nations.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-pearl-of-great-price-abraham-29-11-abrahamic-covenant",
     links: [
@@ -73,7 +73,7 @@ export const pearlOfGreatPriceSingles: Song[] = [
     scriptureBook: "Abraham",
     scriptureReference: "Abraham 3:22-23",
     releaseDate: "2026-01-05",
-    image: "/songs/scripture/pearl-of-great-price/abraham-3-22-23-noble-and-great-ones.png",
+    image: "/songs/scripture/pearl-of-great-price/abraham-3-22-23-noble-and-great-ones.webp",
     description: "A Scripture Song based on Abraham 3:22–23 and Abraham's vision of the noble and great spirits whom God saw before they were born.",
     hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-pearl-of-great-price-abraham-322-23-noble-and-great-ones",
     links: [

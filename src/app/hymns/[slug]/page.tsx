@@ -38,6 +38,7 @@ export default async function HymnAlbumPage({
               alt={`${album.title} album cover`}
               width={700}
               height={700}
+              sizes="(max-width: 560px) calc(100vw - 40px), (max-width: 800px) 520px, 460px"
               priority
             />
           </div>

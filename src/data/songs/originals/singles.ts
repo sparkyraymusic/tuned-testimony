@@ -8,7 +8,7 @@ export const originalSingles: Song[] = [
     releaseType: "Single",
     style: "Original Song",
     releaseDate: "2025-09-28",
-	  image: "/songs/originals/russell-m-nelson-his-voice-our-guide.png",
+	  image: "/songs/originals/russell-m-nelson-his-voice-our-guide.webp",
     description: "An original song celebrating the life, legacy, and teachings of Russell M. Nelson.",
     hyperFollow: "https://distrokid.com/hyperfollow/hymndrift/his-voice-our-guide-russell-m-nelson-life-tribute",
     links: [
@@ -26,7 +26,7 @@ export const originalSingles: Song[] = [
     releaseType: "Single",
     style: "Original Song",
     releaseDate: "2026-07-01",
-	  image: "/songs/originals/he-knelt-in-faith.png",
+	  image: "/songs/originals/he-knelt-in-faith.webp",
     description: "An original Tuned Testimony song about choosing faith, humility, and prayer in moments of uncertainty and need.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/he-knelt-in-faith-original-songs",
     links: [
@@ -44,7 +44,7 @@ export const originalSingles: Song[] = [
     releaseType: "Single",
     style: "Original Song",
     releaseDate: "2026-08-01",
-	  image: "/songs/originals/not-another-gospel.png",
+	  image: "/songs/originals/not-another-gospel.webp",
     description: "An original Tuned Testimony song exploring restoration, grace, and the claim that the restored gospel is the same good news of Jesus Christ.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/not-another-gospel",
     links: [
@@ -62,7 +62,7 @@ export const originalSingles: Song[] = [
     releaseType: "Single",
     style: "Original Song",
     releaseDate: "2026-08-06",
-	  image: "/songs/originals/mormon-mafia.png",
+	  image: "/songs/originals/mormon-mafia.webp",
     description: "A humorous original Tuned Testimony song that flips the phrase “Mormon Mafia” into a celebration of organized kindness, service, casseroles, and showing up for one another.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/the-mormon-mafia",
     links: [
@@ -80,7 +80,7 @@ export const originalSingles: Song[] = [
     releaseType: "Single",
     style: "Original Song",
     releaseDate: "2026-09-01",
-	  image: "/songs/originals/i-saw-a-pillar-of-light.png",
+	  image: "/songs/originals/i-saw-a-pillar-of-light.webp",
     description: "An original song celebrating the First Vision of Joseph Smith and the restoration of the gospel of Jesus Christ.",
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-saw-a-pillar-of-light",
     links: [

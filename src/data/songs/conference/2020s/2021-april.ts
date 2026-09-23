@@ -7,7 +7,7 @@ export const april2021ConferenceSongs: Song[] = [
     collection: "Conference",
     releaseType: "Single",
     style: "Conference Talk Song",
-    image: "/songs/conference/2021/april/dallin-h-oaks-defending-our-divinely-inspired-constitution.png",
+    image: "/songs/conference/2021/april/dallin-h-oaks-defending-our-divinely-inspired-constitution.webp",
     conferenceYear: 2021,
     conferenceMonth: "April",
     conferenceSession: "Sunday Afternoon",

@@ -7,7 +7,7 @@ export default function SiteHeader() {
   return (
     <header className={styles.header}>
       <Link className={styles.brand} href="/">
-        <Image src="/brand/mark.png" width={44} height={32} alt="" className={styles.mark} />
+        <Image src="/brand/mark.webp" width={44} height={32} alt="" className={styles.mark} />
         <span>Tuned Testimony</span>
       </Link>
 
