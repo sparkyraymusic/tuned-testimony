@@ -49,7 +49,7 @@ export const primaryDaysSongs: Song[] = [
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
     description: "An island-style reimagining of Tell Me The Stories Of Jesus.",
-		image: "/songs/hymns/tell-me-the-stories-of-jesus-island.png",
+		image: "/songs/hymns/tell-me-the-stories-of-jesus.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/MjCtvGlnBoY" },
       { name: "Spotify", url: "https://open.spotify.com/track/4aJF4GXEswHy4QQ1PDwPCc?si=d9f8aeb1d6cc4564" },
