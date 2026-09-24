@@ -6,7 +6,7 @@ import {
   FaApple,
   FaAmazon,
 } from "react-icons/fa";
-import { SiYoutubemusic, SiTidal } from "react-icons/si"
+import { SiYoutubemusic, SiTidal, SiIheartradio, SiDeezer } from "react-icons/si"
 import styles from "./page.module.css";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
@@ -47,12 +47,14 @@ const featuredMusic = [
 ];
 
 const platforms = [
-  { name: "YouTube", url: "https://www.youtube.com/@TunedTestimony", icon: FaYoutube, },
-  { name: "Spotify", url: "https://open.spotify.com/artist/3tR9srCtThH37vZO1C8GEF", icon: FaSpotify, },
-  { name: "Apple Music", url: "https://music.apple.com/us/artist/tuned-testimony/6772563383", icon: FaApple, },
-  { name: "YouTube Music", url: "https://music.youtube.com/@TunedTestimony", icon: SiYoutubemusic, },
-  { name: "Amazon Music", url: "https://music.amazon.com/artists/B0H2SK8KCY/tuned-testimony?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_nWgqlPTOqjXn1dupen3Nr0fHZ", icon: FaAmazon, },
-  { name: "Tidal", url: "https://tidal.com/artist/80089012/u", icon: SiTidal, },
+  { name: "YouTube", action: "Subscribe", url: "https://www.youtube.com/@TunedTestimony?sub_confirmation=1", icon: FaYoutube, },
+  { name: "Spotify", action: "Follow", url: "https://open.spotify.com/artist/3tR9srCtThH37vZO1C8GEF", icon: FaSpotify, },
+  { name: "Apple Music", action: "Favorite", url: "https://music.apple.com/us/artist/tuned-testimony/6772563383", icon: FaApple, },
+  { name: "YouTube Music", action: "Subscribe", url: "https://music.youtube.com/@TunedTestimony", icon: SiYoutubemusic, },
+  { name: "Amazon Music", action: "Listen", url: "https://music.amazon.com/artists/B0H2SK8KCY/tuned-testimony", icon: FaAmazon, },
+  { name: "Tidal", action: "Listen", url: "https://tidal.com/artist/80089012/u", icon: SiTidal, },
+  { name: "iHeart", action: "Listen", url: "https://www.iheart.com/artist/tuned-testimony-50854934", icon: SiIheartradio, },
+  { name: "Deezer", action: "Listen", url: "https://www.deezer.com/us/artist/392799821", icon: SiDeezer, },
 ];
 
 export default function Home() {
@@ -138,10 +140,11 @@ export default function Home() {
           </section>
           <section className={styles.listenSection} id="listen">
             <div className={styles.sectionHeading}>
-              <p className="eyebrow">Listen Everywhere</p>
-              <h2>Take Tuned Testimony With You</h2>
+              <p className="eyebrow">Listen &amp; Follow</p>
+              <h2>Follow Tuned Testimony</h2>
               <p>
-                Find Tuned Testimony on your favorite music and video platforms.
+                Take the music with you. Open your favorite service, then subscribe,
+                follow, or add Tuned Testimony to your favorites there. You may need to sign in.
               </p>
             </div>
             <div className={styles.platformGrid}>
@@ -157,7 +160,10 @@ export default function Home() {
                   key={platform.name}
                 >
                   <Icon className={styles.platformIcon} aria-hidden="true" />
-                  <span>{platform.name}</span>
+                  <span className={styles.platformLabel}>
+                    <span>{platform.name}</span>
+                    <span className={styles.platformAction}>{platform.action}</span>
+                  </span>
                 </a>
               );
             })}

@@ -352,14 +352,14 @@ export const primaryDaysSongs: Song[] = [
     style: "Pop",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A pop reimagining of Saturday.",
+    description: "A pop reimagining of Saturday.",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/vwwfODChsMA" },
       { name: "Spotify", url: "https://open.spotify.com/track/0PmA0wep0FeVmcVvdSobyz?si=475bca79c0b64b9f" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/saturday-pop-version/1805333441" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=vwwfODChsMA&si=WgL7SxAWZwbT-NIY" },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0F2YYV5FZ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_dMZhONlAnCvCs0nkSlwK1yohk" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/saturday?crumbs=childrens-songbook&order=number&lang=eng", },
     ],
   },
 ];

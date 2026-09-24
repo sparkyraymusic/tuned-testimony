@@ -276,6 +276,18 @@
   height: 1.25rem;
 }
 
+.platformLabel {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+}
+
+.platformAction {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: var(--accent, #57cfd0);
+}
+
 .platformLink:hover {
   transform: translateY(-2px);
   border-color: rgba(87, 207, 208, 0.5);

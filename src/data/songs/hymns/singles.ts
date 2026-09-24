@@ -225,4 +225,19 @@ export const hymnSingles: Song[] = [
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/a-poor-wayfaring-man-of-grief?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
+  {
+    slug: "saturday-pop-big-band",
+    hymnId: "saturday",
+    title: "Saturday",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-10-03",
+    style: "Pop Big Band",
+    description: "An energetic Pop Big Band reimagining of the Primary song Saturday.",
+		image: "/songs/hymns/saturday-pop-big-band.webp",
+    links: [
+      { name: "Cinematic", url: "https://youtu.be/r8q7uaGQj8M" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/saturday?crumbs=childrens-songbook&order=number&lang=eng", },
+    ],
+  },
 ];
