@@ -23,6 +23,8 @@ export type Song = {
   collection: SongCollection;
   releaseType: ReleaseType;
   releaseDate?: string;
+  /** Show this release in its collection's Featured Releases section. */
+  featured?: boolean;
   style: string;
 	scriptureVolume?: ScriptureVolume;
 	scriptureBook?: string;

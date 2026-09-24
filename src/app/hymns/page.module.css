@@ -153,6 +153,21 @@
   gap: 1.5rem;
 }
 
+.songControls {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+.songControls label { display: flex; flex-direction: column; gap: .6rem; font-weight: 600; min-width: 0; }
+.songControls input, .songControls select {
+  width: 100%; min-width: 0; padding: .85rem; border: 1px solid #65776c;
+  border-radius: .6rem; background: #101820; color: #f7f5ef; font: inherit;
+}
+.songControls input:focus-visible, .songControls select:focus-visible { outline: 3px solid var(--brand); outline-offset: 3px; }
+.showMore { margin: 2rem 0; cursor: pointer; }
+@media (max-width: 700px) { .songControls { grid-template-columns: 1fr; } }
+
 .singleCard {
   min-width: 0;
   color: inherit;

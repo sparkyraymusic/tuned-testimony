@@ -54,7 +54,7 @@ export const hymnSingles: Song[] = [
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/high-on-the-mountain-top-country-folk-rock",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/6ACuMlEwNPuloCYitZ34ft?si=9fb4428e6df74929", },
-			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_m9HNfsLYG_YPtj9QgmTBU-c2nxU6mHL3U&si=mI2J5CDeSkf8BfNU", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=AGVa5hW4B40&si=D00zZdlWhbpfFFlV", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/high-on-the-mountain-top-country-folk-rock-single/6773183742?uo=4&app=itunes&at=1001lry3&ct=dashboard", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0H2X6CR1B?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_YNqreNGFc4m604rvvtyHfcAwh&trackAsin=B0H2XCLMC4", },
 			{ name: "Lyric Video", url: "https://youtube.com/shorts/AGVa5hW4B40", },
@@ -92,7 +92,7 @@ export const hymnSingles: Song[] = [
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/guide-us-o-thou-great-jehovah-classic-rock",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/1mBBEZvQoJCJJli1kszmuY?si=88f297a59cca46b3", },
-			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mMoEi4tF3G-nr8McRKx1lQzfAwGIIQsT8&si=793BtZB-Zkk9LVno", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=e4sPwll-azk&si=xouMNpiTnh_nsSX2", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/guide-us-o-thou-great-jehovah-classic-rock-single/6773750851?uo=4", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0H32VWY8Q?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_6z7BFS8oJTNHVRkq7zlhGbqUQ&trackAsin=B0H331D6N3", },
 			{ name: "Lyric Video", url: "https://youtube.com/shorts/e4sPwll-azk?feature=share", },
@@ -156,6 +156,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "joseph-smiths-first-prayer-pop-rock",
+    featured: true,
    	hymnId: "joseph-smiths-first-prayer",
 		title: "Joseph Smith's First Prayer",
 		collection: "Hymns",
@@ -176,6 +177,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "battle-hymn-of-the-republic-cinematic-gospel-rock",
+    featured: true,
    	hymnId: "battle-hymn-of-the-republic",
 		title: "Battle Hymn of the Republic",
 		collection: "Hymns",
@@ -196,6 +198,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "a-poor-wayfaring-man-of-grief-country-ballad",
+    featured: true,
    	hymnId: "a-poor-wayfaring-man-of-grief",
 		title: "A Poor Wayfaring Man of Grief",
 		collection: "Hymns",
