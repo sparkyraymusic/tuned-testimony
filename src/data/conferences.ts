@@ -17,6 +17,13 @@ export const conferences: Conference[] = [
     image: "/songs/conference/2026/april/default.webp",
     },
   {
+    slug: "2025-october",
+    year: 2025,
+    month: "October",
+    title: "October 2025 General Conference",
+    image: "/songs/conference/2025/october/default.webp",
+  },
+  {
     slug: "2021-april",
     year: 2021,
     month: "April",
