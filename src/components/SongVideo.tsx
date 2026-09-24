@@ -15,7 +15,7 @@ export default function SongVideo({ video, title, artwork }: { video: Video; tit
     window.addEventListener("tuned-testimony:stop-video", stopVideo);
     return () => window.removeEventListener("tuned-testimony:stop-video", stopVideo);
   }, []);
-  const label = video.isShort ? "YouTube Short" : video.isCinematic ? "cinematic video" : "lyric video";
+  const label = video.isShort ? "YouTube Short" : video.isMusic ? "YouTube Music" : video.isCinematic ? "cinematic video" : "lyric video";
   return (
     <div className={[styles.media, video.isShort ? styles.short : ""].join(" ")}>
       <div className={styles.frame}>
