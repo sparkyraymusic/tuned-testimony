@@ -23,6 +23,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "love-at-home-country",
+    featured: true,
     hymnId: "love-at-home",
     title: "Love at Home",
     collection: "Hymns",
@@ -122,6 +123,7 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "let-us-oft-speak-kind-words-country",
+    featured: true,
     hymnId: "let-us-oft-speak-kind-words",
     title: "Let Us Oft Speak Kind Words",
     collection: "Hymns",

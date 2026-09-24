@@ -165,7 +165,8 @@
   border-radius: .6rem; background: #101820; color: #f7f5ef; font: inherit;
 }
 .songControls input:focus-visible, .songControls select:focus-visible { outline: 3px solid var(--brand); outline-offset: 3px; }
-.showMore { margin: 2rem 0; cursor: pointer; }
+.showMore { margin: 2rem 0; cursor: pointer; background: transparent; }
+.showMore:focus-visible { outline: 3px solid var(--brand); outline-offset: 4px; }
 @media (max-width: 700px) { .songControls { grid-template-columns: 1fr; } }
 
 .singleCard {

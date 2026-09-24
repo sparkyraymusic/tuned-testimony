@@ -230,6 +230,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
     slug: "saturday-pop-big-band",
+    featured: true,
     hymnId: "saturday",
     title: "Saturday",
     collection: "Hymns",
