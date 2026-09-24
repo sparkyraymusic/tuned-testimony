@@ -175,21 +175,6 @@ export const hymnSingles: Song[] = [
 		],
 	},
 	{
-		slug: "dare-to-do-right-alternative-pop-punk-rock",
-   	hymnId: "dare-to-do-right",
-		title: "Dare to Do Right",
-		collection: "Hymns",
-		releaseType: "Single",
-		releaseDate: "2026-10-03",
-		style: "Alternative Pop Punk Rock",
-		description: "An Alternative Pop Punk Rock reimagining of the hymn Dare to Do Right.",
-		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.webp",
-		links: [
-			{ name: "Cinematic", url: "https://youtu.be/O5UeVDl5MOU", },
-			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/dare-to-do-right?crumbs=childrens-songbook&order=number&lang=eng", },
-		],
-	},
-	{
 		slug: "battle-hymn-of-the-republic-cinematic-gospel-rock",
    	hymnId: "battle-hymn-of-the-republic",
 		title: "Battle Hymn of the Republic",
@@ -225,7 +210,22 @@ export const hymnSingles: Song[] = [
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/a-poor-wayfaring-man-of-grief?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
-  {
+	{
+		slug: "dare-to-do-right-alternative-pop-punk-rock",
+   	hymnId: "dare-to-do-right",
+		title: "Dare to Do Right",
+		collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-10-02",
+		style: "Alternative Pop Punk Rock",
+		description: "An Alternative Pop Punk Rock reimagining of the hymn Dare to Do Right.",
+		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.webp",
+		links: [
+			{ name: "Cinematic", url: "https://youtu.be/O5UeVDl5MOU", },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/dare-to-do-right?crumbs=childrens-songbook&order=number&lang=eng", },
+		],
+	},
+	{
     slug: "saturday-pop-big-band",
     hymnId: "saturday",
     title: "Saturday",

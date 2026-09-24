@@ -39,6 +39,7 @@ export type Song = {
 	conferenceTalkOrder?: number;
 	conferenceSpeaker?: string;
 	conferenceTalkTitle?: string;
+  conferenceTalkUrl?: string;
   speechSpeaker?: string;
   speechForum?: string;
   speechTitle?: string;

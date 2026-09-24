@@ -12,6 +12,7 @@ import { kidsSingles } from "./kids/singles";
 import { originalSingles } from "./originals/singles";
 import { scriptureSingles } from "./scripture/singles";
 import { april2026ConferenceSongs } from "./conference/2020s/2026-april";
+import { october2025ConferenceSongs } from "./conference/2020s/2025-october";
 import { april2021ConferenceSongs } from "./conference/2020s/2021-april";
 import { october2018ConferenceSongs } from "./conference/2010s/2018-october";
 import { april2013ConferenceSongs } from "./conference/2010s/2013-april";
@@ -65,6 +66,7 @@ export const songs = [
   ...originalSingles,
   ...scriptureSingles,
   ...april2026ConferenceSongs,
+  ...october2025ConferenceSongs,
   ...april2021ConferenceSongs,
   ...october2018ConferenceSongs,
   ...april2013ConferenceSongs,
