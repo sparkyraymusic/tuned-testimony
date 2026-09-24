@@ -48,8 +48,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Island",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "An island-style reimagining of Tell Me The Stories Of Jesus.",
+    description: "An island-style reimagining of Tell Me The Stories Of Jesus.",
+		image: "/songs/hymns/tell-me-the-stories-of-jesus-island.png",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/MjCtvGlnBoY" },
       { name: "Spotify", url: "https://open.spotify.com/track/4aJF4GXEswHy4QQ1PDwPCc?si=d9f8aeb1d6cc4564" },
@@ -67,8 +67,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Pop",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A pop reimagining of All Things Bright and Beautiful.",
+    description: "A pop reimagining of All Things Bright and Beautiful.",
+    image: "/songs/hymns/all-things-bright-and-beautiful.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/IOAqWa6aZ6w" },
       { name: "Spotify", url: "https://open.spotify.com/track/4bDkrQl58JNbqay14UFI13?si=0e05ec072e604240" },
@@ -124,8 +124,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Acapella",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "An a cappella reimagining of Beauty Everywhere.",
+    description: "An a cappella reimagining of Beauty Everywhere.",
+    image: "/songs/hymns/beauty-everywhere.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/fWUBIITrRrQ" },
       { name: "Spotify", url: "https://open.spotify.com/track/21q1w0BAmt0y69Ou7xWjTj?si=3575f4b94eb04b66" },
@@ -143,8 +143,7 @@ export const primaryDaysSongs: Song[] = [
     style: "Country",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A country reimagining of Thanks to Our Father.",
+    description: "A country reimagining of Thanks to Our Father.",
     links: [
       { name: "Lyric Video", url: "https://youtube.com/shorts/blLir71niQc?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/04B4X3EFdV7IYg41xb3vZR?si=25015ae35c3e4a91" },
@@ -161,9 +160,9 @@ export const primaryDaysSongs: Song[] = [
     releaseType: "Album Track",
     style: "Pop",
     albumSlug: "primary-days",
-    albumTitle: "Primary Days",
-    description:
-      "A pop reimagining of The Wise Man and the Foolish Man.",
+    albumTitle:  "Primary Days",
+    description: "A pop reimagining of The Wise Man and the Foolish Man.",
+    image: "/songs/hymns/the-wise-man-and-the-foolish-man.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/syNDETs8ULA" },
       { name: "Spotify", url: "https://open.spotify.com/track/1UybrUzi9DMOugHukwGvnI?si=4fa1112cb66a4f4e" },
@@ -181,8 +180,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Ballad",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A ballad reimagining of Tell Me, Dear Lord.",
+    description: "A ballad reimagining of Tell Me, Dear Lord.",
+    image: "/songs/hymns/tell-me-dear-lord.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/Yi5bg1mz_Lc" },
       { name: "Spotify", url: "https://open.spotify.com/track/5m6JEIHh9x2CSSrI0TROAT?si=a4422000d9c24353" },
@@ -200,8 +199,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Pop",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A pop reimagining of Shine On.",
+    description: "A pop reimagining of Shine On.",
+    image: "/songs/hymns/shine-on.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/ca6X3VKovJg" },
       { name: "Spotify", url: "https://open.spotify.com/track/28QHMEn0Fxm3aWFmaNguHP?si=9023212e50324d6f" },
@@ -219,8 +218,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Island",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "An island-style reimagining of I Think When I Read That Sweet Story.",
+    description: "An island-style reimagining of I Think When I Read That Sweet Story.",
+    image: "/songs/hymns/i-think-when-i-read-that-sweet-story.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/tSFAxfKlua4" },
       { name: "Spotify", url: "https://open.spotify.com/track/5o1JjmqQEqZqEsuTvNra2d?si=29aa6b4eaaa84273" },
@@ -238,8 +237,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Country",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A country reimagining of Stand For The Right.",
+    description: "A country reimagining of Stand For The Right.",
+    image: "/songs/hymns/stand-for-the-right.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/hQ0QvPzNm0w" },
       { name: "Spotify", url: "https://open.spotify.com/track/4DR8hocykqFwueAjJwUSFw?si=2aea9f0ec104410d" },
@@ -276,8 +275,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Rock",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A rock reimagining of Dare To Do Right.",
+    description: "A rock reimagining of Dare To Do Right.",
+    image: "/songs/hymns/dare-to-do-right.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/ujMb3fs0KNo" },
       { name: "Spotify", url: "https://open.spotify.com/track/2FS5JTfxnTJkdsdpG5a8s5?si=229c6a04e50d4c0a" },
@@ -295,8 +294,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Ballad",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A ballad reimagining of Heavenly Father, Now I Pray.",
+    description: "A ballad reimagining of Heavenly Father, Now I Pray.",
+    image: "/songs/hymns/heavenly-father-now-i-pray.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/j9YTpGtDk-Y" },
       { name: "Spotify", url: "https://open.spotify.com/track/1S7JjMZzkSd52LglRTB6Vj?si=7bb05348854f46dc" },
@@ -314,8 +313,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Country",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A country reimagining of Lift Up Your Voice And Sing.",
+    description: "A country reimagining of Lift Up Your Voice And Sing.",
+    image: "/songs/hymns/lift-up-your-voice-and-sing.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/uf2ypzrfnis" },
       { name: "Spotify", url: "https://open.spotify.com/track/7jN1RxWetONKzzhka66Bab?si=a83d4cf443f0418d" },
@@ -333,8 +332,8 @@ export const primaryDaysSongs: Song[] = [
     style: "Celtic",
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
-    description:
-      "A Celtic reimagining of The Dearest Names.",
+    description: "A Celtic reimagining of The Dearest Names.",
+    image: "/songs/hymns/the-dearest-names.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/yfAEca208Dc" },
       { name: "Spotify", url: "https://open.spotify.com/track/5FhBSFkrp6ACpR2dZdH1Rj?si=cd9a94b6713f45e1" },
@@ -353,6 +352,7 @@ export const primaryDaysSongs: Song[] = [
     albumSlug: "primary-days",
     albumTitle: "Primary Days",
     description: "A pop reimagining of Saturday.",
+    image: "/songs/hymns/saturday.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/vwwfODChsMA" },
       { name: "Spotify", url: "https://open.spotify.com/track/0PmA0wep0FeVmcVvdSobyz?si=475bca79c0b64b9f" },

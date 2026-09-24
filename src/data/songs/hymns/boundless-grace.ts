@@ -10,8 +10,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "Pop/Country",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A pop-country reimagining of the beloved hymn Come, Thou Fount Of Every Blessing.",
+    description: "A pop-country reimagining of the beloved hymn Come, Thou Fount Of Every Blessing.",
+    image: "/songs/hymns/come-thou-fount-of-every-blessing.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/7vQpCxOIMGI" },
       { name: "Spotify", url: "https://open.spotify.com/track/579CcvacVD9uauP7RaPBAy?si=96a5a5d0670846f9" },
@@ -29,8 +29,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "Classic Rock",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A classic-rock reimagining of the beloved hymn Amazing Grace.",
+    description: "A classic-rock reimagining of the beloved hymn Amazing Grace.",
+    image: "/songs/hymns/amazing-grace.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/OLf2tvFDtNY" },
       { name: "Spotify", url: "https://open.spotify.com/track/35MJa1fGIJ7Aia28M1ICCV?si=5e5fab75652a43eb" },
@@ -48,8 +48,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "80's Ballad",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "An 80's ballad reimagining of the hymn My Shepherd Will Supply My Need.",
+    description: "An 80's ballad reimagining of the hymn My Shepherd Will Supply My Need.",
+    image: "/songs/hymns/my-shepherd-will-supply-my-need.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/MgeFxSr5G4A" },
       { name: "Spotify", url: "https://open.spotify.com/track/0HQBVm3qgaS6oaPyDBoVPf?si=7b9b6030963a4ea2" },
@@ -67,8 +67,7 @@ export const boundlessGraceSongs: Song[] = [
     style: "Country Ballad",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A country-ballad reimagining of the hymn The Lord’s My Shepherd.",
+    description: "A country-ballad reimagining of the hymn The Lord’s My Shepherd.",
     links: [
       { name: "Lyric Video", url: "https://youtube.com/shorts/ac7tbpZ52MA" },
       { name: "Spotify", url: "https://open.spotify.com/track/7vviAwGvxsjotnKoqNbfmc?si=37c53570ec6c4c07" },
@@ -86,8 +85,7 @@ export const boundlessGraceSongs: Song[] = [
     style: "Pop/Country",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A pop-country reimagining of the hymn His Eye Is On The Sparrow.",
+    description: "A pop-country reimagining of the hymn His Eye Is On The Sparrow.",
     links: [
       { name: "Lyric Video", url: "https://youtube.com/shorts/PD4muyKktRA" },
       { name: "Spotify", url: "https://open.spotify.com/track/2jZ5D6Hg9RD9csD8ym49B9?si=d4169de82a524f80" },
@@ -105,8 +103,7 @@ export const boundlessGraceSongs: Song[] = [
     style: "Surf Rock",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A surf-rock reimagining of the hymn Softly And Tenderly Jesus Is Calling.",
+    description: "A surf-rock reimagining of the hymn Softly And Tenderly Jesus Is Calling.",
     links: [
       { name: "Lyric Video", url: "https://youtube.com/shorts/n9p_bx8xC-E?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/3d9ZSJWudKLTppOJdGp9WL?si=5db5469ecc104bec" },
@@ -124,8 +121,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "Acapella",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "An a cappella reimagining of the hymn Take My Heart And Let It Be Consecrated.",
+    description: "An a cappella reimagining of the hymn Take My Heart And Let It Be Consecrated.",
+    image: "/songs/hymns/take-my-heart-and-let-it-be-consecrated.webp",
     links: [
       { name: "Lyric Video", url: "https://youtube.com/shorts/cYoS-rvhMXI?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/2uSHLO30Sf357T6CXSrdSw?si=20b00fa63b8a41ea" },
@@ -143,8 +140,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "Rock",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A rock reimagining of the hymn Standing On The Promises.",
+    description: "A rock reimagining of the hymn Standing On The Promises.",
+    image: "/songs/hymns/standing-on-the-promises.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/PHPmy6-HSjA" },
       { name: "Spotify", url: "https://open.spotify.com/track/020gssZLSRAftdpkeD0DFR?si=3675531051fb40d2" },
@@ -162,8 +159,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "Orchestral Worship",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "An orchestral-worship reimagining of the hymn It Is Well With My Soul.",
+    description: "An orchestral-worship reimagining of the hymn It Is Well With My Soul.",
+    image: "/songs/hymns/it-is-well-with-my-soul.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/R9wPupDrfEs" },
       { name: "Spotify", url: "https://open.spotify.com/track/1TuGIVRYSAubsq88XspSL3?si=abfe7c47b89e4719" },
@@ -181,8 +178,7 @@ export const boundlessGraceSongs: Song[] = [
     style: "Pop/Rock",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A pop-rock reimagining of the hymn This Little Light Of Mine.",
+    description: "A pop-rock reimagining of the hymn This Little Light Of Mine.",
     links: [
       { name: "Lyric Video", url: "https://youtube.com/shorts/NP_T0d82EWg?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/2UlmDZUwU3nTnn0i91jbXk?si=806238c787dc4e69" },
@@ -200,8 +196,8 @@ export const boundlessGraceSongs: Song[] = [
     style: "Power Ballad",
     albumSlug: "boundless-grace",
     albumTitle: "Boundless Grace",
-    description:
-      "A power-ballad reimagining of the hymn His Voice As The Sound.",
+    description: "A power-ballad reimagining of the hymn His Voice As The Sound.",
+    image: "/songs/hymns/his-voice-as-the-sound.webp",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/XNqvAyhUu-8" },
       { name: "Spotify", url: "https://open.spotify.com/track/5QE5AscNZwSq4ZZ7aBz0Zj?si=f9604bdb9a9e4f8e" },
