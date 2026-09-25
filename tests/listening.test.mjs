@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { buildListeningQueue, conferenceOrder, fullSongVideo, shuffledTracks, youtubeVideo } from "../src/lib/listening.ts";
+import { buildListeningQueue, conferenceOrder, selectedSongVideo, shuffledTracks, youtubeVideo } from "../src/lib/listening.ts";
+import { goodlySongs } from "../src/data/songs/hymns/goodly.ts";
 
 const song = (slug, links, extra = {}) => ({ slug, title: slug, style: "Pop", links, ...extra });
 const video = (id, name = "YouTube Music") => ({ name, url: `https://music.youtube.com/watch?v=${id}&si=tracking` });
@@ -24,17 +25,43 @@ test("does not treat album playlists, malformed IDs, or lookalike hosts as recor
   ]) assert.equal(youtubeVideo(url), undefined);
 });
 
-test("prefers a full music recording over a lyric video", () => {
-  assert.equal(fullSongVideo([video("lyrics12345", "Lyric Video"), video("music123456")]), "music123456");
+test("prefers a lyric video over a music recording", () => {
+  assert.equal(selectedSongVideo([video("lyrics12345", "Lyric Video"), video("music123456")]), "lyrics12345");
 });
 
-test("excludes short clips even when the same clip is also labeled YouTube Music", () => {
-  assert.equal(fullSongVideo([
+test("featured Let Us Oft Speak Kind Words queues the cinematic hymn", () => {
+  const queue = buildListeningQueue(goodlySongs.filter(song => song.featured));
+  assert.equal(queue.tracks.find(track => track.slug === "let-us-oft-speak-kind-words-country")?.videoId, "S-yB8KGRXUo");
+});
+
+test("queues use Cinematic, Lyric Video, Lyric Short, then YouTube Music regardless of link order", () => {
+  const ranked = [video("cinema12345", "Cinematic"), video("lyrics12345", "Lyric Video"),
+    video("short123456", "Lyric Short"), video("music123456")];
+  const ids = ["cinema12345", "lyrics12345", "short123456", "music123456"];
+  const permutations = items => items.length === 0 ? [[]] : items.flatMap((item, i) =>
+    permutations(items.filter((_, j) => j !== i)).map(rest => [item, ...rest]));
+  for (let first = 0; first < ranked.length; first++) {
+    for (const links of permutations(ranked.slice(first))) {
+      assert.equal(buildListeningQueue([song("example", links)]).tracks[0].videoId, ids[first]);
+    }
+  }
+  assert.equal(selectedSongVideo([{ name: "Cinematic", url: "invalid" }, ...ranked.slice(1)]), ids[1]);
+});
+
+test("cinematic clips take priority over a music recording", () => {
+  assert.equal(selectedSongVideo([
+    { name: "Cinematic", url: "https://youtube.com/shorts/short123456" },
+    video("music123456"),
+  ]), "short123456");
+});
+
+test("prefers cinematic videos over shorts and includes short-only songs", () => {
+  assert.equal(selectedSongVideo([
     video("short123456"),
     { name: "Lyric Video", url: "https://youtube.com/shorts/short123456" },
     video("full1234567", "Cinematic"),
   ]), "full1234567");
-  assert.equal(fullSongVideo([video("short123456", "YouTube Short")]), undefined);
+  assert.equal(selectedSongVideo([video("short123456", "YouTube Short")]), "short123456");
 });
 
 test("counts unavailable songs, deduplicates entries, and preserves arrangement order", () => {

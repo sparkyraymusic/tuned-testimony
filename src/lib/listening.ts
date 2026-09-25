@@ -1,4 +1,5 @@
 import type { Song, StreamingLink } from "../data/songs/types";
+import { getSongVideo } from "../data/songs/get-song-video.ts";
 
 export type QueueTrack = { slug: string; title: string; style: string; videoId: string };
 export type ListeningQueue = { tracks: QueueTrack[]; total: number };
@@ -19,14 +20,8 @@ export function youtubeVideo(urlString: string): { id: string; short: boolean } 
   } catch { /* Invalid catalog links are unavailable for playback. */ }
 }
 
-export function fullSongVideo(links: StreamingLink[]): string | undefined {
-  const videos = links.flatMap(link => {
-    const video = youtubeVideo(link.url);
-    return video ? [{ ...video, name: link.name, short: video.short || /short/i.test(link.name) }] : [];
-  });
-  const shorts = new Set(videos.filter(video => video.short).map(video => video.id));
-  const full = videos.filter(video => !shorts.has(video.id));
-  return (full.find(video => video.name === "YouTube Music") ?? full[0])?.id;
+export function selectedSongVideo(links: StreamingLink[]): string | undefined {
+  return getSongVideo(links)?.id;
 }
 
 /** Preserve collection order and distinct arrangements, removing duplicate song entries. */
@@ -35,7 +30,7 @@ export function buildListeningQueue(songs: readonly Song[]): ListeningQueue {
   return {
     total: unique.length,
     tracks: unique.flatMap(song => {
-      const videoId = fullSongVideo(song.links);
+      const videoId = selectedSongVideo(song.links);
       return videoId ? [{ slug: song.slug, title: song.title, style: song.style, videoId }] : [];
     }),
   };

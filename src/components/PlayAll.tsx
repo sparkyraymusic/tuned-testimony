@@ -16,7 +16,7 @@ export default function PlayAll({ queue, title }: { queue: ListeningQueue; title
         <button type="button" disabled={count < 2} onClick={() => start(queue.tracks, title, true)} aria-label={`Shuffle: ${title}`}>Shuffle</button>
       </div>
       <span className={styles.availability}>
-        {count ? `${count} of ${queue.total} songs available on YouTube` : queue.total ? "No full-song YouTube links available for this selection" : "No songs in this selection"}
+        {count ? `${count} of ${queue.total} songs available on YouTube` : queue.total ? "No YouTube links available for this selection" : "No songs in this selection"}
         {count < queue.total && count > 0 && " · Other songs are not included"}
       </span>
     </div>

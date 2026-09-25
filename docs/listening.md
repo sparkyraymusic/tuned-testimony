@@ -15,9 +15,11 @@ implemented.
 - Album queues follow the album's track list. Conference queues use newest
   conference first, then session and talk order. Nested groups use their displayed
   order.
-- `src/lib/listening.ts` prefers individual YouTube Music recordings, then other
-  individual YouTube videos. Album-only links and known Shorts are excluded.
-  Add a full recording's watch URL to a song's `links` to make it eligible.
+- Collection queues and individual song players share the same selection rule:
+  Cinematic, then Lyric Video, then Lyric Short, then YouTube Music.
+  Shorts are eligible, including links labeled YouTube Short. Invalid URLs and
+  album-only links are excluded. Add a supported video link to a song's `links`
+  to make it eligible.
 - Counts describe recordings with usable individual URLs, not a guarantee of
   availability in every region. The player handles unavailable and unembeddable
   recordings at playback time. Distinct song arrangements remain distinct;
