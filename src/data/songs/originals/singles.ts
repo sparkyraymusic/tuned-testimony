@@ -67,7 +67,6 @@ export const originalSingles: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/the-mormon-mafia",
     links: [
       { name: "Cinematic", url: "https://youtu.be/6i8dTtYND_w", },
-      { name: "Spotify", url: "https://open.spotify.com/track/2kfOma41ZlujdajjLT2owE?si=b97ea9cef7094447", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=WXbumePGzvo&si=2bxs-vS4r9xs5wN_", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/the-mormon-mafia-single/6798637966", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HD7BPDYY?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_GMWGPeUgGYJnJncZwdLJh7E1a", },

@@ -10,10 +10,11 @@ type ConferenceSongInput = {
   sessionOrder: number;
   talkOrder: number;
   talkUrl: string;
-  spotify: string;
-  youtubeMusic: string;
-  appleMusic: string;
-  amazonMusic: string;
+  spotify?: string;
+  youtubeMusic?: string;
+  appleMusic?: string;
+  amazonMusic?: string;
+  lyricVideo?: string;
   image?: string;
 };
 
@@ -29,6 +30,7 @@ function conferenceSong({
   youtubeMusic,
   appleMusic,
   amazonMusic,
+  lyricVideo,
   image,
 }: ConferenceSongInput): Song {
   return {
@@ -50,26 +52,12 @@ function conferenceSong({
     description: `A Conference Talk Song inspired by ${speaker}’s October 2025 General Conference message, ${title}.`,
     hyperFollow,
     links: [
-      {
-        name: "Spotify",
-        url: spotify,
-      },
-      {
-        name: "YouTube Music",
-        url: youtubeMusic,
-      },
-      {
-        name: "Apple Music",
-        url: appleMusic,
-      },
-      {
-        name: "Amazon Music",
-        url: amazonMusic,
-      },
-      {
-        name: "Talk",
-        url: talkUrl,
-      },
+      ...(spotify ? [{ name: "Spotify", url: spotify }] : []),
+      ...(youtubeMusic ? [{ name: "YouTube Music", url: youtubeMusic }] : []),
+      ...(appleMusic ? [{ name: "Apple Music", url: appleMusic }] : []),
+      ...(amazonMusic ? [{ name: "Amazon Music", url: amazonMusic }] : []),
+      ...(lyricVideo ? [{ name: "Lyric Video", url: lyricVideo }] : []),
+      { name: "Talk", url: talkUrl, },
     ],
   };
 }
@@ -334,7 +322,9 @@ export const october2025ConferenceSongs: Song[] = [
     session: "Sunday Morning",
     sessionOrder: 4,
     talkOrder: 19,
+    image: "public/songs/conference/2025/october/jeffrey-r-holland-and-now-i-see.webp",
     talkUrl: "https://www.churchofjesuschrist.org/study/general-conference/2025/10/41holland?lang=eng",
+    lyricVideo: "https://youtu.be/oLxkl9DJgSw",
     spotify: "https://open.spotify.com/track/0Ziyfc2oydKULcXxV0qpvd?si=cfa36458228f4feb",
     youtubeMusic: "https://music.youtube.com/watch?v=xeWAzPdUBj8&si=fl4ufHkQ1Rvw3PtR",
     appleMusic: "https://music.apple.com/us/song/jeffrey-r-holland-and-now-i-see-conference-talk-song-oct-2025/1845688275",

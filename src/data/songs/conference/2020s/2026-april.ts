@@ -52,30 +52,12 @@ function conferenceSong({
     description: `A Conference Talk Song inspired by ${speaker}’s April 2026 General Conference message, ${title}.`,
     hyperFollow,
     links: [
-      {
-        name: "Spotify",
-        url: spotify,
-      },
-      {
-        name: "YouTube Music",
-        url: youtubeMusic,
-      },
-      {
-        name: "Apple Music",
-        url: appleMusic,
-      },
-      {
-        name: "Amazon Music",
-        url: amazonMusic,
-      },
-      {
-        name: "Lyric Video",
-        url: lyricVideo,
-      },
-      {
-        name: "Talk",
-        url: talkUrl,
-      },
+      { name: "Spotify", url: spotify, },
+      { name: "YouTube Music", url: youtubeMusic, },
+      { name: "Apple Music", url: appleMusic, },
+      { name: "Amazon Music", url: amazonMusic, },
+      { name: "Lyric Video", url: lyricVideo, },
+      { name: "Talk", url: talkUrl, },
     ],
   };
 }
@@ -118,6 +100,7 @@ export const april2026ConferenceSongs: Song[] = [
     session: "Saturday Morning",
     sessionOrder: 1,
     talkOrder: 3,
+    image: "public/songs/conference/2026/april/clark-g-gilbert-come-home.webp",
     talkUrl: "https://www.churchofjesuschrist.org/study/general-conference/2026/04/15gilbert?lang=eng",
     lyricVideo: "https://youtu.be/A-Itzp2dQHs",
 	spotify: "https://open.spotify.com/track/3CaA5jOrcaNql3Mnf5YXk1?si=a52e5f555a9344c5",
