@@ -23,7 +23,6 @@ export const goodlySongs: Song[] = [
   },
   {
     slug: "love-at-home-country",
-    featured: true,
     hymnId: "love-at-home",
     title: "Love at Home",
     collection: "Hymns",

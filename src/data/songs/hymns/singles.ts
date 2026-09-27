@@ -210,6 +210,10 @@ export const hymnSingles: Song[] = [
 		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/a-poor-wayfaring-man-of-grief-country-ballad",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/kqWz9y6dtr0", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/3DhA2aB4b5TQ06eib54ufT?si=2f9ed8258b914708", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=Uwc4u8ZOvrI&si=xTYPOh675YnPqn9g", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/a-poor-wayfaring-man-of-grief-country-ballad/6815502211", },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HKSKSWNH?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_LKjbmLBIs1QKZoBFg8bFybD1W", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/a-poor-wayfaring-man-of-grief?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
@@ -242,6 +246,22 @@ export const hymnSingles: Song[] = [
     links: [
       { name: "Cinematic", url: "https://youtu.be/r8q7uaGQj8M" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/saturday?crumbs=childrens-songbook&order=number&lang=eng", },
+    ],
+  },
+	{
+    slug: "we-thank-thee-o-god-for-a-prophet-cinematic-pop-rock",
+    featured: true,
+    hymnId: "we-thank-thee-o-god-for-a-prophet",
+    title: "We Thank Thee, O God, For a Prophet",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-10-04",
+    style: "Cinematic Pop Rock",
+    description: "A Cinematic Pop Rock reimagining of the hymn We Thank Thee, O God, For a Prophet.",
+		image: "/songs/hymns/we-thank-thee-o-god-for-a-prophet-cinematic-pop-rock.webp",
+    links: [
+      { name: "Cinematic", url: "https://youtu.be/dM7aTH7YlMY" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/we-thank-thee-o-god-for-a-prophet?lang=eng", },
     ],
   },
 ];
