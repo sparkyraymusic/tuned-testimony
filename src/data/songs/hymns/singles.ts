@@ -234,7 +234,6 @@ export const hymnSingles: Song[] = [
 	},
 	{
     slug: "saturday-pop-big-band",
-    featured: true,
     hymnId: "saturday",
     title: "Saturday",
     collection: "Hymns",
@@ -262,6 +261,22 @@ export const hymnSingles: Song[] = [
     links: [
       { name: "Cinematic", url: "https://youtu.be/dM7aTH7YlMY" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/we-thank-thee-o-god-for-a-prophet?lang=eng", },
+    ],
+  },
+	{
+    slug: "praise-to-the-man-celtic-folk-rock",
+    featured: true,
+    hymnId: "praise-to-the-man",
+    title: "Praise to the Man",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-10-09",
+    style: "Celtic Folk Rock",
+    description: "A Celtic Folk Rock reimagining of the hymn Praise to the Man.",
+		image: "/songs/hymns/praise-to-the-man-celtic-folk-rock.webp",
+    links: [
+      { name: "Cinematic", url: "https://youtu.be/apw5kYEm4mc" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-man?lang=eng", },
     ],
   },
 ];
