@@ -20,6 +20,29 @@ type HymnAlbum = {
 
 export const hymnAlbums: HymnAlbum[] = [
 	{
+		slug: "truth-restored",
+		title: "Truth Restored",
+		subtitle: "Hymns celebrating the Restoration of the Gospel",
+		image: "/albums/truth-restored.webp",
+		links: [
+			{ name: "Spotify", url: "https://open.spotify.com/album/4dARBSnwmUpDrxOWeDQArP", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/album/truth-restored/1805428777", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mHIPzYoTcwL7iZnUdOOTco1XvZZDbjWHI&si=PUKVFiRkoagwebew", }
+		],
+		tracks: [
+			{ title: "The Morning Breaks", style: "Ballad", songSlug: "the-morning-breaks-ballad", },
+			{ title: "The Spirit of God", style: "Celtic", songSlug: "the-spirit-of-god-celtic", },
+			{ title: "Now Let Us Rejoice", style: "Country", songSlug: "now-let-us-rejoice-country", },
+			{ title: "Truth Eternal", style: "Pop", songSlug: "truth-eternal-pop", },
+			{ title: "High on the Mountain Top", style: "Country", songSlug: "high-on-the-mountain-top-country", },
+			{ title: "Redeemer of Israel", style: "Pop", songSlug: "redeemer-of-israel-pop" },
+			{ title: "Israel, Israel, God is Calling", style: "A Cappella", songSlug: "israel-israel-god-is-calling-a-cappella" },
+			{ title: "Come, Sing to the Lord", style: "Ballad", songSlug: "come-sing-to-the-lord-ballad" },
+			{ title: "What Was Witnessed in the Heavens?", style: "A Cappella", songSlug: "what-was-witnessed-in-the-heavens-a-cappella" },
+			{ title: "An Angel From On High", style: "Rock", songSlug: "an-angel-from-on-high-rock" },
+		],
+	},
+	{
 		slug: "josephs-vision",
 		title: "Joseph's Vision",
 		subtitle: "Hymns celebrating Joseph Smith and the Restoration",
