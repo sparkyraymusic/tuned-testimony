@@ -219,6 +219,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "dare-to-do-right-alternative-pop-punk-rock",
+    featured: true,
    	hymnId: "dare-to-do-right",
 		title: "Dare to Do Right",
 		collection: "Hymns",
@@ -234,6 +235,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
     slug: "saturday-pop-big-band",
+    featured: true,
     hymnId: "saturday",
     title: "Saturday",
     collection: "Hymns",
@@ -277,6 +279,22 @@ export const hymnSingles: Song[] = [
     links: [
       { name: "Cinematic", url: "https://youtu.be/apw5kYEm4mc" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-man?lang=eng", },
+    ],
+  },
+	{
+    slug: "truth-eternal-sacred-pop",
+    featured: true,
+    hymnId: "truth-eternal",
+    title: "Truth Eternal",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-10-13",
+    style: "Sacred Pop",
+    description: "A Sacred Pop reimagining of the hymn Truth Eternal.",
+		image: "/songs/hymns/truth-eternal-sacred-pop.webp",
+    links: [
+      { name: "Cinematic", url: "https://youtu.be/_mbxMHys970" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/truth-eternal?crumbs=hymns&order=number&lang=eng", },
     ],
   },
 ];
