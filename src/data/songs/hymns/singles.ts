@@ -230,6 +230,10 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.webp",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/O5UeVDl5MOU", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/6dger1xGik7fQvdyVuQN6G?si=9b9f9a1ea44b4181", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=MddK9sLORyw&si=ocaUxpUEIXKHchgB", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/album/dare-to-do-right-alternative-pop-punk-rock-single/6815789047?uo=4", },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HKVTSJD1?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_alIIEBuRerOEklazELbwyNyWF", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/dare-to-do-right?crumbs=childrens-songbook&order=number&lang=eng", },
 		],
 	},
@@ -246,6 +250,10 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/saturday-pop-big-band.webp",
     links: [
       { name: "Cinematic", url: "https://youtu.be/r8q7uaGQj8M" },
+			{ name: "Spotify", url: "https://open.spotify.com/track/12GZuf26UypZs637cjflp0?si=94698848a7b84af9" },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=U-r7pzxaEEU&si=ebuVEa_ARoiM8LoV" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/saturday-pop-big-band/6815773969" },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HKVS7ZJG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_Dsg8jjBLtkSXreW061h6FjjZy" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/saturday?crumbs=childrens-songbook&order=number&lang=eng", },
     ],
   },
@@ -262,6 +270,10 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/we-thank-thee-o-god-for-a-prophet-cinematic-pop-rock.webp",
     links: [
       { name: "Cinematic", url: "https://youtu.be/dM7aTH7YlMY" },
+			{ name: "Spotify", url: "https://open.spotify.com/track/3eHgSyBmN1hvvOQ1txhCtP?si=6b33d9d449bd4c41" },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=42cm4hglDIk&si=Dv5LnTdBhXeD_AAN" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/album/we-thank-thee-o-god-for-a-prophet-cinematic-pop-rock-single/6819070162?uo=4" },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HLWRVWN1?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_4rI4ZgqosJoBwCh28gyf1Ndno" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/we-thank-thee-o-god-for-a-prophet?lang=eng", },
     ],
   },

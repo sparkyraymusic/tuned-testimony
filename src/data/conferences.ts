@@ -9,7 +9,13 @@ export type Conference = {
 };
 
 export const conferences: Conference[] = [
-    {
+  {
+    slug: "2026-october",
+    year: 2026,
+    month: "October",
+    title: "October 2026 General Conference",
+  },
+  {
     slug: "2026-april",
     year: 2026,
     month: "April",
