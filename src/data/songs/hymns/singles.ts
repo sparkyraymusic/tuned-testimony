@@ -292,6 +292,7 @@ export const hymnSingles: Song[] = [
       { name: "Cinematic", url: "https://youtu.be/apw5kYEm4mc" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/0VVsR52M9UvlFKvfXtpwnY?si=92fc3141c357490f" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=xAZih7qH44Y&si=Kigd442Q_yZoPW8M" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/praise-to-the-man-celtic-folk-rock/6819078881" },
 			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HLWVKGJG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_9lG54BN08A5ZVSa2YCIbgUm7N" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/study/manual/hymns/praise-to-the-man?lang=eng", },
     ],
