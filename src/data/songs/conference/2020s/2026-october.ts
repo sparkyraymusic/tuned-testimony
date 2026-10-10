@@ -82,7 +82,7 @@ export const october2026ConferenceSongs: Song[] = [
     collection: "Conference",
     releaseType: "Single",
     style: "Conference Talk Song",
-    image: "/songs/conference/2026/october/dallin-h-oaks-the-gospel-of-jesus-christ-is-for-all.png",
+    image: "/songs/conference/2026/october/dallin-h-oaks-the-gospel-of-jesus-christ-is-for-all.webp",
     conferenceYear: 2026,
     conferenceMonth: "October",
     conferenceSession: "Sunday Morning",
