@@ -20,6 +20,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/12gong?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/LLskn0YiGAY", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/gerrit-w-gong-come-to-the-lord-in-his-holy-house/6821814551", },
+      { name: "Spotify", url: "https://open.spotify.com/track/4H895vaSkFHs9oKfwf7yb3?si=0e10ca421ae74ade", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=-qRQPCkzGDs&si=q4T9HJiMf1pMgaBL", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HMPXCCSP?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_yefWBaVnT25ftwEtNEfMuZ3AJ", },
     ],
   },
   {
@@ -70,6 +74,27 @@ export const october2026ConferenceSongs: Song[] = [
       { name: "Spotify", url: "https://open.spotify.com/track/3YEG911RL3cdrUtMwREBGB?si=7414917795bf4d5b", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_lzNAcj7uibBWj5C30KzyuxiSl704ACkvQ&si=1USGUbveG2_-DuGu", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HMD39WJQ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_stekUQGYjvyCcIH2Ronchv6O3", },
+    ],
+  },
+  {
+    slug: "ronald-a-rasband-love-like-jesus",
+    title: "Love Like Jesus",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/ronald-a-rasband-love-like-jesus.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Saturday Afternoon",
+    conferenceSessionOrder: 2,
+    conferenceSpeaker: "Ronald A. Rasband",
+    conferenceTalkOrder: 18,
+    releaseDate: "2026-10-12",
+    description: "A Conference Talk Song inspired by Elder Ronald A. Rasband's October 2026 message, “Love Like Jesus”.",
+    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/ronald-a-rasband-love-like-jesus-conference-talk-song---oct-2026",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/210rasband?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/bB1WT4tjXRI", },
     ],
   },
   {
