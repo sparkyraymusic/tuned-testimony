@@ -61,6 +61,32 @@ test("player survives navigation, advances, pauses, replaces its queue, and clos
   await expect(player).toHaveCount(0);
 });
 
+test("song-page playback stays in the bottom player across navigation and replaces a collection", async ({ page }) => {
+  const track = buildListeningQueue(songs.filter(song => song.collection === "Hymns")).tracks[0];
+  await page.goto(`/songs/${track.slug}`);
+  const player = page.getByRole("complementary", { name: "Listening player" });
+  await page.getByRole("button", { name: /^Play .+ for / }).click();
+  await expect(player.getByRole("button", { name: "Pause", exact: true })).toBeEnabled();
+  await expect(player).toContainText("1 of 1");
+  await expect(player.getByRole("link").first()).toHaveText(track.title);
+  await page.getByRole("navigation", { name: "Main navigation" }).getByRole("link", { name: "Home", exact: true }).click();
+  await expect(page).toHaveURL("/");
+  await expect(player).toBeVisible();
+  await page.locator('a[href="/hymns"]').click();
+  await expect(page).toHaveURL("/hymns");
+  await expect(player.getByRole("button", { name: "Pause", exact: true })).toBeEnabled();
+  expect(await page.evaluate(() => (window as unknown as { __players: unknown[] }).__players.length)).toBe(1);
+  await page.getByRole("button", { name: "Play all: All Hymns", exact: true }).click();
+  await expect(player.getByRole("button", { name: "Pause", exact: true })).toBeEnabled();
+  await player.getByRole("link").first().click();
+  await page.getByRole("button", { name: /^Play .+ for / }).click();
+  await expect(player).toContainText("1 of 1");
+  await expect(player.getByRole("button", { name: "Pause", exact: true })).toBeEnabled();
+  expect(await page.evaluate(() => (window as unknown as { __players: { destroyed?: boolean }[] }).__players.map(instance => !!instance.destroyed))).toEqual([true, true, false]);
+  await player.getByRole("button", { name: "Close player and stop listening" }).click();
+  await expect(player).toHaveCount(0);
+});
+
 test("hymnal selection includes only main English arrangements and follows filtering", async ({ page }) => {
   await page.goto("/hymns/by-hymnal");
   await page.getByRole("button", { name: "Play all: 1985 Hymn Book", exact: true }).click();

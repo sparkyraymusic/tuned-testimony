@@ -102,6 +102,12 @@ export const hymnCatalog = {
       "hymns-1985": "30"
     }
   },
+  "the-day-dawn-is-breaking": {
+    "title": "The Day Dawn Is Breaking",
+    "numbers": {
+      "hymns-1985": "52"
+    }
+  },
   "come-ye-children-of-the-lord": {
     "title": "Come, Ye Children of the Lord",
     "numbers": {

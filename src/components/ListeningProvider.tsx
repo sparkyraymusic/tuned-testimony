@@ -31,8 +31,6 @@ export default function ListeningProvider({ children }: { children: ReactNode })
       start(tracks, title, shuffle = false) {
         if (!tracks.length) return;
         trigger.current = document.activeElement instanceof HTMLElement ? document.activeElement : null;
-        // Stop a standalone video before beginning a collection, and vice versa.
-        window.dispatchEvent(new Event("tuned-testimony:stop-video"));
         setSession({ tracks: shuffle ? shuffledTracks(tracks) : [...tracks], title, id: ++nextId.current });
       },
       stop,

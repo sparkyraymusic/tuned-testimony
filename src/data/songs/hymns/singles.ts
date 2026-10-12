@@ -219,7 +219,7 @@ export const hymnSingles: Song[] = [
 	},
 	{
 		slug: "dare-to-do-right-alternative-pop-punk-rock",
-    featured: true,
+    featured: false,
    	hymnId: "dare-to-do-right",
 		title: "Dare to Do Right",
 		collection: "Hymns",
@@ -311,6 +311,22 @@ export const hymnSingles: Song[] = [
     links: [
       { name: "Cinematic", url: "https://youtu.be/_mbxMHys970" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/truth-eternal?crumbs=hymns&order=number&lang=eng", },
+    ],
+  },
+	{
+    slug: "the-day-dawn-is-breaking-cinematic-worship",
+    featured: true,
+    hymnId: "the-day-dawn-is-breaking",
+    title: "The Day Dawn Is Breaking",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-10-20",
+    style: "Cinematic Worship",
+    description: "A Cinematic Worship reimagining of the hymn The Day Dawn Is Breaking.",
+		image: "/songs/hymns/the-day-dawn-is-breaking-cinematic-worship.webp",
+    links: [
+      { name: "Cinematic", url: "https://youtu.be/VAe_EVXWg8s" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/the-day-dawn-is-breaking?crumbs=hymns&order=number&lang=eng", },
     ],
   },
 ];

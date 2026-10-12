@@ -2,6 +2,27 @@ import type { Song } from "../../types";
 
 export const october2026ConferenceSongs: Song[] = [
   {
+    slug: "gerrit-w-gong-come-to-the-lord-in-his-holy-house",
+    title: "Come to the Lord in His Holy House",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/gerrit-w-gong-come-to-the-lord-in-his-holy-house.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Saturday Morning",
+    conferenceSessionOrder: 1,
+    conferenceSpeaker: "Gerrit W. Gong",
+    conferenceTalkOrder: 1,
+    releaseDate: "2026-10-11",
+    description: "A Conference Talk Song inspired by Elder Gerrit W. Gong's October 2026 message, “Come to the Lord in His Holy House”.",
+    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/gerrit-w-gong-come-to-the-lord-in-his-holy-house-conference-talk-song---oct-2026",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/12gong?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/LLskn0YiGAY", },
+    ],
+  },
+  {
     slug: "tamara-w-runia-the-sculpting-of-our-souls",
     title: "The Sculpting of Our Souls",
     collection: "Conference",
@@ -95,6 +116,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/49oaks?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/502RC-xY6Zw", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/dallin-h-oaks-the-gospel-of-jesus-christ-is-for/6821590871", },
+      { name: "Spotify", url: "https://open.spotify.com/track/5RYcMOJI949PsIFjTcZW1Y?si=2e41aea4c9904edf", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=q2gBcG3qazs&si=wVbfASksGe8904Tx", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HMMC26FK?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_NYq2j4XJ5VdTaEy5BgExiUwDV", },
     ],
   },
 ];
