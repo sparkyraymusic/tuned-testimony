@@ -412,6 +412,10 @@ export const oldTestamentSingles: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-5813-14-delight-thyself-in-the-lord-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/2KrTFuGu8WA", },
+      { name: "Spotify", url: "https://open.spotify.com/track/17lw6dzP97eI5kMvKtZMwo?si=fbf1c966d7004ce0", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=STbeQ3gMgi8&si=UQM3BDyw-oAGvkAj", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-58-13-14-delight-thyself-in-the-lord-scripture-song/6812128021", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HJT7T2YV?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_ptGXHzpozW22JuhZowrh77qbs", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/isa/58?lang=eng" },
     ],
   },
@@ -430,6 +434,10 @@ export const oldTestamentSingles: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeremiah-14-5-before-i-formed-thee-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/jSpAYLgJbHc", },
+      { name: "Spotify", url: "https://open.spotify.com/track/4rSzLGmUZPgVvzu7OJSq9G?si=ce668229c8a9493a", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=BRtCH74uIUc&si=QBfgXLmjileWi2C2", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/jeremiah-1-4-5-before-i-formed-thee-scripture-song/6816466326", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HL4CJX68?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_SbWQSZxlAKkFD18lcNGPlpeh5", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/1?lang=eng" },
     ],
   },
@@ -448,6 +456,10 @@ export const oldTestamentSingles: Song[] = [
     hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeremiah-1616-fishers-of-men-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/HjQdQrO--GQ", },
+      { name: "Spotify", url: "https://open.spotify.com/track/6ulBwGvliirexIUmil45n1?si=3447b0de8fe84ccc", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=lL1EAeU91as&si=IsC2kTQxzt_42JIE", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/jeremiah-16-16-fishers-of-men-scripture-song/6816573318", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HL5CQD8G?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_xsU4kScXBPoSoV1d4aPXXBnVS", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/jer/16?lang=eng" },
     ],
   },

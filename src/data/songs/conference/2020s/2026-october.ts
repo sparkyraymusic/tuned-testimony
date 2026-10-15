@@ -77,6 +77,27 @@ export const october2026ConferenceSongs: Song[] = [
     ],
   },
   {
+    slug: "michael-a-dunn-the-ninety-and-ten",
+    title: "The Ninety and Ten",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/michael-a-dunn-the-ninety-and-ten.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Saturday Afternoon",
+    conferenceSessionOrder: 2,
+    conferenceSpeaker: "Michael A. Dunn",
+    conferenceTalkOrder: 16,
+    releaseDate: "2026-10-15",
+    description: "A Conference Talk Song inspired by Elder Michael A. Dunn's October 2026 message, “The Ninety and Ten”.",
+    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/michael-a-dunn-the-ninety-and-ten-conference-talk-song---oct-2026",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/28dunn?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/lQFwWIhurDw", },
+    ],
+  },
+  {
     slug: "ronald-a-rasband-love-like-jesus",
     title: "Love Like Jesus",
     collection: "Conference",
@@ -95,6 +116,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/210rasband?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/bB1WT4tjXRI", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/ronald-a-rasband-love-like-jesus-conference-talk/6822124392", },
+      { name: "Spotify", url: "https://open.spotify.com/track/16R9SPd7yd4xvjgxurIEBo?si=9ee9b49128b44f35", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=B3VyL_s79QU&si=CUEmndI00D3LCJfl", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HMSRT2T1?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_iTjxIsheap5U2eBOJR4pEykkH", },
     ],
   },
   {

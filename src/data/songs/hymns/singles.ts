@@ -310,6 +310,10 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/truth-eternal-sacred-pop.webp",
     links: [
       { name: "Cinematic", url: "https://youtu.be/_mbxMHys970" },
+			{ name: "Spotify", url: "https://open.spotify.com/track/3tWhZD3ZCkf1jTNWYB5bp0?si=f859ff4d7f3e4de0" },
+			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mdoSgbANSyoC2d7RErHEWKxQjdznLIOtE&si=rBQxDz3hHpbZcNHt" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/truth-eternal/6818046236" },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HLP2MCM3?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_NfCZl8kZoouZMRtKwtc2hX7aJ" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/truth-eternal?crumbs=hymns&order=number&lang=eng", },
     ],
   },
