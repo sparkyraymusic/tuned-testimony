@@ -172,4 +172,25 @@ export const october2026ConferenceSongs: Song[] = [
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HMMC26FK?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_NYq2j4XJ5VdTaEy5BgExiUwDV", },
     ],
   },
+  {
+    slug: "andrea-munoz-spannaus-god-is-at-your-side",
+    title: "God Is at Your Side",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/andrea-munoz-spannaus-god-is-at-your-side.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Sunday Afternoon",
+    conferenceSessionOrder: 4,
+    conferenceSpeaker: "Andrea Muñoz Spannaus",
+    conferenceTalkOrder: 29,
+    releaseDate: "2026-10-16",
+    description: "A Conference Talk Song inspired by Sister Andrea Muñoz Spannaus' October 2026 message, “God Is at Your Side”.",
+    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/andrea-muoz-spannaus-god-is-at-your-side-conference-talk-song---oct-2026",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", }
+    ],
+  },
 ];
