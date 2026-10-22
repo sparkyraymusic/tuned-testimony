@@ -123,6 +123,26 @@ export const october2026ConferenceSongs: Song[] = [
     ],
   },
   {
+    slug: "henry-b-eyring-fear-not-i-am-with-thee",
+    title: "Fear Not, I Am with Thee",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/henry-b-eyring-fear-not-i-am-with-thee.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Sunday Morning",
+    conferenceSessionOrder: 3,
+    conferenceSpeaker: "Henry B. Eyring",
+    conferenceTalkOrder: 19,
+    releaseDate: "2026-10-21",
+    description: "A Conference Talk Song inspired by Elder Henry B. Eyring's October 2026 message, “Fear Not, I Am with Thee”.",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/41eyring?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/gXB0thjjoRI", },
+    ],
+  },  
+  {
     slug: "neil-l-andersen-courage-born-of-our-faith-in-jesus-christ",
     title: "Courage Born of Our Faith in Jesus Christ",
     collection: "Conference",
@@ -191,6 +211,27 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", }
+    ],
+  },
+  {
+    slug: "paul-h-sinclair-quick-to-help-slow-to-judge",
+    title: "Quick to Help, Slow to Judge",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/paul-h-sinclair-quick-to-help-slow-to-judge.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Sunday Afternoon",
+    conferenceSessionOrder: 4,
+    conferenceSpeaker: "Paul H. Sinclair",
+    conferenceTalkOrder: 33,
+    releaseDate: "2026-10-19",
+    description: "A Conference Talk Song inspired by Brother Paul H. Sinclair's October 2026 message, “Quick to Help, Slow to Judge”.",
+    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/paul-h-sinclair-quick-to-help-slow-to-judge-conference-talk-song---oct-2026",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/56sinclair?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/BHTg5CqelOg", }
     ],
   },
 ];
