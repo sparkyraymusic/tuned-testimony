@@ -11,7 +11,6 @@ export const internationalSingles: Song[] = [
     releaseDate: "2026-05-29",
     image: "/songs/hymns/international/spanish/now-let-us-rejoice-spanish.webp",
     description: "A Spanish-language arrangement of the beloved hymn Now Let Us Rejoice.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/ya-regocijemos-now-let-us-rejoice---spanish-2",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/7GP5IyiJazqIIEFES8yY5F?si=TyIKroI0Sq693HMX5Cnutw", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=LIq43ufveGU&si=dI29R3ZYT3yDjsEk", },
@@ -30,7 +29,6 @@ export const internationalSingles: Song[] = [
     releaseDate: "2026-06-05",
     image: "/songs/hymns/international/portuguese/now-let-us-rejoice-portuguese.webp",
     description: "A Portuguese-language arrangement of the beloved hymn Now Let Us Rejoice.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/alegres-cantemos-now-let-us-rejoice---portuguese-2",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/track/6HRqv1XHKer3jVAG6vqMOL?si=533677cb1a78402d", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mdNuSi1EBk779dYL4TZ9HOmrS6WlJclLA&si=HArpeZK1lAlgYh8R", },
@@ -49,7 +47,6 @@ export const internationalSingles: Song[] = [
     releaseDate: "2026-06-12",
     image: "/songs/hymns/international/tagalog/now-let-us-rejoice-tagalog.webp",
     description: "A Tagalog-language arrangement of the beloved hymn Now Let Us Rejoice.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/tayoy-magalak-now-let-us-rejoice---tagalog",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/5Kac3JzuDgwUKLRpDkcqQA?si=X1ycmeqZTMuLbF-mDrngnQ", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mTJNcUaYYmXrBNVsyjS6e0NbDfpehLzC0&si=xR7Ssu4aj3Y53Ud2", },
@@ -69,7 +66,6 @@ export const internationalSingles: Song[] = [
 		releaseDate: "2026-08-04",
 		image: "/songs/hymns/international/german/i-know-that-my-redeemer-lives-german.webp",
 		description: "A German-language arrangement of the beloved hymn I Know That My Redeemer Lives.",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/ich-wei-da-mein-erlser-lebt-i-know-that-my-redeemer-lives---german-2",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/0LwdsIhoWyNruheTUKRhtY", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=BcNQvj2IB6w&si=k3j7yOStSRPM28Ac", },
@@ -88,7 +84,6 @@ export const internationalSingles: Song[] = [
 		releaseDate: "2025-10-02",
 		image: "/songs/hymns/international/portuguese/the-lord-is-my-light-portuguese.webp",
 		description: "A Portuguese-language arrangement of the beloved hymn The Lord Is My Light.",
-		hyperFollow: "https://distrokid.com/hyperfollow/hinoderiva/jesus-minha-luz-pop-ballad-version",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/3Pvk41eTHjyxH5XJGoSNER", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=3Wp9iQArvag&si=amTog9FIeEPEzE3t", },
@@ -107,7 +102,6 @@ export const internationalSingles: Song[] = [
 		releaseDate: "2026-09-01",
 		image: "/songs/hymns/international/japanese/i-need-thee-every-hour-japanese.webp",
 		description: "A Japanese-language arrangement of the beloved hymn I Need Thee Every Hour.",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/-i-need-thee-every-hour---japanese",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/3Oc3LtDVQAv9eoCGuCeC2h?si=1f46a1ab7b8a48d9", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=As1Q69jB3gE&si=v5K44NKlvjHOZNgu", },

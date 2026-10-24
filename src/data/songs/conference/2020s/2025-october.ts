@@ -1,6 +1,5 @@
 import type { Song } from "../../types";
 
-const hyperFollow = "https://distrokid.com/hyperfollow/scriptsure/october-2025-lds-general-conference-testimonies-in-tune";
 
 type ConferenceSongInput = {
   slug: string;
@@ -50,7 +49,6 @@ function conferenceSong({
     conferenceTalkUrl: talkUrl,
     image,
     description: `A Conference Talk Song inspired by ${speaker}’s October 2025 General Conference message, ${title}.`,
-    hyperFollow,
     links: [
       ...(spotify ? [{ name: "Spotify", url: spotify }] : []),
       ...(youtubeMusic ? [{ name: "YouTube Music", url: youtubeMusic }] : []),

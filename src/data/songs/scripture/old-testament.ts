@@ -13,7 +13,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-01-12",
     image: "/songs/scripture/old-testament/genesis-1-26-27-in-his-image.webp",
     description: "A Scripture Song based on Genesis 1:26–27, celebrating the divine truth that men and women were created in the image and likeness of God.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-genesis-126-27-in-his-image",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/eQi4miOCFok", },
       { name: "Spotify", url: "https://open.spotify.com/album/7jEAfmg414sMvRLDvLsD5e", },
@@ -35,7 +34,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2025-12-27",
     image: "/songs/scripture/old-testament/genesis-2-24-one-flesh.webp",
     description: "A Scripture Song based on Genesis 2:24, teaching the sacred union of husband and wife as they leave father and mother, cleave to one another, and become one flesh.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-genesis-224-one-flesh",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/X4V5DIGaIgI", },
       { name: "Spotify", url: "https://open.spotify.com/album/00V6lvr705dnbBokWLkyuw", },
@@ -57,7 +55,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-03-09",
     image: "/songs/scripture/old-testament/genesis-39-9-no-sin-against-god.webp",
     description: "A Scripture Song based on Genesis 39:9 and Joseph’s refusal to betray his trust or sin against God, celebrating integrity and faithfulness in the face of temptation.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-genesis-399-no-sin-against-god",
     links: [
       { name: "YouTube Short", url: "https://youtube.com/shorts/LL6Vh_UguHE?feature=share", },
       { name: "Spotify", url: "https://open.spotify.com/album/3ewFvwkklnJfCBEVcqaS9Z", },
@@ -79,7 +76,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-04-20",
     image: "/songs/scripture/old-testament/exodus-20-3-17-the-ten-commandments.webp",
     description: "A Scripture Song based on Exodus 20:3–17, setting the Ten Commandments to music as a memorable reminder of God’s commandments and our covenant responsibility to follow Him.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-exodus-203-17-the-ten-commandments",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/5U4ieZ_Iq-g", },
       { name: "Spotify", url: "https://open.spotify.com/track/1AKKvwOAzpYxa0N717DMZp?si=d810f7b7663d4023", },
@@ -101,7 +97,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-04-20",
     image: "/songs/scripture/old-testament/exodus-33-11-face-to-face.webp",
     description: "A Scripture Song based on Exodus 33:11, remembering the remarkable relationship between the Lord and Moses as they spoke face to face, as a man speaks with his friend.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-exodus-3311-face-to-face",
     links: [
       { name: "YouTube Short", url: "https://youtube.com/shorts/2lJKkwBxg-4?feature=share", },
       { name: "Spotify", url: "https://open.spotify.com/album/56hQuIrCemTe1TEAmeNxAd", },
@@ -123,7 +118,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-04-27",
     image: "/songs/scripture/old-testament/leviticus-19-18-love-thy-neighbor.webp",
     description: "A Scripture Song based on Leviticus 19:18 and the timeless commandment to reject vengeance and grudges and instead love our neighbors as ourselves.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-leviticus-1918-love-thy-neighbor",
     links: [
       { name: "YouTube Short", url: "https://youtube.com/shorts/f1U1Ol0ezMs?feature=share", },
       { name: "Spotify", url: "https://open.spotify.com/album/2ThKZi9cgMwqerevZphaMx", },
@@ -145,7 +139,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-05-11",
     image: "/songs/scripture/old-testament/deuteronomy-7-3-4-keep-my-covenant.webp",
     description: "A Scripture Song based on Deuteronomy 7:3–4, emphasizing covenant faithfulness and the importance of guarding against influences that can turn our hearts away from God.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-deuteronomy-73-4-keep-my-covenant",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/bjMr7IWjqIA", },
       { name: "Spotify", url: "https://open.spotify.com/album/3DJNDsvg0ON1UUK6muI3Hj", },
@@ -167,7 +160,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-05-18",
     image: "/songs/scripture/old-testament/joshua-1-8-meditate-day-and-night.webp",
     description: "A Scripture Song based on Joshua 1:8, encouraging us to keep the word of God close, meditate upon it day and night, and faithfully live what it teaches.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-joshua-18-meditate-day--night",
     links: [
       { name: "YouTube Short", url: "https://youtube.com/shorts/49GzyN8g4X0?feature=share", },
       { name: "Spotify", url: "https://open.spotify.com/album/1bTHyIAMRZlduq7UXiWqsQ", },
@@ -189,7 +181,6 @@ export const oldTestamentSingles: Song[] = [
     releaseDate: "2026-05-18",
     image: "/songs/scripture/old-testament/joshua-24-15-choose-this-day.webp",
     description: "A Scripture Song based on Joshua 24:15 and Joshua’s bold declaration of commitment: choose whom you will serve, but as for me and my house, we will serve the Lord.",
-    hyperFollow: "https://distrokid.com/hyperfollow/scriptsure/scripture-mastery-songs-old-testament-joshua-2415-choose-this-day",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/0onNgqS0nKU", },
       { name: "Spotify", url: "https://open.spotify.com/track/0XojuqRDt0SV3yK1Il81tq?si=a254b761e81b49d7", },
@@ -212,7 +203,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "1 Samuel 16:7",
     image: "/songs/scripture/old-testament/1-samuel-16-7-looketh-on-the-heart.webp",
     description: "A scripture song based on 1 Samuel 16:7 and its reminder that the Lord looks on the heart.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/1-samuel-167-looketh-on-the-heart-scripture-song",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/TIFuA6ANRqk", },
       { name: "Spotify", url: "https://open.spotify.com/track/21zwEuRvL2ygdzUIYG8dNx?si=6834fcc72a7e40b0", },
@@ -234,7 +224,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Job 19:25-26",
     image: "/songs/scripture/old-testament/job-19-25-26-my-redeemer-liveth.webp",
     description: "A scripture song based on Job 19:25-26 and Job's testimony that his Redeemer lives.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/job-1925-26-my-redeemer-liveth-scripture-song",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/fydb2OZAGh8", },
       { name: "Spotify", url: "https://open.spotify.com/album/3vYYNePmdb2Kl30HUvv9PB", },
@@ -256,7 +245,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Psalm 24:3-4",
     image: "/songs/scripture/old-testament/psalm-24-3-4-clean-hands-pure-heart.webp",
     description: "A scripture song based on Psalm 24:3-4. Who shall ascend into the hill of the Lord?...He that hath clean hands, and a pure heart...",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/psalms-243-4-clean-hands-pure-heart-scripture-song",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/72tC0uEyYEQ", },
       { name: "Spotify", url: "https://open.spotify.com/album/0lkGWra9lZwwkdXgLNi8dA", },
@@ -277,7 +265,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureBook: "Proverbs",
     scriptureReference: "Proverbs 3:5-6",
     description: "A scripture song based on Proverbs 3:5-6. Trust in the Lord with all your heart, and lean not on your own understanding...",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/proverbs-35-6-trust-in-the-lord-scripture-song",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/Uf3FfWafM7M", },
       { name: "Spotify", url: "https://open.spotify.com/track/2dmkejkIn5har6D64aSW7J?si=52b0fb5d069b402c", },
@@ -299,7 +286,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Isaiah 1:18",
     image: "/songs/scripture/old-testament/isaiah-1-18-white-as-snow.webp",
     description: "A scripture song based on Isaiah 1:18. 'Come now, and let us reason together,' says the Lord...",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-118-white-as-snow-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/5qpspVuPIh4", },
       { name: "Spotify", url: "https://open.spotify.com/track/4sLCzvAR4u4Jabck8n9Bzh?si=e01df7c996804a1a", },
@@ -321,7 +307,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Isaiah 5:20",
     image: "/songs/scripture/old-testament/isaiah-5-20-good-and-evil.webp",
     description: "A scripture song based on Isaiah 5:20. 'Woe to those who call evil good and good evil...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-520-good-and-evil-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/Aiwr-tuVYTk", },
       { name: "Spotify", url: "https://open.spotify.com/track/5YjW8cxGmzAEWB0ydM2rhf?si=b56aa7a55146446e", },
@@ -343,7 +328,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Isaiah 29:3-14",
     image: "/songs/scripture/old-testament/isaiah-29-3-14-marvelous-work.webp",
     description: "A scripture song based on Isaiah 29:3-14. 'I will marvel at the work of your hands...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-2913-14-marvellous-work-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/WH4VtFbxMjA", },
       { name: "Spotify", url: "https://open.spotify.com/track/12Gk0K5FkgoxYgGYdO0waF?si=94649d4d68c346f6", },
@@ -365,7 +349,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Isaiah 53:3-5",
     image: "/songs/scripture/old-testament/isaiah-53-3-5-with-his-stripes-we-are-healed.webp",
     description: "A scripture song based on Isaiah 53:3-5. 'He was pierced for our transgressions, crushed for our iniquities...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-533-5-with-his-stripes-we-are-healed-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/Ck9xNGIJ5tk", },
       { name: "Spotify", url: "https://open.spotify.com/track/0BRljNdxdFqT38dFbJxShM?si=e57c771e60234eb6", },
@@ -387,7 +370,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Isaiah 55:8-9",
     image: "/songs/scripture/old-testament/isaiah-55-8-9-my-ways-are-higher.webp",
     description: "A scripture song based on Isaiah 55:8-9. 'For my ways are higher than your ways...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-558-9-my-ways-are-higher-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/lDf-Liiz7VY", },
       { name: "Spotify", url: "https://open.spotify.com/track/2eoUIOBBnmPl0eVqWYD2XX?si=1f77dadbf202488d", },
@@ -409,7 +391,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Isaiah 58:13-14",
     image: "/songs/scripture/old-testament/isaiah-58-13-14-delight-thyself-in-the-lord.webp",
     description: "A scripture song based on Isaiah 58:13-14. 'Delight yourself in the Lord...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/isaiah-5813-14-delight-thyself-in-the-lord-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/2KrTFuGu8WA", },
       { name: "Spotify", url: "https://open.spotify.com/track/17lw6dzP97eI5kMvKtZMwo?si=fbf1c966d7004ce0", },
@@ -431,7 +412,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Jeremiah 1:4-5",
     image: "/songs/scripture/old-testament/jeremiah-1-4-5-before-i-formed-thee.webp",
     description: "A scripture song based on Jeremiah 1:4-5. 'Before I formed thee in the belly...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeremiah-14-5-before-i-formed-thee-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/jSpAYLgJbHc", },
       { name: "Spotify", url: "https://open.spotify.com/track/4rSzLGmUZPgVvzu7OJSq9G?si=ce668229c8a9493a", },
@@ -453,7 +433,6 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Jeremiah 16:16",
     image: "/songs/scripture/old-testament/jeremiah-16-16-fishersers-of-men.webp",
     description: "A scripture song based on Jeremiah 16:16. 'Behold, I will send for many fishers...'",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeremiah-1616-fishers-of-men-scripture-song",
     links: [
       { name: "Cinematic", url: "https://youtu.be/HjQdQrO--GQ", },
       { name: "Spotify", url: "https://open.spotify.com/track/6ulBwGvliirexIUmil45n1?si=3447b0de8fe84ccc", },

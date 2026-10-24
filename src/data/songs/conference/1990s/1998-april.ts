@@ -39,7 +39,6 @@ export const april1998ConferenceSongs: Song[] = [
     conferenceTalkOrder: 1,
     releaseDate: "2026-06-01",
     description: "A Conference Talk Song inspired by Elder Lynn G. Robbins’s April 1998 message, “Agency and Anger.”",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/lynn-g-robbins-agency-and-anger-conference-talk-song---apr-1998",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/1998/04/agency-and-anger?lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/2F8VrR1HXlYzgVsIW3t4qV?si=fb42f8503128488e", },

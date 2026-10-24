@@ -16,7 +16,6 @@ export const april2013ConferenceSongs: Song[] = [
     conferenceTalkOrder: 1,
     releaseDate: "2026-09-11",
     description: "A Conference Talk Song inspired by Jeffrey R. Holland’s April 2013 message, “Lord, I Believe.”",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jeffrey-r-holland-lord-i-believe-conference-talk-song---apr-2013",
     links: [
       { name: "Cinematic", url: "https://youtu.be/PhEmvb3XRnk", },
       { name: "Spotify", url: "https://open.spotify.com/track/3KlgIx1ZZawD55riHGxsD7?si=3231d172eb994f2b", },

@@ -120,32 +120,6 @@
   .actions {
     justify-content: center;
   }
-
-  .hyperFollow {
-    align-self: center;
-  }
-}
-
-.hyperFollow {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  margin-top: 1.75rem;
-  padding: 0.8rem 1.25rem;
-  border-radius: 999px;
-  background: var(--brand);
-  color: #101820;
-  font-size: 0.95rem;
-  font-weight: 800;
-  text-decoration: none;
-  transition:
-    transform 0.2s ease,
-    filter 0.2s ease;
-}
-
-.hyperFollow:hover {
-  transform: translateY(-2px);
-  filter: brightness(1.08);
 }
 
 .speeches .hero { background: radial-gradient(circle at 25% 35%, #739abd24, transparent 60%), linear-gradient(150deg, #10283e, #081827 70%); }

@@ -10,7 +10,6 @@ export const originalSingles: Song[] = [
     releaseDate: "2025-09-28",
 	  image: "/songs/originals/russell-m-nelson-his-voice-our-guide.webp",
     description: "An original song celebrating the life, legacy, and teachings of Russell M. Nelson.",
-    hyperFollow: "https://distrokid.com/hyperfollow/hymndrift/his-voice-our-guide-russell-m-nelson-life-tribute",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/gxBneNBnc-Y", },
       { name: "Spotify", url: "https://open.spotify.com/album/3w7m3AoVRCHK9ICy8dvEKx?si=ogtWcFvPRGmiK5oHlL5LjA", },
@@ -28,7 +27,6 @@ export const originalSingles: Song[] = [
     releaseDate: "2026-07-01",
 	  image: "/songs/originals/he-knelt-in-faith.webp",
     description: "An original Tuned Testimony song about choosing faith, humility, and prayer in moments of uncertainty and need.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/he-knelt-in-faith-original-songs",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/-ku_TuCPOcA", },
       { name: "Spotify", url: "https://open.spotify.com/album/4RPLi3Y8rGoGlQ1u1beNK6?si=5dFFntS1QcKIG1gosi8rVg", },
@@ -46,7 +44,6 @@ export const originalSingles: Song[] = [
     releaseDate: "2026-08-01",
 	  image: "/songs/originals/not-another-gospel.webp",
     description: "An original Tuned Testimony song exploring restoration, grace, and the claim that the restored gospel is the same good news of Jesus Christ.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/not-another-gospel",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/-sgm_fdH9NA", },
       { name: "Spotify", url: "https://open.spotify.com/album/0GcE0pkl891L6Pg0ioiywj", },
@@ -64,7 +61,6 @@ export const originalSingles: Song[] = [
     releaseDate: "2026-08-06",
 	  image: "/songs/originals/mormon-mafia.webp",
     description: "A humorous original Tuned Testimony song that flips the phrase “Mormon Mafia” into a celebration of organized kindness, service, casseroles, and showing up for one another.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/the-mormon-mafia",
     links: [
       { name: "Cinematic", url: "https://youtu.be/6i8dTtYND_w", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=WXbumePGzvo&si=2bxs-vS4r9xs5wN_", },
@@ -81,7 +77,6 @@ export const originalSingles: Song[] = [
     releaseDate: "2026-09-01",
 	  image: "/songs/originals/i-saw-a-pillar-of-light.webp",
     description: "An original song celebrating the First Vision of Joseph Smith and the restoration of the gospel of Jesus Christ.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-saw-a-pillar-of-light",
     links: [
       { name: "Lyric Video", url: "https://youtu.be/s9n3iNKXTMA", },
       { name: "Spotify", url: "https://open.spotify.com/track/5R710KuRCJjBaFPT3IAW8b?si=fbd1bd80b195475f", },

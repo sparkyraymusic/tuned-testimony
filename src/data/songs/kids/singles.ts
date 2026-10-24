@@ -11,7 +11,6 @@ export const kidsSingles: Song[] = [
     releaseDate: "2026-07-07",
     image: "/songs/hymns/kids/now-let-us-rejoice-kids.webp",
     description: "A joyful, kid-friendly reimagining of the beloved hymn Now Let Us Rejoice.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/now-let-us-rejoice-kids",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/7MRb6fsc9ODMTroKjyvdcM", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=JbwPiR5nirA&si=iBfy7RbWNv2KxEMP", },
@@ -30,7 +29,6 @@ export const kidsSingles: Song[] = [
     releaseDate: "2026-09-29",
     image: "/songs/hymns/kids/jesus-once-of-humble-birth-kids.webp",
     description: "A reverent, kid-friendly reimagining of the beloved hymn Jesus, Once of Humble Birth.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/jesus-once-of-humble-birth-kids",
     links: [
       { name: "Cinematic", url: "https://youtu.be/8JiWk795zSE", },
       { name: "Spotify", url: "https://open.spotify.com/track/23eSJlSeL1MsHw7fPzC4yr?si=f6b8e309c5c64537", },

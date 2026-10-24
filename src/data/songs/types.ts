@@ -33,7 +33,6 @@ export type Song = {
   albumTitle?: string;
   image?: string;
   description: string;
-  hyperFollow?: string;
 	conferenceYear?: number;
 	conferenceMonth?: ConferenceMonth;
 	conferenceSessionOrder?: number;

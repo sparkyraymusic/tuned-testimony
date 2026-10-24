@@ -75,17 +75,6 @@ export default async function SongPage({ params }: SongPageProps) {
               </dl>
             )}
 
-          {song.hyperFollow && (
-            <a
-              href={song.hyperFollow}
-              target="_blank"
-              rel="noopener noreferrer"
-              className={styles.hyperFollow}
-            >
-              Listen Everywhere
-            </a>
-          )}
-
           {song.albumSlug && song.albumTitle && (
             <div className={styles.meta}>
               <span>From the album</span>

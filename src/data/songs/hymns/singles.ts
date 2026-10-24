@@ -12,7 +12,6 @@ export const hymnSingles: Song[] = [
     style: "Pop",
     description: "A fresh pop reimagining of the beloved hymn Now Let Us Rejoice.",
 		image: "/songs/hymns/now-let-us-rejoice-pop.webp",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/now-let-us-rejoice-pop",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/2atLIoqG2RWUiKIqQIeCnl?si=y-mByOdTRF6fGl_jxUkLOA", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=KjcH1jCwTUs&si=Hy0XYnQBvpeIyAiC", },
@@ -32,7 +31,6 @@ export const hymnSingles: Song[] = [
     style: "Cinematic Bluegrass",
     description: "A cinematic bluegrass reimagining of the beloved pioneer hymn Come, Come, Ye Saints.",
 		image: "/songs/hymns/come-come-ye-saints-cinematic-bluegrass.webp",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/come-come-ye-saints-cinematic-bluegrass",
     links: [
       { name: "Spotify", url: "https://open.spotify.com/album/5uXWgP5DW3SJ8EgmKeFmZm?si=AygtBohsRX2nUaKCxJ-1sA", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mcdjaG3FXmB-C92FHtaxVpgJPENrcfiJM&si=Osw35OA7NnQwn2RV", },
@@ -51,7 +49,6 @@ export const hymnSingles: Song[] = [
 		style: "Country Folk Rock",
 		description: "A country folk rock reimagining of the beloved hymn High On The Mountain Top.",
 		image: "/songs/hymns/high-on-the-mountain-top-country-folk-rock.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/high-on-the-mountain-top-country-folk-rock",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/6ACuMlEwNPuloCYitZ34ft?si=9fb4428e6df74929", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=AGVa5hW4B40&si=D00zZdlWhbpfFFlV", },
@@ -70,7 +67,6 @@ export const hymnSingles: Song[] = [
 		style: "Cinematic Worship",
 		description: "A cinematic worship reimagining of the beloved hymn Lead, Kindly Light.",
 		image: "/songs/hymns/lead-kindly-light-cinematic-worship.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/lead-kindly-light-cinematic-worship",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/1sNq3KmRnnZS3XhZ6LPuSC", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=xgcGNTNXc9E&si=CbXTWmwMaSr7xppb", },
@@ -89,7 +85,6 @@ export const hymnSingles: Song[] = [
 		style: "Classic Rock",
 		description: "A classic rock reimagining of the beloved hymn Guide Us, O Thou Great Jehovah.",
 		image: "/songs/hymns/guide-us-o-thou-great-jehovah-classic-rock.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/guide-us-o-thou-great-jehovah-classic-rock",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/track/1mBBEZvQoJCJJli1kszmuY?si=88f297a59cca46b3", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=e4sPwll-azk&si=xouMNpiTnh_nsSX2", },
@@ -108,7 +103,6 @@ export const hymnSingles: Song[] = [
 		style: "Power Ballad",
 		description: "A power ballad reimagining of the beloved hymn O My Father.",
 		image: "/songs/hymns/o-my-father-power-ballad.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/o-my-father-power-ballad",
 		links: [
 			{ name: "Spotify", url: "https://open.spotify.com/album/4SnVzxShHSlZ8VpwPlkOxz", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=9MBAsQaWyjA&si=Fa1CsqxBUlsv_BxF", },
@@ -128,7 +122,6 @@ export const hymnSingles: Song[] = [
 		style: "Pop Ballad",
 		description: "A pop ballad reimagining of the beloved hymn I Stand All Amazed.",
 		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/i-stand-all-amazed-pop-ballad",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/rw-wIGHCSdQ", },
 			{ name: "Spotify", url: "https://open.spotify.com/album/6Okid5Fb313Vu6I3HSqDd6", },
@@ -148,7 +141,6 @@ export const hymnSingles: Song[] = [
 		style: "K-Pop / Rap",
 		description: "A K-Pop / Rap reimagining of the hymn Count Your Blessings.",
 		image: "/songs/hymns/count-your-blessings-k-pop-rap.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/count-your-blessings-k-poprap",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/t_ubGu73-a0", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/count-your-blessings?crumbs=hymns&order=number&lang=eng", },
@@ -165,7 +157,6 @@ export const hymnSingles: Song[] = [
 		style: "Pop/Rock",
 		description: "A Pop/Rock reimagining of the hymn Joseph Smith's First Prayer.",
 		image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/joseph-smiths-first-prayer-poprock",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/Gn1TxPDNukg", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/1gzBT9GbHaUDEJoWiSEpVT?si=82957d7fb24046fb", },
@@ -186,7 +177,6 @@ export const hymnSingles: Song[] = [
 		style: "Cinematic Gospel Rock",
 		description: "A Cinematic Gospel Rock reimagining of the all time classic hymn Battle Hymn of the Republic.",
 		image: "/songs/hymns/battle-hymn-of-the-republic-cinematic-gospel-rock.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/battle-hymn-of-the-republic-cinematic-gospel-rock",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/w3Ctda6ukAk", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/4pOsG2n1RefglAFJwj9GoP?si=4db96623b50947db", },
@@ -207,7 +197,6 @@ export const hymnSingles: Song[] = [
 		style: "Country Ballad",
 		description: "A Country Ballad reimagining of the all time classic hymn A Poor Wayfaring Man of Grief.",
 		image: "/songs/hymns/a-poor-wayfaring-man-of-grief-country-ballad.webp",
-		hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/a-poor-wayfaring-man-of-grief-country-ballad",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/kqWz9y6dtr0", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/3DhA2aB4b5TQ06eib54ufT?si=2f9ed8258b914708", },

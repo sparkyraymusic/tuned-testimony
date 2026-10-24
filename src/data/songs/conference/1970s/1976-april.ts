@@ -16,7 +16,6 @@ export const april1976ConferenceSongs: Song[] = [
     conferenceTalkOrder: 1,
     releaseDate: "2026-07-31",
     description: "A Conference Talk Song inspired by President Ezra Taft Benson’s April 1976 message, “The Constitution: A Glorious Standard.”",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/ezra-taft-benson-the-constitutiona-glorious-standard-conference-talk-song---apr-1976",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/1976/04/the-constitution-a-glorious-standard?lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/album/5dTzph8lXpP1MWwHk3DRFC" },

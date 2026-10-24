@@ -16,7 +16,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 1,
     releaseDate: "2026-10-11",
     description: "A Conference Talk Song inspired by Elder Gerrit W. Gong's October 2026 message, “Come to the Lord in His Holy House”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/gerrit-w-gong-come-to-the-lord-in-his-holy-house-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/12gong?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/LLskn0YiGAY", },
@@ -41,7 +40,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 2,
     releaseDate: "2026-10-08",
     description: "A Conference Talk Song inspired by Sister Tamara W. Runia's October 2026 message, “The Sculpting of Our Souls”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/tamara-w-runia-the-sculpting-of-our-souls-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/13runia?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/BI7U4ghjLRs", },
@@ -66,7 +64,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 15,
     releaseDate: "2026-10-07",
     description: "A Conference Talk Song inspired by Elder Patrick Kearon's October 2026 message, “Jesus Lives to Lift”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/patrick-kearon-jesus-lives-to-lift-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/27kearon?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/YEu0BKJFsxk", },
@@ -91,7 +88,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 16,
     releaseDate: "2026-10-15",
     description: "A Conference Talk Song inspired by Elder Michael A. Dunn's October 2026 message, “The Ninety and Ten”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/michael-a-dunn-the-ninety-and-ten-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/28dunn?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/lQFwWIhurDw", },
@@ -112,7 +108,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 18,
     releaseDate: "2026-10-12",
     description: "A Conference Talk Song inspired by Elder Ronald A. Rasband's October 2026 message, “Love Like Jesus”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/ronald-a-rasband-love-like-jesus-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/210rasband?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/bB1WT4tjXRI", },
@@ -157,7 +152,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 21,
     releaseDate: "2026-10-09",
     description: "A Conference Talk Song inspired by Elder Neil L. Andersen's October 2026 message, “Courage Born of Our Faith in Jesus Christ”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/neil-l-andersen-courage-born-of-our-faith-in-jesus-christ-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/43andersen?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/ojHAiQ8YPVM", },
@@ -182,7 +176,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 27,
     releaseDate: "2026-10-10",
     description: "A Conference Talk Song inspired by President Dallin H. Oaks' October 2026 message, “The Gospel of Jesus Christ Is for All”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/dallin-h-oaks-the-gospel-of-jesus-christ-is-for-all-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/49oaks?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/502RC-xY6Zw", },
@@ -207,7 +200,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 29,
     releaseDate: "2026-10-16",
     description: "A Conference Talk Song inspired by Sister Andrea Muñoz Spannaus' October 2026 message, “God Is at Your Side”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/andrea-muoz-spannaus-god-is-at-your-side-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", }
@@ -228,7 +220,6 @@ export const october2026ConferenceSongs: Song[] = [
     conferenceTalkOrder: 33,
     releaseDate: "2026-10-19",
     description: "A Conference Talk Song inspired by Brother Paul H. Sinclair's October 2026 message, “Quick to Help, Slow to Judge”.",
-    hyperFollow: "https://distrokid.com/hyperfollow/tunedtestimony/paul-h-sinclair-quick-to-help-slow-to-judge-conference-talk-song---oct-2026",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/56sinclair?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/BHTg5CqelOg", }
