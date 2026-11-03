@@ -143,6 +143,10 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/count-your-blessings-k-pop-rap.webp",
 		links: [
 			{ name: "Cinematic", url: "https://youtu.be/t_ubGu73-a0", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/338EkaJiC9mDiSJB1EOMox?si=0b8cd058d1f149a2", },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=Vkn1bIqzTHM&si=BaU_BwcclN80G-ZQ", },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/count-your-blessings-k-pop-rap/6807757261", },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HHJ73ZF7?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_iSLG8Cy9nRlyvyjgkDqVNIwdt", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/count-your-blessings?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
@@ -319,7 +323,27 @@ export const hymnSingles: Song[] = [
 		image: "/songs/hymns/the-day-dawn-is-breaking-cinematic-worship.webp",
     links: [
       { name: "Cinematic", url: "https://youtu.be/VAe_EVXWg8s" },
+			{ name: "Spotify", url: "https://open.spotify.com/track/1Mlt7ARuaYrvhh5vNOCGj1?si=d5f6cd1a48b44f00" },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=y0GGNGuOxFc&si=dRMiFwEZ3pVOP4f4" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/the-day-dawn-is-breaking-cinematic/6795384852" },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HBVJ8Z6G?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_K6bO5P6v7eVwlbBUcwECZb1Tx" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/the-day-dawn-is-breaking?crumbs=hymns&order=number&lang=eng", },
+    ],
+  },
+	{
+    slug: "come-ye-children-of-the-lord-gospel-folk",
+    featured: true,
+    hymnId: "come-ye-children-of-the-lord",
+    title: "Come Ye Children of the Lord",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-11-03",
+    style: "Gospel Folk",
+    description: "A Gospel Folk reimagining of the hymn Come Ye Children of the Lord.",
+		image: "/songs/hymns/come-ye-children-of-the-lord-gospel-folk.webp",
+    links: [
+      { name: "Cinematic", url: "https://youtu.be/1fwKOLtU1Rg" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/come-ye-children-of-the-lord?lang=eng", },
     ],
   },
 ];
