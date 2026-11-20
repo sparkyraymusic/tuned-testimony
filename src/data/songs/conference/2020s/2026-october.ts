@@ -87,6 +87,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/16hathaway?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/nLG0812PGmQ", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/jesus-christ-is-the-great-deliverer/6832026388?i=6832026392", },
+      { name: "Spotify", url: "https://open.spotify.com/track/2PYUObj3pYcH9GlzXET1nR", },
+      { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mgMbAuR3C7ZBnzjvCUO5gOniUu4b4GBAw&si=2L0z-yP0rt08oiqW", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HQVQJLHT?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_oJ6b9cI42q9w7SoOValBSubI9", },
     ],
   },
   {
@@ -131,6 +135,26 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/21renlund?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/AUSpF7MErAU", },
+    ],
+  },
+{
+    slug: "timothy-l-farnes-divine-appointments",
+    title: "Divine Appointments",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/timothy-l-farnes-divine-appointments.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Saturday Afternoon",
+    conferenceSessionOrder: 2,
+    conferenceSpeaker: "Timothy L. Farnes",
+    conferenceTalkOrder: 10,
+    releaseDate: "2026-10-27",
+    description: "A Conference Talk Song inspired by Elder Timothy L. Farnes's October 2026 message, “Divine Appointments”.",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/22farnes?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/0mORvhrHpW0", },
     ],
   },
   {
@@ -239,6 +263,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/47kyungu?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/8ERVyJ9pwkk", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/using-the-language-of-peacemakers/6832545908?i=6832546359", },
+      { name: "Spotify", url: "https://open.spotify.com/track/1DHwYOliTBRAac6dwdNgwD", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Evk7L8_uXco", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HR1RGYWL?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_5JZml9NrnCuOE0BqvfiBCgLVz", },
     ],
   },
   {
@@ -303,6 +331,26 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", }
+    ],
+  },
+  {
+    slug: "thabo-lebethoa-jesus-christ-is-the-light-and-life-of-the-world",
+    title: "Jesus Christ Is the Light and Life of the World",
+    collection: "Conference",
+    releaseType: "Single",
+    style: "Conference Talk Song",
+    image: "/songs/conference/2026/october/thabo-lebethoa-jesus-christ-is-the-light-and-life-of-the-world.webp",
+    conferenceYear: 2026,
+    conferenceMonth: "October",
+    conferenceSession: "Sunday Afternoon",
+    conferenceSessionOrder: 4,
+    conferenceSpeaker: "Thabo Lebethoa",
+    conferenceTalkOrder: 31,
+    releaseDate: "2026-11-17",
+    description: "A Conference Talk Song inspired by Brother Thabo Lebethoa's October 2026 message, “Jesus Christ Is the Light and Life of the World”.",
+    links: [
+      { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/55lebethoa?lang=eng", },
+      { name: "Lyric Video", url: "https://youtu.be/PghLDO-CEYE", }
     ],
   },
   {

@@ -497,8 +497,25 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/daniel-2-44-45-a-kingdom-that-shall-never-fall.webp",
     description: "A scripture song based on Daniel 2:44-45. 'And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/TDGIL8HQClE", },
+      { name: "Lyric Video", url: "https://youtu.be/TDGIL8HQClE", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=eng" },
+    ],
+  },
+  {
+    slug: "amos-3-7-through-his-prophets",
+    title: "Through His Prophets",
+    collection: "Scripture",
+    releaseType: "Single",
+    style: "Scripture Song",
+    releaseDate: "2026-11-21",
+    scriptureVolume: "Old Testament",
+    scriptureBook: "Amos",
+    scriptureReference: "Amos 3:7",
+    image: "/songs/scripture/old-testament/amos-3-7-through-his-prophets.webp",
+    description: "A scripture song based on Amos 3:7. 'Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets...'",
+    links: [
+      { name: "Lyric Video", url: "https://youtu.be/9V8Z647X0os", },
+      { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng" },
     ],
   },
 ];

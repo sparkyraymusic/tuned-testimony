@@ -346,4 +346,20 @@ export const hymnSingles: Song[] = [
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/come-ye-children-of-the-lord?lang=eng", },
     ],
   },
+	{
+    slug: "do-what-is-right-heartland-rock",
+    featured: true,
+    hymnId: "do-what-is-right",
+    title: "Do What Is Right",
+    collection: "Hymns",
+		releaseType: "Single",
+		releaseDate: "2026-11-03",
+    style: "Heartland Rock",
+    description: "A Heartland Rock reimagining of the hymn Do What Is Right.",
+		image: "/songs/hymns/do-what-is-right-heartland-rock.webp",
+    links: [
+      { name: "Lyric Video", url: "https://youtu.be/o17ySOoRFeA" },
+			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/do-what-is-right?crumbs=hymns&order=number&lang=eng", },
+    ],
+  },
 ];
