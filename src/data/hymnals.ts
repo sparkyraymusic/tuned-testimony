@@ -234,8 +234,8 @@ export const hymnCatalog = {
       "hymns-1985": "201"
     }
   },
-  "o-come-all-ye-faithful": {
-    "title": "O Come, All Ye Faithful",
+  "oh-come-all-ye-faithful": {
+    "title": "Oh Come, All Ye Faithful",
     "numbers": {
       "hymns-1985": "202"
     }
