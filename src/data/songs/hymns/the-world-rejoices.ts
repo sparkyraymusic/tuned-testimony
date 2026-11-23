@@ -11,9 +11,10 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Big Band reimagining of the hymn Joy to the World.",
+    image: "/albums/the-world-rejoices/joy-to-the-world-big-band.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/joy-to-the-world?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "YouTube", url: "https://youtu.be/u-QY7f5ud8k", },
+      { name: "Lyric Video", url: "https://youtu.be/u-QY7f5ud8k", },
       { name: "Spotify", url: "https://open.spotify.com/track/34Pn9Y5W5ygh8WE0jKxK4b?si=9f9cc734bdd84004", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=FSW5LbLEJe4&si=uh2ft6BVjQvpO4nl", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/joy-to-the-world/6838166085", },
@@ -30,9 +31,10 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Reggae Pop reimagining of the hymn Hark! The Herald Angels Sing.",
+    image: "/albums/the-world-rejoices/hark-the-herald-angels-sing-reggae-pop.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/hark-the-herald-angels-sing?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "YouTube", url: "https://youtu.be/i3f9PJGHEGI", },
+      { name: "Lyric Video", url: "https://youtu.be/i3f9PJGHEGI", },
       { name: "Spotify", url: "https://open.spotify.com/track/0lp1qcKKKDjjQAu0v2lBy5?si=c85546cbb55341aa", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=GFF6whMREAo&si=efXsU3A-F09UdEnu", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/hark-the-herald-angels-sing/6838166089", },
@@ -49,9 +51,10 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Rock reimagining of the hymn Angels We Have Heard on High.",
+    image: "/albums/the-world-rejoices/angels-we-have-heard-on-high-rock.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/angels-we-have-heard-on-high?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "YouTube", url: "https://youtu.be/uGhwr4Raxr4", },
+      { name: "Lyric Video", url: "https://youtu.be/uGhwr4Raxr4", },
       { name: "Spotify", url: "https://open.spotify.com/track/4V5At2NTZclrW7YIUeafYK?si=dae1cb47eae44840", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=RUcrLxAzNt0&si=kyIDCMOSjr51pRqC", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/angels-we-have-heard-on-high/6838166097", },
@@ -68,6 +71,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "An A Cappella reimagining of the hymn Far, Far Away on Judea's Plains.",
+    image: "/albums/the-world-rejoices/far-far-away-on-judeas-plains-acappella.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/far-far-away-on-judeas-plains?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://suno.com/s/7thKsMHrQEcxwoIP", },
@@ -86,6 +90,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Celtic Folk reimagining of the hymn The First Noel.",
+    image: "/albums/the-world-rejoices/the-first-noel-celtic-folk.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/the-first-noel?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/2Uccs6doraCCcB3t6YrUuC?si=0ad332409d9c4b32", },
@@ -104,6 +109,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Synth Pop reimagining of the hymn Once in Royal David's City.",
+    image: "/albums/the-world-rejoices/once-in-royal-davids-city-synth-pop.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/once-in-royal-davids-city?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/1pYSzbPfnRuan7weHkk2cM?si=a5dc9fe4018f45d1", },
@@ -122,6 +128,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Celtic Rock Ballad reimagining of the hymn What Child Is This?",
+    image: "/albums/the-world-rejoices/what-child-is-this-celtic-rock-ballad.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/what-child-is-this?crumbs=hymns-for-home-and-church&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns-for-home-and-church%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/2xQ5wmvW4TBeSO0JaL4viM?si=ddbe33f56df6491b", },
@@ -140,6 +147,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Nashville Country reimagining of the hymn O Little Town of Bethlehem",
+    image: "/albums/the-world-rejoices/o-little-town-of-bethlehem-nashville-country.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/o-little-town-of-bethlehem?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/7yWA3C14SBr1Q47ve6Fdhm?si=671834a4de1d4e91", },
@@ -157,7 +165,8 @@ export const theWorldRejoicesSongs: Song[] = [
     style: "Gospel Pop Lullaby",
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
-    description: "A Gospel Pop Lullaby reimagining of the hymn Away in a Manger",
+    description: "A Gospel Pop Lullaby re magining of the hymn Away in a Manger",
+    image: "/albums/the-world-rejoices/away-in-a-manger-gospel-pop-lullaby.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/away-in-a-manger?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/3oGnwLTeQUOLTIpVrHlOAw?si=4fb04db81d664b17", },
@@ -176,6 +185,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "An African Gospel Pop reimagining of the hymn With Wondering Awe",
+    image: "/albums/the-world-rejoices/with-wondering-awe-african-gospel-pop.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/with-wondering-awe?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/5vswUZPHzkKHBz7sc6eKj0?si=bc3f87e7d46040c2", },
@@ -194,6 +204,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A J-pop Yodel Fusion reimagining of the hymn I Heard the Bells on Christmas Day",
+    image: "/albums/the-world-rejoices/i-heard-the-bells-on-christmas-day-jpop-yodel-fusion.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/i-heard-the-bells-on-christmas-day?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/7o0ZSm5veu6AE22Futp4Lo?si=c70fbea6a9cf4780", },
@@ -212,6 +223,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "An Appalachian Bluegrass Gospel reimagining of the hymn Go Tell It on the Mountain",
+    image: "/albums/the-world-rejoices/go-tell-it-on-the-mountain-appalachian-bluegrass-gospel.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/go-tell-it-on-the-mountain?crumbs=hymns-for-home-and-church&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns-for-home-and-church%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/4Kwa5O0ixEC38tSQWgZ7v8?si=478443f4abe645e8", },
@@ -230,6 +242,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A New Orleans Brass Gospel reimagining of the hymn Oh Come, All Ye Faithful",
+    image: "/albums/the-world-rejoices/oh-come-all-ye-faithful-new-orleans-brass-gospel.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/oh-come-all-ye-faithful?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/1TDghSMtqecnLkQb1xLEkG?si=27e058578ccb430c", },
@@ -248,6 +261,7 @@ export const theWorldRejoicesSongs: Song[] = [
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
     description: "A Nordic Ambient Folk reimagining of the hymn Silent Night",
+    image: "/albums/the-world-rejoices/silent-night-nordic-ambient-folk.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/silent-night?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
       { name: "Spotify", url: "https://open.spotify.com/track/1JJglpOtdu50kHTWjr3ovH?si=56985ce1470e459f", },
