@@ -74,7 +74,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/far-far-away-on-judeas-plains-acappella.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/far-far-away-on-judeas-plains?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "Spotify", url: "https://suno.com/s/7thKsMHrQEcxwoIP", },
+      { name: "Spotify", url: "https://open.spotify.com/track/1Obr4PdKrwSJyK3tAiLZeb?si=b42f4c9fd6034d23", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=ZV36Ip7r2nU&si=bKN32pMws7KYISqL", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/far-far-away-on-judeas-plains/6838166098", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSN3CZYS?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_eK9xHvFntbl3GyLKW9aCzq5Jy", }
