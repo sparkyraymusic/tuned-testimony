@@ -20,6 +20,20 @@ type HymnAlbum = {
 
 export const hymnAlbums: HymnAlbum[] = [
 	{
+		slug: "the-world-rejoices",
+		title: "The World Rejoices",
+		subtitle: "Hymns celebrating the birth of Jesus Christ",
+		image: "/albums/the-world-rejoices.webp",
+		links: [
+			{ name: "YouTube", url: "https://www.youtube.com/playlist?list=PLL_K6V2TCstA", },
+		],
+		tracks: [
+			{ title: "Joy to the World", style: "Big Band", songSlug: "joy-to-the-world-big-band", },
+			{ title: "Hark! The Herald Angels Sing", style: "Reggae Pop", songSlug: "hark-the-herald-angels-sing-reggae-pop", },
+			{ title: "Angels We Have Heard on High", style: "Rock", songSlug: "angels-we-have-heard-on-high-rock", },
+		],
+	},
+	{
 		slug: "truth-restored",
 		title: "Truth Restored",
 		subtitle: "Hymns celebrating the Restoration of the Gospel",

@@ -7,6 +7,7 @@ import { goodlySongs } from "./hymns/goodly";
 import { primaryDaysSongs } from "./hymns/primary-days";
 import { josephsVisionSongs } from "./hymns/josephs-vision";
 import { truthRestoredSongs } from "./hymns/truth-restored";
+import { theWorldRejoicesSongs } from "./hymns/the-world-rejoices";
 import { hymnSingles } from "./hymns/singles";
 import { internationalSingles } from "./international/singles";
 import { kidsSingles } from "./kids/singles";
@@ -63,6 +64,7 @@ export const songs = [
   ...primaryDaysSongs,
   ...josephsVisionSongs,
   ...truthRestoredSongs,
+  ...theWorldRejoicesSongs,
   ...hymnSingles,
   ...internationalSingles,
   ...kidsSingles,

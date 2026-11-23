@@ -344,6 +344,10 @@ export const hymnSingles: Song[] = [
     links: [
       { name: "Cinematic", url: "https://youtu.be/1fwKOLtU1Rg" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/come-ye-children-of-the-lord?lang=eng", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/2NDRm1LtyOemQp3uGaeQM7?si=cc502bcae9ac4842" },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=O50pJKtCACE&si=_4Zm6IHvgAsO4Q0e" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/come-ye-children-of-the-lord-gospel-folk/6821915620" },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HMR6FTWR?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_XnmYKT3vlZw57uY9uhciRN6OM" },
     ],
   },
 	{
@@ -360,6 +364,10 @@ export const hymnSingles: Song[] = [
     links: [
       { name: "Lyric Video", url: "https://youtu.be/o17ySOoRFeA" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/do-what-is-right?crumbs=hymns&order=number&lang=eng", },
+			{ name: "Spotify", url: "https://open.spotify.com/track/5lxmbJelHnAmgCWTwi3r3Q?si=58dba385210b4057" },
+			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=NngoDN14t84&si=S10Vw0fULCeAs6TP" },
+			{ name: "Apple Music", url: "https://music.apple.com/us/song/do-what-is-right-heartland-rock/6810138787" },
+			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HJ7YX8HV?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_ECy6NwbjE3AfldPnarzNWP38d" },
     ],
   },
 ];

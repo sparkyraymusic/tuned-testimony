@@ -228,6 +228,78 @@ export const hymnCatalog = {
       "hymns-1985": "196"
     }
   },
+  "joy-to-the-world": {
+    "title": "Joy to the World",
+    "numbers": {
+      "hymns-1985": "201"
+    }
+  },
+  "o-come-all-ye-faithful": {
+    "title": "O Come, All Ye Faithful",
+    "numbers": {
+      "hymns-1985": "202"
+    }
+  },
+  "angels-we-have-heard-on-high": {
+    "title": "Angels We Have Heard on High",
+    "numbers": {
+      "hymns-1985": "203"
+    }
+  },
+  "silent-night": {
+    "title": "Silent Night",
+    "numbers": {
+      "hymns-1985": "204"
+    }
+  },
+  "once-in-royal-davids-city": {
+    "title": "Once in Royal David's City",
+    "numbers": {
+      "hymns-1985": "205"
+    }
+  },
+  "away-in-a-manger": {
+    "title": "Away in a Manger",
+    "numbers": {
+      "hymns-1985": "206"
+    }
+  },
+  "o-little-town-of-bethlehem": {
+    "title": "O Little Town of Bethlehem",
+    "numbers": {
+      "hymns-1985": "208"
+    }
+  },
+  "hark-the-herald-angels-sing": {
+    "title": "Hark! The Herald Angels Sing",
+    "numbers": {
+      "hymns-1985": "209"
+    }
+  },
+  "with-wondering-awe": {
+    "title": "With Wondering Awe",
+    "numbers": {
+      "hymns-1985": "210"
+    }
+  },
+  "far-far-away-on-judeas-plains": {
+    "title": "Far, Far Away on Judea's Plains",
+    "numbers": {
+      "hymns-1985": "212"
+    }
+  },
+  "the-first-noel": {
+    "title": "The First Noël",
+    "numbers": {
+      "hymns-1985": "213"
+    }
+  },
+  "i-heard-the-bells-on-christmas-day": {
+    "title": "I Heard the Bells on Christmas Day",
+    "numbers": {
+      "hymns-1985": "214"
+    }
+  },
   "have-i-done-any-good": {
     "title": "Have I Done Any Good?",
     "numbers": {
@@ -556,7 +628,19 @@ export const hymnCatalog = {
     "numbers": {
       "home-and-church": "1040"
     }
-  }
+  },
+  "what-child-is-this": {
+    "title": "What Child Is This?",
+    "numbers": {
+      "home-and-church": "1203"
+    }
+  },
+  "go-tell-it-on-the-mountain": {
+    "title": "Go Tell It on the Mountain",
+    "numbers": {
+      "home-and-church": "1208"
+    }
+  },
 } satisfies Record<string, HymnDefinition>;
 
 export type HymnId = keyof typeof hymnCatalog;

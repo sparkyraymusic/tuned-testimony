@@ -67,6 +67,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/14causse?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/oOD473Kfdu8", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/the-gift-of-testimony-single/6837667903", },
+      { name: "Spotify", url: "https://open.spotify.com/track/75SUyr1xiKIZIoKCzDfOzF?si=bca832ff1f5e4e26", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=ts9S92gjADA&si=NazJfRdKa2SJaphJ", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSJPJYDG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_yNLGLYSVDTTxnlWC2GrJscyOw", },
     ],
   },
   {
@@ -175,6 +179,10 @@ export const october2026ConferenceSongs: Song[] = [
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/28dunn?lang=eng", },
       { name: "Lyric Video", url: "https://youtu.be/lQFwWIhurDw", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/the-ninety-and-ten-single/6837660945", },
+      { name: "Spotify", url: "https://open.spotify.com/track/3tydmqmJ18x0hij27Ehzvl?si=29733881c0b64d7f", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=IsMMElPoGlw&si=jnUZCGXFh2njVgq4", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSJQVGWX?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_nr6cLjqdhR2EcQTLPa8JsbshQ", },
     ],
   },
   {
@@ -330,7 +338,11 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Sister Andrea Muñoz Spannaus' October 2026 message, “God Is at Your Side”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", }
+      { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/god-is-at-your-side-single/6837655005", },
+      { name: "Spotify", url: "https://open.spotify.com/track/0dyPNJofiQ7KwjLvz6MunM?si=4a60632010074152", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=msnVQeBXAeo&si=sLcrF9_3FdBxawri", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSJ8WJ6W?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_QsR2XuMPTXUxDtJDMSFzPSPa2", },
     ],
   },
   {
@@ -350,7 +362,11 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Brother Thabo Lebethoa's October 2026 message, “Jesus Christ Is the Light and Life of the World”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/55lebethoa?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/PghLDO-CEYE", }
+      { name: "Lyric Video", url: "https://youtu.be/PghLDO-CEYE", },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/jesus-christ-is-the-light-and-life-of-the-world-single/6837908872", },
+      { name: "Spotify", url: "https://open.spotify.com/track/6dvZK5FE3YaIpFdpb8ZioZ?si=74a23105ccbf4da0", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=QtHKhUGGxGc&si=YD0HNFSWvYCUwqFn", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSL4SNGG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_ko2qenedIWAE2BUSohoAdusim", },
     ],
   },
   {
