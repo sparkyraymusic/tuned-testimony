@@ -6,8 +6,9 @@ import { useListening } from "./ListeningProvider";
 import type { SongVideo as Video } from "@/data/songs/get-song-video";
 import styles from "./SongVideo.module.css";
 
-export default function SongVideo({ video, title, artwork, slug, style }: { video: Video; title: string; artwork: string; slug: string; style: string }) {
+export default function SongVideo({ video, title, artwork, slug, style, preferArtwork }: { video: Video; title: string; artwork: string; slug: string; style: string; preferArtwork: boolean }) {
   const [thumbnailFailed, setThumbnailFailed] = useState(false);
+  const useArtwork = preferArtwork || thumbnailFailed;
   const { start } = useListening();
   const label = video.isShort ? "YouTube Short" : video.isMusic ? "YouTube Music" : video.isCinematic ? "cinematic video" : "lyric video";
   return (
@@ -15,12 +16,12 @@ export default function SongVideo({ video, title, artwork, slug, style }: { vide
       <div className={styles.frame}>
         <button className={styles.preview} onClick={() => start([{ slug, title, style, videoId: video.id }], title)} aria-label={"Play " + label + " for " + title}>
           <Image
-            src={thumbnailFailed ? artwork : "https://i.ytimg.com/vi/" + video.id + "/hqdefault.jpg"}
+            src={useArtwork ? artwork : "https://i.ytimg.com/vi/" + video.id + "/hqdefault.jpg"}
             alt=""
             fill
-            unoptimized={!thumbnailFailed}
+            unoptimized={!useArtwork}
             sizes={video.isShort ? "(max-width: 380px) calc(100vw - 40px), 340px" : "(max-width: 800px) calc(100vw - 40px), (max-width: 1264px) calc(50vw - 64px), 560px"}
-            onError={() => setThumbnailFailed(true)}
+            onError={useArtwork ? undefined : () => setThumbnailFailed(true)}
             className={styles.thumbnail}
           />
           <span className={styles.play} aria-hidden="true">&#9654;</span>

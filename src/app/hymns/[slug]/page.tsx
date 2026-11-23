@@ -87,7 +87,7 @@ export default async function HymnAlbumPage({
 							</span>
 
 							{track.song?.image && (
-								<Image src={track.song.image} alt="" width={56} height={56} className={styles.trackArtwork} />
+								<Image src={track.song.image} alt="" width={56} height={56} sizes="100px" className={styles.trackArtwork} />
 							)}
 
 							{track.songSlug ? (

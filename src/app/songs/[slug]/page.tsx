@@ -43,7 +43,15 @@ export default async function SongPage({ params }: SongPageProps) {
 			<section className={styles.hero}>
 				<div className={styles.heroGrid}>
       {video ? (
-        <SongVideo key={video.id} video={video} title={song.title} artwork={image} slug={song.slug} style={song.style} />
+        <SongVideo
+          key={video.id}
+          video={video}
+          title={song.title}
+          artwork={image}
+          slug={song.slug}
+          style={song.style}
+          preferArtwork={song.releaseType === "Album Track" && Boolean(song.image)}
+        />
       ) : image && (
         <div className={styles.heroImage}>
           <Image
