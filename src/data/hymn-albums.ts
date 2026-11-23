@@ -44,7 +44,7 @@ export const hymnAlbums: HymnAlbum[] = [
 			{ title: "With Wondering Awe", style: "African Gospel Pop", songSlug: "with-wondering-awe-african-gospel-pop", },
 			{ title: "I Heard the Bells on Christmas Day", style: "J-pop Yodel Fusion", songSlug: "i-heard-the-bells-on-christmas-day-jpop-yodel-fusion", },
 			{ title: "Go Tell It on the Mountain", style: "Appalachian Bluegrass Gospel", songSlug: "go-tell-it-on-the-mountain-appalachian-bluegrass-gospel", },
-			{ title: "O Come, All Ye Faithful", style: "New Orleans Brass Gospel", songSlug: "o-come-all-ye-faithful-new-orleans-brass-gospel", },
+			{ title: "O Come, All Ye Faithful", style: "New Orleans Brass Gospel", songSlug: "oh-come-all-ye-faithful-new-orleans-brass-gospel", },
 			{ title: "Silent Night", style: "Nordic Ambient Folk", songSlug: "silent-night-nordic-ambient-folk", },
 		],
 	},

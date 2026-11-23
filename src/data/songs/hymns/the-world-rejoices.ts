@@ -235,7 +235,7 @@ export const theWorldRejoicesSongs: Song[] = [
   {
     slug: "oh-come-all-ye-faithful-new-orleans-brass-gospel",
     hymnId: "oh-come-all-ye-faithful",
-    title: "O Come, All Ye Faithful",
+    title: "Oh Come, All Ye Faithful",
     collection: "Hymns",
     releaseType: "Album Track",
     style: "New Orleans Brass Gospel",

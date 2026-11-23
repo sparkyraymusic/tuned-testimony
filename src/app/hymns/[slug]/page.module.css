@@ -95,7 +95,7 @@
 
 .trackItem {
   display: grid;
-  grid-template-columns: 3rem 1fr;
+  grid-template-columns: 3rem auto minmax(0, 1fr);
   align-items: center;
   min-height: 70px;
   padding: 0.75rem 1rem;
@@ -118,10 +118,20 @@
 
 .trackDetails,
 .trackLink {
+  grid-column: 3;
   display: flex;
   align-items: baseline;
   justify-content: space-between;
   gap: 1.5rem;
+}
+
+.trackArtwork {
+  display: block;
+  width: 56px;
+  height: 56px;
+  margin-right: 1rem;
+  border-radius: 6px;
+  object-fit: cover;
 }
 
 .trackLink {
@@ -177,7 +187,7 @@
   }
 
   .trackItem {
-    grid-template-columns: 2.5rem 1fr;
+    grid-template-columns: 2.5rem auto minmax(0, 1fr);
     padding-left: 0.5rem;
     padding-right: 0.5rem;
   }

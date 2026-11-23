@@ -27,6 +27,11 @@ export default async function HymnAlbumPage({
     notFound();
   }
 
+  const tracks = album.tracks.map(track => ({
+    ...track,
+    song: songs.find(song => song.slug === track.songSlug),
+  }));
+
   return (
     <main className={styles.page}>
 			<SiteHeader />
@@ -46,11 +51,8 @@ export default async function HymnAlbumPage({
             <p className="eyebrow">Hymns Collection</p>
             <h1>{album.title}</h1>
             <PlayAll title={album.title} queue={{
-              ...buildListeningQueue(album.tracks.flatMap(track => {
-                const song = songs.find(song => song.slug === track.songSlug);
-                return song ? [song] : [];
-              })),
-              total: album.tracks.length,
+              ...buildListeningQueue(tracks.flatMap(({ song }) => song ? [song] : [])),
+              total: tracks.length,
             }} />
             <p className={styles.subtitle}>{album.subtitle}</p>
 						{album.links.length > 0 && (
@@ -78,13 +80,17 @@ export default async function HymnAlbumPage({
 				</div>
 
 				<ol className={styles.trackList}>
-					{album.tracks.map((track, index) => (
+					{tracks.map((track, index) => (
 						<li className={styles.trackItem} key={track.title}>
 							<span className={styles.trackNumber}>
 								{String(index + 1).padStart(2, "0")}
 							</span>
 
-							{"songSlug" in track && track.songSlug ? (
+							{track.song?.image && (
+								<Image src={track.song.image} alt="" width={56} height={56} className={styles.trackArtwork} />
+							)}
+
+							{track.songSlug ? (
 								<Link
 									className={styles.trackLink}
 									href={`/songs/${track.songSlug}`}
