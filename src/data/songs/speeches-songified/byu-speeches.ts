@@ -15,7 +15,7 @@ export const byuSpeechesSongs: Song[] = [
     image: "/songs/speeches-songified/byu-speeches/brad-wilcox-his-grace-is-sufficient.webp",
     description: "A song inspired by Brad Wilcox's BYU speech, His Grace Is Sufficient, reflecting on the grace of Jesus Christ and His power to help us grow and change.",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/_M9WZx-5lrY" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/_M9WZx-5lrY" },
       { name: "Talk", url: "https://speeches.byu.edu/talks/brad-wilcox/his-grace-is-sufficient/" },
     ],
   },

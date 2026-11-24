@@ -18,7 +18,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Gerrit W. Gong's October 2026 message, “Come to the Lord in His Holy House”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/12gong?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/LLskn0YiGAY", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/LLskn0YiGAY", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/gerrit-w-gong-come-to-the-lord-in-his-holy-house/6821814551", },
       { name: "Spotify", url: "https://open.spotify.com/track/4H895vaSkFHs9oKfwf7yb3?si=0e10ca421ae74ade", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=-qRQPCkzGDs&si=q4T9HJiMf1pMgaBL", },
@@ -42,7 +42,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Sister Tamara W. Runia's October 2026 message, “The Sculpting of Our Souls”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/13runia?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/BI7U4ghjLRs", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/BI7U4ghjLRs", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/tamara-w-runia-the-sculpting-of-our-souls/6820845873", },
       { name: "Spotify", url: "https://open.spotify.com/track/6n55TeLW0Pno8Fi2iMJWGi?si=550f5de6e3b64a2c", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kG8iGTwKFPQCkX4uDl4vk48OvVtYHscZ0&si=ZBNeSFVHxCuFAgb2", },
@@ -66,8 +66,10 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Gerald Causse's October 2026 message, “The Gift of Testimony”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/14causse?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/oOD473Kfdu8", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/oOD473Kfdu8", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/the-gift-of-testimony-single/6837667903", },
+      { name: "Amuse SmartLink", url: "https://share.amuse.io/track/tuned-testimony-the-gift-of-testimony", },
+      { name: "Deezer", url: "https://link.deezer.com/s/352YexMeslBM9SGMtY02R", },
       { name: "Spotify", url: "https://open.spotify.com/track/75SUyr1xiKIZIoKCzDfOzF?si=bca832ff1f5e4e26", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=ts9S92gjADA&si=NazJfRdKa2SJaphJ", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSJPJYDG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_yNLGLYSVDTTxnlWC2GrJscyOw", },
@@ -90,7 +92,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Brother Kevin J. Hathaway's October 2026 message, “Jesus Christ Is the Great Deliverer!”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/16hathaway?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/nLG0812PGmQ", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/nLG0812PGmQ", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/jesus-christ-is-the-great-deliverer/6832026388?i=6832026392", },
       { name: "Spotify", url: "https://open.spotify.com/track/2PYUObj3pYcH9GlzXET1nR", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mgMbAuR3C7ZBnzjvCUO5gOniUu4b4GBAw&si=2L0z-yP0rt08oiqW", },
@@ -114,7 +116,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Patrick Kearon's October 2026 message, “Jesus Lives to Lift”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/27kearon?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/YEu0BKJFsxk", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/YEu0BKJFsxk", },
       { name: "Apple Music", url: "https://open.spotify.com/track/0g6r7k1Z2y3J8x5Q9F4G5H?si=3e4f5d6e7f8a9b0c", },
       { name: "Spotify", url: "https://open.spotify.com/track/3YEG911RL3cdrUtMwREBGB?si=7414917795bf4d5b", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_lzNAcj7uibBWj5C30KzyuxiSl704ACkvQ&si=1USGUbveG2_-DuGu", },
@@ -138,7 +140,11 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Dale G. Renlund's October 2026 message, “How Long Will It Be Ere They Believe Me?”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/21renlund?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/AUSpF7MErAU", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/AUSpF7MErAU", },
+      { name: "Spotify", url: "https://open.spotify.com/track/49AsbKx7iVJNE6aYroO4YT?si=1fddb2cdce6944b1", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=-CvjjbBYpY4&si=gTJ-g_JLsfjKNPO7&drli=1", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/how-long-will-it-be-ere-they-believe-me/6838605867", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSRJBKKC?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_zJUOGTMRZ6o84nrSLB987wNO8", },
     ],
   },
 {
@@ -158,7 +164,11 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Timothy L. Farnes's October 2026 message, “Divine Appointments”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/22farnes?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/0mORvhrHpW0", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/0mORvhrHpW0", },
+      { name: "Spotify", url: "https://open.spotify.com/track/1yqQZaiXicvFQf1ZT2YvrV?si=4809119f5f874c8e", },
+      { name: "YouTube Music", url: "https://music.youtube.com/watch?v=uJswj8Xry50&si=9RZ2Cc7x7uSUF5nQ&drli=1", },
+      { name: "Apple Music", url: "https://music.apple.com/us/song/divine-appointments/6838316114", },
+      { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSP2HG3J?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_xJyEDhhI8gLaxxiprVuGXJ2VX", },
     ],
   },
   {
@@ -178,8 +188,10 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Michael A. Dunn's October 2026 message, “The Ninety and Ten”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/28dunn?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/lQFwWIhurDw", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/lQFwWIhurDw", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/the-ninety-and-ten-single/6837660945", },
+      { name: "Amuse SmartLink", url: "https://share.amuse.io/track/tuned-testimony-the-ninety-and-ten", },
+      { name: "Deezer", url: "https://link.deezer.com/s/352YgZu5Cv07WvaA7safV", },
       { name: "Spotify", url: "https://open.spotify.com/track/3tydmqmJ18x0hij27Ehzvl?si=29733881c0b64d7f", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=IsMMElPoGlw&si=jnUZCGXFh2njVgq4", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSJQVGWX?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_nr6cLjqdhR2EcQTLPa8JsbshQ", },
@@ -202,7 +214,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Ronald A. Rasband's October 2026 message, “Love Like Jesus”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/210rasband?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/bB1WT4tjXRI", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/bB1WT4tjXRI", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/ronald-a-rasband-love-like-jesus-conference-talk/6822124392", },
       { name: "Spotify", url: "https://open.spotify.com/track/16R9SPd7yd4xvjgxurIEBo?si=9ee9b49128b44f35", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=B3VyL_s79QU&si=CUEmndI00D3LCJfl", },
@@ -226,7 +238,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Henry B. Eyring's October 2026 message, “Fear Not, I Am with Thee”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/41eyring?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/gXB0thjjoRI", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/gXB0thjjoRI", },
     ],
   },  
   {
@@ -246,7 +258,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Neil L. Andersen's October 2026 message, “Courage Born of Our Faith in Jesus Christ”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/43andersen?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/ojHAiQ8YPVM", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/ojHAiQ8YPVM", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/neil-l-andersen-courage-born-of-our-faith-in/6821413947", },
       { name: "Spotify", url: "https://open.spotify.com/track/5jgCW2GeQsgbvyA3oGkvEG?si=885a0f78fcc24b84", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_nuvdi2l_lyUCQGv3IQd1yUFQSbuPrux_w&si=IquuI4qJa47P3xJI", },
@@ -270,8 +282,9 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Elder Alfred Kyungu's October 2026 message, “Using the Language of the Peacemakers”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/47kyungu?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/8ERVyJ9pwkk", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/8ERVyJ9pwkk", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/using-the-language-of-peacemakers/6832545908?i=6832546359", },
+      { name: "Deezer", url: "https://www.deezer.com/track/4402117571", },
       { name: "Spotify", url: "https://open.spotify.com/track/1DHwYOliTBRAac6dwdNgwD", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Evk7L8_uXco", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HR1RGYWL?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_5JZml9NrnCuOE0BqvfiBCgLVz", },
@@ -294,7 +307,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by President Dallin H. Oaks' October 2026 message, “The Gospel of Jesus Christ Is for All”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/49oaks?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/502RC-xY6Zw", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/502RC-xY6Zw", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/dallin-h-oaks-the-gospel-of-jesus-christ-is-for/6821590871", },
       { name: "Spotify", url: "https://open.spotify.com/track/5RYcMOJI949PsIFjTcZW1Y?si=2e41aea4c9904edf", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=q2gBcG3qazs&si=wVbfASksGe8904Tx", },
@@ -318,7 +331,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by President Dieter F. Uchtdorf's October 2026 message, “Christ-Centered Unity”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/51uchtdorf?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/cdYwKPwugqY", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/cdYwKPwugqY", },
     ],
   },
   {
@@ -338,8 +351,10 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Sister Andrea Muñoz Spannaus' October 2026 message, “God Is at Your Side”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/52munoz-spannaus?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/ZcBaPHGvrSk", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/god-is-at-your-side-single/6837655005", },
+      { name: "Amuse SmartLink", url: "https://share.amuse.io/track/tuned-testimony-god-is-at-your-side", },
+      { name: "Deezer", url: "https://link.deezer.com/s/352YfIEx5i8n2UaB28Fui", },
       { name: "Spotify", url: "https://open.spotify.com/track/0dyPNJofiQ7KwjLvz6MunM?si=4a60632010074152", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=msnVQeBXAeo&si=sLcrF9_3FdBxawri", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSJ8WJ6W?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_QsR2XuMPTXUxDtJDMSFzPSPa2", },
@@ -362,8 +377,10 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Brother Thabo Lebethoa's October 2026 message, “Jesus Christ Is the Light and Life of the World”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/55lebethoa?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/PghLDO-CEYE", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/PghLDO-CEYE", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/jesus-christ-is-the-light-and-life-of-the-world-single/6837908872", },
+      { name: "Amuse SmartLink", url: "https://share.amuse.io/track/tuned-testimony-jesus-christ-is-the-light-and-life-of-the-world", },
+      { name: "Deezer", url: "https://link.deezer.com/s/352YblQEV06dE14NI0snB", },
       { name: "Spotify", url: "https://open.spotify.com/track/6dvZK5FE3YaIpFdpb8ZioZ?si=74a23105ccbf4da0", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=QtHKhUGGxGc&si=YD0HNFSWvYCUwqFn", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HSL4SNGG?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_ko2qenedIWAE2BUSohoAdusim", },
@@ -386,7 +403,7 @@ export const october2026ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by Brother Paul H. Sinclair's October 2026 message, “Quick to Help, Slow to Judge”.",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2026/10/56sinclair?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/BHTg5CqelOg", }
+      { name: "YouTube Lyric Video", url: "https://youtu.be/BHTg5CqelOg", }
     ],
   },
 ];

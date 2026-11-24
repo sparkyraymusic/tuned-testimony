@@ -22,7 +22,7 @@ export const april2021ConferenceSongs: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kaGfFfix1ADuCaxvIO6wy44yO07eavygs&si=Q9YbMH2zixYZUyBs", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/dallin-h-oaks-defending-our-divinely-inspired-constitution/6775287711?uo=4", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H3J3V9TP?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_sNPxAln1l3oJXELwtAWibDoZx&trackAsin=B0H3JGMRXP", },
-      { name: "Lyric Video", url: "https://youtu.be/ujDLnUCpm-Y", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/ujDLnUCpm-Y", },
     ],
   },
 ];

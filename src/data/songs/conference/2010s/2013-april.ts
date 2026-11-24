@@ -17,7 +17,7 @@ export const april2013ConferenceSongs: Song[] = [
     releaseDate: "2026-09-11",
     description: "A Conference Talk Song inspired by Jeffrey R. Holland’s April 2013 message, “Lord, I Believe.”",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/PhEmvb3XRnk", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/PhEmvb3XRnk", },
       { name: "Spotify", url: "https://open.spotify.com/track/3KlgIx1ZZawD55riHGxsD7?si=3231d172eb994f2b", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=oimaIZlFIug&si=G_1PnUSPwHacZXrr", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/jeffrey-r-holland-lord-i-believe-conference-talk-song/6808331843", },

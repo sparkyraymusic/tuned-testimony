@@ -52,7 +52,7 @@ export const pearlOfGreatPriceSingles: Song[] = [
     image: "/songs/scripture/pearl-of-great-price/abraham-2-9-11-abrahamic-covenant.webp",
     description: "A Scripture Song based on Abraham 2:9–11, exploring God's covenant with Abraham and the promised blessings of the gospel, priesthood, and salvation extending to his seed and all nations.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/Ko7OIejBZ-k", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/Ko7OIejBZ-k", },
       { name: "Spotify", url: "https://open.spotify.com/album/5Klfyb3gZXQ2X5VQf02bwa?si=88cjkY5XTe63oysw4DaGuA", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=W7IucQdt_v0&si=2r3-Q1gCB4ZrUXIR", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/abraham-2-9-11-abrahamic-covenant-scripture-song/1872157278", },
@@ -73,7 +73,7 @@ export const pearlOfGreatPriceSingles: Song[] = [
     image: "/songs/scripture/pearl-of-great-price/abraham-3-22-23-noble-and-great-ones.webp",
     description: "A Scripture Song based on Abraham 3:22–23 and Abraham's vision of the noble and great spirits whom God saw before they were born.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/BuAOvgh8IHo", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/BuAOvgh8IHo", },
       { name: "Spotify", url: "https://open.spotify.com/album/28GSjLBFSlJZFO4lxkv69l", },
       { name: "YouTube Music", url: "https://youtu.be/pA75JMbJPKM?si=YvG8o7R3RItbDRZC", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/scripture-mastery-songs-pearl-of-great-price-abraham/1864776119?uo=4", },

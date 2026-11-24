@@ -14,7 +14,7 @@ export const aRoyalArmySongs: Song[] = [
       "A pop-rock reimagining of the hymn Onward, Christian Soldiers.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/0vKVTak-Q7A",
       },
       {
@@ -48,7 +48,7 @@ export const aRoyalArmySongs: Song[] = [
       "A fresh pop reimagining of the hymn Let Us All Press On.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Short",
         url: "https://youtube.com/shorts/V10Ij1-tO78?feature=share",
       },
       {
@@ -82,7 +82,7 @@ export const aRoyalArmySongs: Song[] = [
       "A country reimagining of the hymn Behold! A Royal Army.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Short",
         url: "https://www.youtube.com/shorts/dVR0epUh7Eo",
       },
       {
@@ -116,7 +116,7 @@ export const aRoyalArmySongs: Song[] = [
       "A pop-rock reimagining of the hymn True to the Faith.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/b-nDm_0UwQg",
       },
       {
@@ -150,7 +150,7 @@ export const aRoyalArmySongs: Song[] = [
       "A country reimagining of the hymn Come Along, Come Along.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Short",
         url: "https://youtube.com/shorts/1PB2zRQr3Jo?feature=share",
       },
       {
@@ -184,7 +184,7 @@ export const aRoyalArmySongs: Song[] = [
       "A pop reimagining of the hymn Who’s On The Lord’s Side?",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/CiP0F9pEZdE",
       },
       {
@@ -218,7 +218,7 @@ export const aRoyalArmySongs: Song[] = [
       "A pop reimagining of the hymn Called To Serve.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Short",
         url: "https://youtube.com/shorts/ZLxCDwrIoOM?feature=share",
       },
       {
@@ -252,7 +252,7 @@ export const aRoyalArmySongs: Song[] = [
       "A Celtic reimagining of the hymn Hope Of Israel.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/gETACaGYP28",
       },
       {
@@ -286,7 +286,7 @@ export const aRoyalArmySongs: Song[] = [
       "A rock reimagining of the hymn We Are All Enlisted.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/IBFWWHPIo8A",
       },
       {
@@ -320,7 +320,7 @@ export const aRoyalArmySongs: Song[] = [
       "A pop reimagining of the hymn O Thou Rock Of Our Salvation.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/J8PLPXtSf9E",
       },
       {
@@ -354,7 +354,7 @@ export const aRoyalArmySongs: Song[] = [
       "A country reimagining of the hymn I’ll Go Where You Want Me To Go.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/3_5DZeZpUn0",
       },
       {
@@ -388,7 +388,7 @@ export const aRoyalArmySongs: Song[] = [
       "A pop reimagining of the hymn Put Your Shoulder To The Wheel.",
     links: [
       {
-        name: "YouTube",
+        name: "YouTube Vertical Lyric Video",
         url: "https://youtu.be/SjB7Z5RJzXY",
       },
       {

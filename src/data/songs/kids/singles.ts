@@ -16,7 +16,7 @@ export const kidsSingles: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=JbwPiR5nirA&si=iBfy7RbWNv2KxEMP", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/now-let-us-rejoice-kids-single/6775400590", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H3KX31Y3?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_CVroaYAVm7wIx0wINA5LT2wKn&trackAsin=B0H3KJT65W", },
-      { name: "Lyric Video", url: "https://youtu.be/JbwPiR5nirA", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/JbwPiR5nirA", },
     ],
   },
   {
@@ -30,7 +30,7 @@ export const kidsSingles: Song[] = [
     image: "/songs/hymns/kids/jesus-once-of-humble-birth-kids.webp",
     description: "A reverent, kid-friendly reimagining of the beloved hymn Jesus, Once of Humble Birth.",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/8JiWk795zSE", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/8JiWk795zSE", },
       { name: "Spotify", url: "https://open.spotify.com/track/23eSJlSeL1MsHw7fPzC4yr?si=f6b8e309c5c64537", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kV80EBrwyAmFHXneoBa-UqxpTM6ERkH3Q&si=P_wVG6eGrP9l2DwH", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/jesus-once-of-humble-birth-kids/6790287492", },

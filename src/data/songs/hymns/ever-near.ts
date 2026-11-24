@@ -16,7 +16,7 @@ export const everNearSongs: Song[] = [
       { name: "Apple Music", url: "https://music.apple.com/us/song/nearer-my-god-to-thee-piano-ballad/1820876436", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=cxf-t013zcc&si=KwCW9kjjdwu6oT_3", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0FD9Y18FS?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_Zy1H1UZnDs2Im8JxWQ4ajwNPu", },
-      { name: "YouTube", url: "https://youtube.com/shorts/Dx1atoqj-z8?feature=share", },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/Dx1atoqj-z8?feature=share", },
     ],
   },
   {
@@ -31,7 +31,7 @@ export const everNearSongs: Song[] = [
     image: "/songs/hymns/precious-savior-dear-redeemer.webp",
     description: "A fresh pop reimagining of the beloved hymn Precious Savior, Dear Redeemer.",
     links: [
-      { name: "YouTube", url: "https://youtu.be/N87LBU9N2Qc", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/N87LBU9N2Qc", },
       { name: "Spotify", url: "https://open.spotify.com/track/3ti0eWLeRzZGtzDya1ArIU?si=28a13857bc1f4efe", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/precious-savior-dear-redeemer-pop/1820876439", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=4HKt-YDMgIs&si=KeagF5Zd6ezJOBGa", },
@@ -50,7 +50,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A fresh pop-rock reimagining of the beloved hymn Jesus, The Very Thought Of Thee.",
 		links: [
-			{ name: "YouTube", url: "https://youtu.be/shqqgtQU6D0", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/shqqgtQU6D0", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/6VsUIv9OA6x4v7zs4etA4Y?si=a96723095b0342eb", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/jesus-the-very-thought-of-thee-pop-rock/1820876437", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=OgdTIaTWoG4&si=m5aMMd83wVGHl6S6", },
@@ -68,7 +68,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A Celtic pop reimagining of the beloved hymn Jesus, Lover Of My Soul.",
 		links: [
-			{ name: "YouTube", url: "https://youtu.be/yt-CHIWdICw", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/yt-CHIWdICw", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/1VvHyDKrIYspLLr5WDo1UW?si=0349af129d6d4234", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/jesus-lover-of-my-soul-celtic-pop/1820876438", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=CY8IZBCUWXc&si=pQACbDyZgTT1Xh-g", },
@@ -86,7 +86,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A rock reimagining of the beloved hymn Come Unto Jesus.",
 		links: [
-			{ name: "YouTube", url: "https://youtu.be/TEVKDK__lDA", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/TEVKDK__lDA", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/6um1BfKEU0O4c7ZVzRVrpg?si=514fbb23c3104e3e", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/come-unto-jesus-rock/1820876440", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=RU2uIexKRNM&si=X9J0l50mG7yS5TDk", },
@@ -104,7 +104,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A jazz-pop reimagining of the beloved hymn Come, Follow Me.",
 		links: [
-			{ name: "YouTube", url: "https://youtu.be/sN9alglCkvQ", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/sN9alglCkvQ", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/4JtvwRQo7pXg9IVvZ3xbWU?si=149f8317dbdc4340", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/come-follow-me-jazz-pop/1820876441", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=HeQ6XHFzpwA&si=abLCiIJtlNvIxV38", },
@@ -122,7 +122,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A warm country reimagining of the hymn Come, We That Love The Lord.",
 		links: [
-			{ name: "YouTube", url: "https://youtube.com/shorts/cC2v9FFiO24?feature=share", },
+			{ name: "YouTube Short", url: "https://youtube.com/shorts/cC2v9FFiO24?feature=share", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/3QEz9JfVwjPbHeBhzsdTlM?si=ce922199163f4886", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/come-we-that-love-the-lord-country/1820876442", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=cW7WYH5jeD4&si=xcCXcaIBjBzmojrE", },
@@ -140,7 +140,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A contemporary pop reimagining of the beloved hymn Be Still, My Soul.",
 		links: [
-			{ name: "YouTube", url: "https://youtu.be/4yuQWgUcFsc", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/4yuQWgUcFsc", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/0n9T0B6Y8kkznUfuTQ9W6O?si=234466e754db4a43", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/be-still-my-soul-pop/1820876443", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=EsyrjQiO7h0&si=AOgpRbeeXIfpPS5d", },
@@ -158,7 +158,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A gentle ballad reimagining of the hymn The Lord My Pasture Will Prepare.",
 		links: [
-			{ name: "YouTube", url: "https://youtu.be/jDRXzQovt6c", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/jDRXzQovt6c", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/4BSOomIk8vZWFuMi7xLotn?si=b34bc62ad0f442a8", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/the-lord-my-pasture-will-prepare-ballad/1820876444", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=iAtak5AKMWw&si=xS9e5kZz4jlwLV9X", },
@@ -176,7 +176,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A yacht-rock reimagining of the hymn Ye Simple Souls Who Stray.",
 		links: [
-			{ name: "Lyric Video", url: "https://youtu.be/edOlmjsR_xs" },
+			{ name: "YouTube Vertical Lyric Video", url: "https://youtu.be/edOlmjsR_xs" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/3EMunZ7tDToAwoaNWbdLcP?si=d3b7b287298a4922", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/ye-simple-souls-who-stray-yacht-rock/1820876445", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=BGpNY8d_CaA&si=-FOOdHjJmY0c5VZs", },
@@ -194,7 +194,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A gospel-pop reimagining of the hymn How Long, O Lord Most Holy And True.",
 		links: [
-			{ name: "YouTube", url: "https://youtube.com/shorts/c5amilZ8fGo?feature=share", },
+			{ name: "YouTube Short", url: "https://youtube.com/shorts/c5amilZ8fGo?feature=share", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/08QQ3TXtzsEbt2sBASpANY?si=6bf4400b1a9d4b48", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/how-long-o-lord-most-holy-and-true-gospel-pop/1820876446", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=iZZZO1GArak&si=kQZokVdkfD1BdDyE", },
@@ -212,7 +212,7 @@ export const everNearSongs: Song[] = [
 		albumTitle: "Ever Near",
 		description: "A bright surf-rock reimagining of the beloved hymn I Know That My Redeemer Lives.",
 		links: [
-			{ name: "YouTube", url: "https://youtube.com/shorts/wUPZc8q8ZBk?feature=share", },
+			{ name: "YouTube Short", url: "https://youtube.com/shorts/wUPZc8q8ZBk?feature=share", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/2DfdhKXgA74Dk95I4Eov9j?si=71a122fee0484ef3", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/i-know-that-my-redeemer-lives-surf-rock/1820876447", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=RicmV5V1h_Q&si=HtDrSeM7xGYi5mqd", },

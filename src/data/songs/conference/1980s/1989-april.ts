@@ -22,7 +22,7 @@ export const april1989ConferenceSongs: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=uZugmvyAjtU&si=yshFGWYJsJma6937" },
       { name: "Apple Music", url: "https://music.apple.com/us/album/ezra-taft-benson-beware-of-pride-conference-talk/6774100373?uo=4" },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H35WBYBM?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_DYNLScdoCl9TV8LjeztLaOtVL" },
-      { name: "Lyric Video", url: "https://youtu.be/2O2A4XJR4cM" },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/2O2A4XJR4cM" },
     ],
   },
   {

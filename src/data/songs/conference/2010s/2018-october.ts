@@ -18,7 +18,7 @@ export const october2018ConferenceSongs: Song[] = [
     description: "A Conference Talk Song inspired by President Russell M. Nelson’s October 2018 message, “The Correct Name of the Church.”",
     links: [
       { name: "Talk", url: "https://www.churchofjesuschrist.org/study/general-conference/2018/10/the-correct-name-of-the-church?lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/97_jFKhggq8", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/97_jFKhggq8", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/russell-m-nelson-the-correct-name-of-the/6790003933?uo=4", },
       { name: "Spotify", url: "https://open.spotify.com/track/12843WY9koarmt5L8pS6Oj?si=21615939f9904537", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=EPSkUxIbGg4&si=ZSpIc1A_JY-TfBJE", },

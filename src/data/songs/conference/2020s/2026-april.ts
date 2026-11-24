@@ -54,7 +54,7 @@ function conferenceSong({
       { name: "YouTube Music", url: youtubeMusic, },
       { name: "Apple Music", url: appleMusic, },
       { name: "Amazon Music", url: amazonMusic, },
-      { name: "Lyric Video", url: lyricVideo, },
+      { name: "YouTube Lyric Video", url: lyricVideo, },
       { name: "Talk", url: talkUrl, },
     ],
   };

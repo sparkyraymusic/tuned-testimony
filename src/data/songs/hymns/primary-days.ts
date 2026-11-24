@@ -13,7 +13,7 @@ export const primaryDaysSongs: Song[] = [
     description:
       "A country reimagining of Jesus Wants Me For A Sunbeam.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/H6Bxg6i96Xk?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/H6Bxg6i96Xk?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/78i2kXZdEuYu8el2dFkNuP?si=4109d845a1e24824" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/jesus-wants-me-for-a-sunbeam-country-version/1805332999" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=H6Bxg6i96Xk&si=Py3APlWFhWtileOD" },
@@ -32,7 +32,7 @@ export const primaryDaysSongs: Song[] = [
     description:
       "A ballad reimagining of Can A Little Child Like Me?",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/RpEsjzth7m0?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/RpEsjzth7m0?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/35Vj1U5EPeJ5wpi9vD63Gj?si=79ea92331d054d14" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/can-a-little-child-like-me-ballad-version/1805333420" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=h83V-zw_NJw&si=H-HLBbtZWMQuGiIy" },
@@ -51,7 +51,7 @@ export const primaryDaysSongs: Song[] = [
     description: "An island-style reimagining of Tell Me The Stories Of Jesus.",
 		image: "/songs/hymns/tell-me-the-stories-of-jesus.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/MjCtvGlnBoY" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/MjCtvGlnBoY" },
       { name: "Spotify", url: "https://open.spotify.com/track/4aJF4GXEswHy4QQ1PDwPCc?si=d9f8aeb1d6cc4564" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/tell-me-the-stories-of-jesus-island-version/1805333421" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=CO6IJvRRpQY&si=bZvmQiajvCpz3pvy" },
@@ -70,7 +70,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A pop reimagining of All Things Bright and Beautiful.",
     image: "/songs/hymns/all-things-bright-and-beautiful.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/IOAqWa6aZ6w" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/IOAqWa6aZ6w" },
       { name: "Spotify", url: "https://open.spotify.com/track/4bDkrQl58JNbqay14UFI13?si=0e05ec072e604240" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/all-things-bright-and-beautiful-pop-version/1805333422" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=P7DjlABCt1k&si=x6ynYuPzQ-e62g60" },
@@ -89,7 +89,7 @@ export const primaryDaysSongs: Song[] = [
     description:
       "A Celtic reimagining of If With All Your Hearts.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/EEalTUS_1nU?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/EEalTUS_1nU?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/4X8ynndL2HSQuqdqXkAWQh?si=2f356a3711404be0" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/if-with-all-your-hearts-celtic-version/1805333423" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=f1VNmUqsCH0&si=cDxi6ISgInPnz3N8" },
@@ -108,7 +108,7 @@ export const primaryDaysSongs: Song[] = [
     description:
       "A rock reimagining of Jesus Once Was A Little Child.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/9F2nKQhhqCM?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/9F2nKQhhqCM?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/6kyZwqfBpgzHJ03tINLAtj?si=2da07c185cd943b9" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/jesus-once-was-a-little-child-rock-version/1805333424" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=9F2nKQhhqCM&si=IRnllZwxl3Q_tqG3" },
@@ -127,7 +127,7 @@ export const primaryDaysSongs: Song[] = [
     description: "An a cappella reimagining of Beauty Everywhere.",
     image: "/songs/hymns/beauty-everywhere.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/fWUBIITrRrQ" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/fWUBIITrRrQ" },
       { name: "Spotify", url: "https://open.spotify.com/track/21q1w0BAmt0y69Ou7xWjTj?si=3575f4b94eb04b66" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/beauty-everywhere-acapella-version/1805333425" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=a_g4G5Io_0s&si=Ch_QFyUD81VdruWb" },
@@ -145,7 +145,7 @@ export const primaryDaysSongs: Song[] = [
     albumTitle: "Primary Days",
     description: "A country reimagining of Thanks to Our Father.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/blLir71niQc?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/blLir71niQc?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/04B4X3EFdV7IYg41xb3vZR?si=25015ae35c3e4a91" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/thanks-to-our-father-country-version/1805333427" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=-DTe9VTXzbg&si=nabuxZfmezpaPOnX" },
@@ -164,7 +164,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A pop reimagining of The Wise Man and the Foolish Man.",
     image: "/songs/hymns/the-wise-man-and-the-foolish-man.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/syNDETs8ULA" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/syNDETs8ULA" },
       { name: "Spotify", url: "https://open.spotify.com/track/1UybrUzi9DMOugHukwGvnI?si=4fa1112cb66a4f4e" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/the-wise-man-and-the-foolish-man-pop-version/1805333428" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=bPHwUqCfeJ8&si=PNKC8zArIZI8dJtX" },
@@ -183,7 +183,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A ballad reimagining of Tell Me, Dear Lord.",
     image: "/songs/hymns/tell-me-dear-lord.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/Yi5bg1mz_Lc" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/Yi5bg1mz_Lc" },
       { name: "Spotify", url: "https://open.spotify.com/track/5m6JEIHh9x2CSSrI0TROAT?si=a4422000d9c24353" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/tell-me-dear-lord-ballad-version/1805333429" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=qOsc0HXRLE8&si=6oZULoyFJjXWHqxS" },
@@ -202,7 +202,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A pop reimagining of Shine On.",
     image: "/songs/hymns/shine-on.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/ca6X3VKovJg" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/ca6X3VKovJg" },
       { name: "Spotify", url: "https://open.spotify.com/track/28QHMEn0Fxm3aWFmaNguHP?si=9023212e50324d6f" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/shine-on-pop-version/1805333430" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=FJ9zaWbwgjg&si=tHmyJcDqGKNXAkj-" },
@@ -221,7 +221,7 @@ export const primaryDaysSongs: Song[] = [
     description: "An island-style reimagining of I Think When I Read That Sweet Story.",
     image: "/songs/hymns/i-think-when-i-read-that-sweet-story.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/tSFAxfKlua4" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/tSFAxfKlua4" },
       { name: "Spotify", url: "https://open.spotify.com/track/5o1JjmqQEqZqEsuTvNra2d?si=29aa6b4eaaa84273" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/i-think-when-i-read-that-sweet-story-island-version/1805333431" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=d_S7ubTOmg0&si=5g0EVGR0d80gFKvc" },
@@ -240,7 +240,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A country reimagining of Stand For The Right.",
     image: "/songs/hymns/stand-for-the-right.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/hQ0QvPzNm0w" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/hQ0QvPzNm0w" },
       { name: "Spotify", url: "https://open.spotify.com/track/4DR8hocykqFwueAjJwUSFw?si=2aea9f0ec104410d" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/stand-for-the-right-country-version/1805333434" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=XVndlftIFT4&si=3QuGV3mzfYYEDLqk" },
@@ -259,7 +259,7 @@ export const primaryDaysSongs: Song[] = [
     description:
       "An a cappella reimagining of Thank Thee, Father.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/bWjja2bIDCY?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/bWjja2bIDCY?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/73aNx6wAcDCeFPueIim3wU?si=f511e5e3c8d84c67" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/thank-thee-father-acapella-version/1805333435" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=J3J-Ize2lXo&si=DDyOg9_RfiM_MYYJ" },
@@ -278,7 +278,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A rock reimagining of Dare To Do Right.",
     image: "/songs/hymns/dare-to-do-right.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/ujMb3fs0KNo" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/ujMb3fs0KNo" },
       { name: "Spotify", url: "https://open.spotify.com/track/2FS5JTfxnTJkdsdpG5a8s5?si=229c6a04e50d4c0a" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/dare-to-do-right-rock-version/1805333436" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=eLLzgm0ee2o&si=6MLzWhoZIsLqW6dD" },
@@ -297,7 +297,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A ballad reimagining of Heavenly Father, Now I Pray.",
     image: "/songs/hymns/heavenly-father-now-i-pray.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/j9YTpGtDk-Y" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/j9YTpGtDk-Y" },
       { name: "Spotify", url: "https://open.spotify.com/track/1S7JjMZzkSd52LglRTB6Vj?si=7bb05348854f46dc" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/heavenly-father-now-i-pray-ballad-version/1805333438" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=JUKnQWzYVo8&si=qrBaJbw4ruuKRp7r" },
@@ -316,7 +316,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A country reimagining of Lift Up Your Voice And Sing.",
     image: "/songs/hymns/lift-up-your-voice-and-sing.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/uf2ypzrfnis" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/uf2ypzrfnis" },
       { name: "Spotify", url: "https://open.spotify.com/track/7jN1RxWetONKzzhka66Bab?si=a83d4cf443f0418d" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/lift-up-your-voice-and-sing-country-version/1805333439" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=LUBXIQuYq5o&si=MpW1tMNKnDB_dCw9" },
@@ -335,7 +335,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A Celtic reimagining of The Dearest Names.",
     image: "/songs/hymns/the-dearest-names.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/yfAEca208Dc" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/yfAEca208Dc" },
       { name: "Spotify", url: "https://open.spotify.com/track/5FhBSFkrp6ACpR2dZdH1Rj?si=cd9a94b6713f45e1" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/the-dearest-names-celtic-version/1805333440" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=acyOErmO59Q&si=qkg1mZG_FxNRX4sM" },
@@ -354,7 +354,7 @@ export const primaryDaysSongs: Song[] = [
     description: "A pop reimagining of Saturday.",
     image: "/songs/hymns/saturday.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/vwwfODChsMA" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/vwwfODChsMA" },
       { name: "Spotify", url: "https://open.spotify.com/track/0PmA0wep0FeVmcVvdSobyz?si=475bca79c0b64b9f" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/saturday-pop-version/1805333441" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=vwwfODChsMA&si=WgL7SxAWZwbT-NIY" },

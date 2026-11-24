@@ -14,7 +14,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/genesis-1-26-27-in-his-image.webp",
     description: "A Scripture Song based on Genesis 1:26–27, celebrating the divine truth that men and women were created in the image and likeness of God.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/eQi4miOCFok", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/eQi4miOCFok", },
       { name: "Spotify", url: "https://open.spotify.com/album/7jEAfmg414sMvRLDvLsD5e", },
       { name: "YouTube Music", url: "https://youtu.be/AJDfYt7Ws1Q?si=KydlT9yRKzgG843H", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/scripture-mastery-songs-old-testament-genesis-1-26/1864776127?uo=4", },
@@ -35,7 +35,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/genesis-2-24-one-flesh.webp",
     description: "A Scripture Song based on Genesis 2:24, teaching the sacred union of husband and wife as they leave father and mother, cleave to one another, and become one flesh.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/X4V5DIGaIgI", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/X4V5DIGaIgI", },
       { name: "Spotify", url: "https://open.spotify.com/album/00V6lvr705dnbBokWLkyuw", },
       { name: "YouTube Music", url: "https://youtu.be/z_jmaKzBGRo?si=b-0C14kb2c6Aa-VT", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/scripture-mastery-songs-old-testament-genesis-2-24/1864776156?uo=4", },
@@ -77,7 +77,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/exodus-20-3-17-the-ten-commandments.webp",
     description: "A Scripture Song based on Exodus 20:3–17, setting the Ten Commandments to music as a memorable reminder of God’s commandments and our covenant responsibility to follow Him.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/5U4ieZ_Iq-g", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/5U4ieZ_Iq-g", },
       { name: "Spotify", url: "https://open.spotify.com/track/1AKKvwOAzpYxa0N717DMZp?si=d810f7b7663d4023", },
       { name: "YouTube Music", url: "https://youtu.be/zIfMVJYkV8c?si=yFhTVBLfjS69ujvw", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/exodus-20-3-17-the-ten-commandments-scripture-song-single/1892077408", },
@@ -140,7 +140,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/deuteronomy-7-3-4-keep-my-covenant.webp",
     description: "A Scripture Song based on Deuteronomy 7:3–4, emphasizing covenant faithfulness and the importance of guarding against influences that can turn our hearts away from God.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/bjMr7IWjqIA", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/bjMr7IWjqIA", },
       { name: "Spotify", url: "https://open.spotify.com/album/3DJNDsvg0ON1UUK6muI3Hj", },
       { name: "YouTube Music", url: "https://youtu.be/XdjUfyU3b6Q?si=ODl71AImdLfLPeUP", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/scripture-mastery-songs-old-testament-deuteronomy-7/6766638456?uo=4", },
@@ -182,7 +182,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/joshua-24-15-choose-this-day.webp",
     description: "A Scripture Song based on Joshua 24:15 and Joshua’s bold declaration of commitment: choose whom you will serve, but as for me and my house, we will serve the Lord.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/0onNgqS0nKU", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/0onNgqS0nKU", },
       { name: "Spotify", url: "https://open.spotify.com/track/0XojuqRDt0SV3yK1Il81tq?si=a254b761e81b49d7", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=NuB9s_KBsTo&si=9MEU2jm5Ej02ZQnI", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/joshua-24-15-choose-this-day-scripture-song-single/6771107055?uo=4", },
@@ -204,7 +204,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/1-samuel-16-7-looketh-on-the-heart.webp",
     description: "A scripture song based on 1 Samuel 16:7 and its reminder that the Lord looks on the heart.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/TIFuA6ANRqk", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/TIFuA6ANRqk", },
       { name: "Spotify", url: "https://open.spotify.com/track/21zwEuRvL2ygdzUIYG8dNx?si=6834fcc72a7e40b0", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=MQIOz0JTEJw&si=J0VrWtgb56OVsbwE", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/1-samuel-16-7-looketh-on-the-heart-scripture-song-single/6773250137?uo=4", },
@@ -225,7 +225,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/job-19-25-26-my-redeemer-liveth.webp",
     description: "A scripture song based on Job 19:25-26 and Job's testimony that his Redeemer lives.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/fydb2OZAGh8", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/fydb2OZAGh8", },
       { name: "Spotify", url: "https://open.spotify.com/album/3vYYNePmdb2Kl30HUvv9PB", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=skyvnT1mF64&si=y2xswvACQ5YX15P2", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/job-19-25-26-my-redeemer-liveth-scripture-song-single/6773917555?uo=4", },
@@ -246,7 +246,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/psalm-24-3-4-clean-hands-pure-heart.webp",
     description: "A scripture song based on Psalm 24:3-4. Who shall ascend into the hill of the Lord?...He that hath clean hands, and a pure heart...",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/72tC0uEyYEQ", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/72tC0uEyYEQ", },
       { name: "Spotify", url: "https://open.spotify.com/album/0lkGWra9lZwwkdXgLNi8dA", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=cDYN8gNEldw&si=LhPp9A42ACLYYcJZ", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/psalms-24-3-4-clean-hands-pure-heart-scripture-song/6773980522", },
@@ -266,7 +266,7 @@ export const oldTestamentSingles: Song[] = [
     scriptureReference: "Proverbs 3:5-6",
     description: "A scripture song based on Proverbs 3:5-6. Trust in the Lord with all your heart, and lean not on your own understanding...",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/Uf3FfWafM7M", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/Uf3FfWafM7M", },
       { name: "Spotify", url: "https://open.spotify.com/track/2dmkejkIn5har6D64aSW7J?si=52b0fb5d069b402c", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Uf3FfWafM7M&si=pDqFggHVbMgz-Aq7", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/proverbs-3-5-6-trust-in-the-lord-scripture-song/6785042491", },
@@ -287,7 +287,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/isaiah-1-18-white-as-snow.webp",
     description: "A scripture song based on Isaiah 1:18. 'Come now, and let us reason together,' says the Lord...",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/5qpspVuPIh4", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/5qpspVuPIh4", },
       { name: "Spotify", url: "https://open.spotify.com/track/4sLCzvAR4u4Jabck8n9Bzh?si=e01df7c996804a1a", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=a1VJd9RwsW0&si=UKqldukCPsmNDILg", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-1-18-white-as-snow-scripture-song/6784753818", },
@@ -308,7 +308,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/isaiah-5-20-good-and-evil.webp",
     description: "A scripture song based on Isaiah 5:20. 'Woe to those who call evil good and good evil...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/Aiwr-tuVYTk", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/Aiwr-tuVYTk", },
       { name: "Spotify", url: "https://open.spotify.com/track/5YjW8cxGmzAEWB0ydM2rhf?si=b56aa7a55146446e", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=DyJioq51i7A&si=Wxl-XxODl8z5Ok8O", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/isaiah-5-20-good-and-evil-scripture-song-single/6785184810?uo=4", },
@@ -329,7 +329,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/isaiah-29-3-14-marvelous-work.webp",
     description: "A scripture song based on Isaiah 29:3-14. 'I will marvel at the work of your hands...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/WH4VtFbxMjA", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/WH4VtFbxMjA", },
       { name: "Spotify", url: "https://open.spotify.com/track/12Gk0K5FkgoxYgGYdO0waF?si=94649d4d68c346f6", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=4Fk-4JuOQKQ&si=Iz0oM_vnJm1X3UdX", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-29-13-14-marvelous-work-scripture-song/6791054318", },
@@ -350,7 +350,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/isaiah-53-3-5-with-his-stripes-we-are-healed.webp",
     description: "A scripture song based on Isaiah 53:3-5. 'He was pierced for our transgressions, crushed for our iniquities...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/Ck9xNGIJ5tk", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/Ck9xNGIJ5tk", },
       { name: "Spotify", url: "https://open.spotify.com/track/0BRljNdxdFqT38dFbJxShM?si=e57c771e60234eb6", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=eMfYxst1CxE&si=v35NXt5IADjLDvgC", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-53-3-5-with-his-stripes-we-are-healed-scripture-song/6810547063", },
@@ -371,7 +371,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/isaiah-55-8-9-my-ways-are-higher.webp",
     description: "A scripture song based on Isaiah 55:8-9. 'For my ways are higher than your ways...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/lDf-Liiz7VY", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/lDf-Liiz7VY", },
       { name: "Spotify", url: "https://open.spotify.com/track/2eoUIOBBnmPl0eVqWYD2XX?si=1f77dadbf202488d", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_nIg51QLlEi9OdDLt3VrlNCe9vGMIfBJPo&si=OGT7NALVEw0BSS_D", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/isaiah-55-8-9-my-ways-are-higher-scripture-song-single/6810587417", },
@@ -392,7 +392,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/isaiah-58-13-14-delight-thyself-in-the-lord.webp",
     description: "A scripture song based on Isaiah 58:13-14. 'Delight yourself in the Lord...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/2KrTFuGu8WA", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/2KrTFuGu8WA", },
       { name: "Spotify", url: "https://open.spotify.com/track/17lw6dzP97eI5kMvKtZMwo?si=fbf1c966d7004ce0", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=STbeQ3gMgi8&si=UQM3BDyw-oAGvkAj", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/isaiah-58-13-14-delight-thyself-in-the-lord-scripture-song/6812128021", },
@@ -413,7 +413,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/jeremiah-1-4-5-before-i-formed-thee.webp",
     description: "A scripture song based on Jeremiah 1:4-5. 'Before I formed thee in the belly...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/jSpAYLgJbHc", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/jSpAYLgJbHc", },
       { name: "Spotify", url: "https://open.spotify.com/track/4rSzLGmUZPgVvzu7OJSq9G?si=ce668229c8a9493a", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=BRtCH74uIUc&si=QBfgXLmjileWi2C2", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/jeremiah-1-4-5-before-i-formed-thee-scripture-song/6816466326", },
@@ -434,7 +434,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/jeremiah-16-16-fishersers-of-men.webp",
     description: "A scripture song based on Jeremiah 16:16. 'Behold, I will send for many fishers...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/HjQdQrO--GQ", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/HjQdQrO--GQ", },
       { name: "Spotify", url: "https://open.spotify.com/track/6ulBwGvliirexIUmil45n1?si=3447b0de8fe84ccc", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=lL1EAeU91as&si=IsC2kTQxzt_42JIE", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/jeremiah-16-16-fishers-of-men-scripture-song/6816573318", },
@@ -455,7 +455,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/ezekiel-3-16-17-watchmen-on-the-tower.webp",
     description: "A scripture song based on Ezekiel 3:16-17. 'Son of man, I have made thee a watchman unto the house of Israel...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/MBvyJc8MGys", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/MBvyJc8MGys", },
       { name: "Spotify", url: "https://open.spotify.com/track/0iDZa4teQWeJpVRTXiVpQo?si=b154a54cec7346dc", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Oq9mI3XDvXE&si=Pu1V71SnpnnPZmmB", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/ezekiel-3-16-17-watchmen-on-the-tower-scripture-song/6816980064", },
@@ -476,7 +476,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/ezekiel-37-15-17-one-in-thine-hand.webp",
     description: "A scripture song based on Ezekiel 37:15-17. 'Take thee one stick, and write upon it, For Judah...'",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/lxRwykqM0zs", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/lxRwykqM0zs", },
       { name: "Spotify", url: "https://open.spotify.com/track/0y5a3AsEzQYwhACEXb4Wfn?si=6fcd56f9121b4295", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=thNBrtGb2Nk&si=uesxML1AKeh0oFlr", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/ezekiel-37-15-17-one-in-thine-hand-scripture-song/6817982593", },
@@ -497,7 +497,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/daniel-2-44-45-a-kingdom-that-shall-never-fall.webp",
     description: "A scripture song based on Daniel 2:44-45. 'And in the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed...'",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/TDGIL8HQClE", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/TDGIL8HQClE", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/dan/2?lang=eng" },
     ],
   },
@@ -514,7 +514,7 @@ export const oldTestamentSingles: Song[] = [
     image: "/songs/scripture/old-testament/amos-3-7-through-his-prophets.webp",
     description: "A scripture song based on Amos 3:7. 'Surely the Lord God will do nothing, but he revealeth his secret unto his servants the prophets...'",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/9V8Z647X0os", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/9V8Z647X0os", },
       { name: "Scripture", url: "https://www.churchofjesuschrist.org/study/scriptures/ot/amos/3?lang=eng" },
     ],
   },

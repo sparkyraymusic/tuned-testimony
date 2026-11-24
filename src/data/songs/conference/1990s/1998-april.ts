@@ -45,7 +45,7 @@ export const april1998ConferenceSongs: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_lT9w5r9ilCO3wW3O2-QQVpcMs9iAhyVAc&si=Wn4MYP2Pi-PSOqXk", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/lynn-g-robbins-agency-and-anger-conference-talk-song/6773861062", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H3393N23?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_Ue00Uavv4VEL33RtexxWYwazg&trackAsin=B0H338XYCY", },
-      { name: "Lyric Video", url: "https://youtu.be/ymIbudf_6Eo", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/ymIbudf_6Eo", },
     ],
   },
 ];

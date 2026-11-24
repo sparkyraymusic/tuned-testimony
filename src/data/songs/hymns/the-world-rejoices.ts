@@ -14,7 +14,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/joy-to-the-world-big-band.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/joy-to-the-world?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/u-QY7f5ud8k", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/u-QY7f5ud8k", },
       { name: "Spotify", url: "https://open.spotify.com/track/34Pn9Y5W5ygh8WE0jKxK4b?si=9f9cc734bdd84004", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=FSW5LbLEJe4&si=uh2ft6BVjQvpO4nl", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/joy-to-the-world/6838166085", },
@@ -34,7 +34,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/hark-the-herald-angels-sing-reggae-pop.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/hark-the-herald-angels-sing?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/i3f9PJGHEGI", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/i3f9PJGHEGI", },
       { name: "Spotify", url: "https://open.spotify.com/track/0lp1qcKKKDjjQAu0v2lBy5?si=c85546cbb55341aa", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=GFF6whMREAo&si=efXsU3A-F09UdEnu", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/hark-the-herald-angels-sing/6838166089", },
@@ -54,7 +54,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/angels-we-have-heard-on-high-rock.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/angels-we-have-heard-on-high?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
-      { name: "Lyric Video", url: "https://youtu.be/uGhwr4Raxr4", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/uGhwr4Raxr4", },
       { name: "Spotify", url: "https://open.spotify.com/track/4V5At2NTZclrW7YIUeafYK?si=dae1cb47eae44840", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=RUcrLxAzNt0&si=kyIDCMOSjr51pRqC", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/angels-we-have-heard-on-high/6838166097", },
@@ -74,6 +74,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/far-far-away-on-judeas-plains-acappella.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/far-far-away-on-judeas-plains?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/kFivnU7dOe8", },
       { name: "Spotify", url: "https://open.spotify.com/track/1Obr4PdKrwSJyK3tAiLZeb?si=b42f4c9fd6034d23", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=ZV36Ip7r2nU&si=bKN32pMws7KYISqL", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/far-far-away-on-judeas-plains/6838166098", },
@@ -93,6 +94,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/the-first-noel-celtic-folk.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/the-first-noel?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/nEpo6iRKox0", },
       { name: "Spotify", url: "https://open.spotify.com/track/2Uccs6doraCCcB3t6YrUuC?si=0ad332409d9c4b32", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Q6Xv4X-bVZw&si=46Xp7QWkwIzWnfPg", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/the-first-noel/6838166099", },

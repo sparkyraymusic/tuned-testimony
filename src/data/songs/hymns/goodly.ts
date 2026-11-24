@@ -34,7 +34,7 @@ export const goodlySongs: Song[] = [
     image: "/songs/hymns/love-at-home-country.webp",
     description: "A warm Country reimagining of Love at Home, celebrating the peace, kindness, and joy that grow when love fills the home.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/c8tINnu9TSU", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/c8tINnu9TSU", },
       { name: "Spotify", url: "https://open.spotify.com/track/6tlPnm3EJvUNk9loH9KKLj?si=aed2bbb4eef740a7", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/love-at-home-country/1806334481", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=YMqWlDPBzJ8&si=yWsFIIhm3Z-UIyDI", },
@@ -54,7 +54,7 @@ export const goodlySongs: Song[] = [
     image: "/songs/hymns/have-i-done-any-good-ballad.webp",
     description: "A heartfelt Ballad reimagining of Have I Done Any Good?, inviting us to look for opportunities to serve, lift, and bless those around us.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/WhFPEdPMrWI", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/WhFPEdPMrWI", },
       { name: "Spotify", url: "https://open.spotify.com/track/2O5YY4QqQ10czhL0V1WeOD?si=e9144ca5b0574543", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/have-i-done-any-good-ballad/1806334482", },
       { name: "YouTube Music", url: "https://youtu.be/d769Auby0Kc?si=4tSqFS07rehcceWO", },
@@ -74,7 +74,7 @@ export const goodlySongs: Song[] = [
     image: "/songs/hymns/the-iron-rod-country.webp",
     description: "A Country reimagining of The Iron Rod, encouraging us to hold firmly to the word of God and follow its guidance through life's journey.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/zU9rbnlUHfs", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/zU9rbnlUHfs", },
       { name: "Spotify", url: "https://open.spotify.com/track/22yIE0nBzgjdLfc6mBx3w1?si=ed492176c5f249cf", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/the-iron-rod-country/1806334483", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=wZ7YVU8sVFM&si=0AFhyPDzAE0RkAyb", },
@@ -113,7 +113,7 @@ export const goodlySongs: Song[] = [
     image: "/songs/hymns/should-you-feel-inclined-to-censure-island.webp",
     description: "An Island-style reimagining of Should You Feel Inclined to Censure, offering a gentle reminder to choose charity and understanding instead of criticism.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/DR5zsQDrvbw", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/DR5zsQDrvbw", },
       { name: "Spotify", url: "https://open.spotify.com/track/0nIzjwrIULJ4XCvCZvK0Q4?si=698483aa842043e1", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/should-you-feel-inclined-to-censure-island/1806334485", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=HIWjl885EhU&si=RszH-ldNsidLMgOA", },
@@ -134,7 +134,7 @@ export const goodlySongs: Song[] = [
 	  image: "/songs/hymns/let-us-oft-speak-kind-words-country.webp",
     description: "A warm Country reimagining of Let Us Oft Speak Kind Words, encouraging kindness, encouragement, and compassion in the way we speak to one another.",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/S-yB8KGRXUo", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/S-yB8KGRXUo", },
       { name: "Spotify", url: "https://open.spotify.com/track/4W1oxhyTQgFScENpNgbDiw?si=06f378fc50d14c82", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/let-us-oft-speak-kind-words-country/1806334486", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=NcfHGp537Lw&si=uT4pbzFHC-0YjO0V", },
@@ -154,6 +154,7 @@ export const goodlySongs: Song[] = [
 	  image: "/songs/hymns/oh-say-what-is-truth-pop.webp",
     description: "A Pop reimagining of Oh Say, What Is Truth?, celebrating the enduring value and divine power of truth.",
     links: [
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/AwULEFqAN54", },
       { name: "Spotify", url: "https://open.spotify.com/track/2DyGkaCeCvBkVM14lyCMtw?si=122ec9ada5cd46cf", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/oh-say-what-is-truth-pop/1806334487", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=qc-lQRvnlhg&si=TChMUZ0pDHnkGVmD", },
@@ -173,7 +174,7 @@ export const goodlySongs: Song[] = [
     image: "/songs/hymns/oh-holy-words-of-truth-and-love-ballad.webp",
     description: "A reflective Ballad reimagining of Oh, Holy Words of Truth and Love, honoring inspired words that guide, strengthen, and lead us toward God.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/TkW_TyDtGTM", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/TkW_TyDtGTM", },
       { name: "Spotify", url: "https://open.spotify.com/track/6EETLGtKJ9mqXW4JhEvFuV?si=f19d073dab874591", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/oh-holy-words-of-truth-and-love-ballad/1806334488", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=CPqFfoGiktA&si=joku2Q6huFv_zAV6", },
@@ -212,7 +213,7 @@ export const goodlySongs: Song[] = [
     image: "/songs/hymns/nay-speak-no-ill-country.webp",
     description: "A Country reimagining of Nay, Speak No Ill, reminding us to resist gossip and criticism and instead speak with charity and kindness.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/__AOsPpnkyY", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/__AOsPpnkyY", },
       { name: "Spotify", url: "https://open.spotify.com/track/6jof8EO1J68GE7T8Kdzt3v?si=e9dae97a77b54411", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/nay-speak-no-ill-country/1806334611", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Nurtkpv89eY&si=SgNLNhqPdhGQxgWY", },

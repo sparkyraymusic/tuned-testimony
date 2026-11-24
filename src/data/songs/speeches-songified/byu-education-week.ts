@@ -15,7 +15,7 @@ export const byuEducationWeekSongs: Song[] = [
     image: "/songs/speeches-songified/byu-education-week/patrick-kearon-peace-and-rest-even-now.webp",
     description: "A song inspired by Patrick Kearon's BYU Education Week message, Peace and Rest—Even Now, inviting us to slow down and find peace and rest in Jesus Christ.",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/2ZE9QT_vizY" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/2ZE9QT_vizY" },
       { name: "Talk", url: "https://speeches.byu.edu/talks/patrick-kearon/peace-and-rest-even-now/" },
     ],
   },

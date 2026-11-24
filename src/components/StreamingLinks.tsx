@@ -3,11 +3,12 @@ import {
   FaApple,
   FaBookBible,
   FaBookOpen,
+  FaLink,
   FaMicrophone,
   FaSpotify,
   FaYoutube,
 } from "react-icons/fa6";
-import { SiTidal, SiYoutubemusic } from "react-icons/si";
+import { SiDeezer, SiTidal, SiYoutubemusic } from "react-icons/si";
 
 import styles from "./StreamingLinks.module.css";
 
@@ -23,15 +24,17 @@ type StreamingLinksProps = {
 
 const icons = {
   YouTube: FaYoutube,
-  "Lyric Video": FaYoutube,
-  "Cinematic": FaYoutube,
-  "Cinematic Lyric Video": FaYoutube,
+  "YouTube Playlist": FaYoutube,
+  "YouTube Cinematic Lyric Video": FaYoutube,
   "YouTube Lyric Video": FaYoutube,
+  "YouTube Vertical Lyric Video": FaYoutube,
   "YouTube Short": FaYoutube,
   Spotify: FaSpotify,
   "Apple Music": FaApple,
   "YouTube Music": SiYoutubemusic,
   "Amazon Music": FaAmazon,
+  Deezer: SiDeezer,
+  "Amuse SmartLink": FaLink,
   "Hymn": FaBookOpen,
   Tidal: SiTidal,
   Talk: FaMicrophone,

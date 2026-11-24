@@ -11,7 +11,7 @@ test("embedded player falls back to a YouTube Music recording", () => {
 });
 
 test("lyric, short, and cinematic videos take priority over Music regardless of link order", () => {
-  for (const name of ["Lyric Video", "YouTube Lyric Video", "Lyric Short", "YouTube Short", "Cinematic", "Cinematic Lyric Video"]) {
+  for (const name of ["Lyric Video", "YouTube Lyric Video", "YouTube Vertical Lyric Video", "Lyric Short", "YouTube Short", "Cinematic", "Cinematic Lyric Video"]) {
     const featured = { name, url: "https://youtu.be/lmnopqrstuv" };
     for (const links of [[music, featured], [featured, music]]) {
       const selected = getSongVideo(links);
@@ -24,8 +24,8 @@ test("lyric, short, and cinematic videos take priority over Music regardless of 
 
 test("priority is Cinematic, Lyric Video, Lyric Short, then Music in every link order", () => {
   const ranked = [
-    { name: "Cinematic", url: "https://youtu.be/cinema12345" },
-    { name: "Lyric Video", url: "https://youtu.be/lyrics12345" },
+    { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/cinema12345" },
+    { name: "YouTube Lyric Video", url: "https://youtu.be/lyrics12345" },
     { name: "Lyric Short", url: "https://youtube.com/shorts/short123456" },
     music,
   ];

@@ -17,7 +17,7 @@ export const hymnSingles: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=KjcH1jCwTUs&si=Hy0XYnQBvpeIyAiC", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/now-let-us-rejoice-pop/6773225619", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H2SNY886?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_OuGh9i69Wx4Fa9HaodD8vxuG5", },
-      { name: "Lyric Video", url: "https://youtu.be/iIVTRBBCgT4", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/iIVTRBBCgT4", },
     ],
   },
 
@@ -36,7 +36,7 @@ export const hymnSingles: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mcdjaG3FXmB-C92FHtaxVpgJPENrcfiJM&si=Osw35OA7NnQwn2RV", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/come-come-ye-saints-cinematic-bluegrass-single/6773926617", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H2VSZ3L5?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_PYN6tQ3ujRFtbuRstC1V6Qy98&trackAsin=B0H2W2C827", },
-      { name: "Lyric Video", url: "https://youtu.be/OW5F4OIa9TI", },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/OW5F4OIa9TI", },
     ],
   },
 	{
@@ -54,7 +54,7 @@ export const hymnSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=AGVa5hW4B40&si=D00zZdlWhbpfFFlV", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/high-on-the-mountain-top-country-folk-rock-single/6773183742?uo=4&app=itunes&at=1001lry3&ct=dashboard", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0H2X6CR1B?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_YNqreNGFc4m604rvvtyHfcAwh&trackAsin=B0H2XCLMC4", },
-			{ name: "Lyric Video", url: "https://youtube.com/shorts/AGVa5hW4B40", },
+			{ name: "YouTube Short", url: "https://youtube.com/shorts/AGVa5hW4B40", },
 		],
 	},
 	{
@@ -72,7 +72,7 @@ export const hymnSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=xgcGNTNXc9E&si=CbXTWmwMaSr7xppb", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/lead-kindly-light-cinematic-worship-single/6773266792?uo=4", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0H2YXWVC1?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_IcMNj0iGlzw9iuvyDYFZTJCuq&trackAsin=B0H2YPF2D5", },
-			{ name: "Lyric Video", url: "https://www.youtube.com/watch?v=AlMfIsy3CCg", },
+			{ name: "YouTube Vertical Lyric Video", url: "https://www.youtube.com/watch?v=AlMfIsy3CCg", },
 		],
 	},
 	{
@@ -90,7 +90,7 @@ export const hymnSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=e4sPwll-azk&si=xouMNpiTnh_nsSX2", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/guide-us-o-thou-great-jehovah-classic-rock-single/6773750851?uo=4", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0H32VWY8Q?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_6z7BFS8oJTNHVRkq7zlhGbqUQ&trackAsin=B0H331D6N3", },
-			{ name: "Lyric Video", url: "https://youtube.com/shorts/e4sPwll-azk?feature=share", },
+			{ name: "YouTube Short", url: "https://youtube.com/shorts/e4sPwll-azk?feature=share", },
 		],
 	},
 	{
@@ -108,7 +108,7 @@ export const hymnSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=9MBAsQaWyjA&si=Fa1CsqxBUlsv_BxF", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/o-my-father-power-ballad/6777339023", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H499773P?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_c7sKJ4Tk8RHRZJavNb2kWysFP", },
-			{ name: "Lyric Video", url: "https://www.youtube.com/shorts/cP7_dOYcUnA", },
+			{ name: "YouTube Short", url: "https://www.youtube.com/shorts/cP7_dOYcUnA", },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/o-my-father?crumbs=hymns&order=number&lang=eng", },
 		],
 	},
@@ -123,7 +123,7 @@ export const hymnSingles: Song[] = [
 		description: "A pop ballad reimagining of the beloved hymn I Stand All Amazed.",
 		image: "/songs/hymns/i-stand-all-amazed-pop-ballad.webp",
 		links: [
-			{ name: "Cinematic", url: "https://youtu.be/rw-wIGHCSdQ", },
+			{ name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/rw-wIGHCSdQ", },
 			{ name: "Spotify", url: "https://open.spotify.com/album/6Okid5Fb313Vu6I3HSqDd6", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=pKbCGBREGIo&si=EeLYRg3CNKVPgL3W", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/i-stand-all-amazed-pop-ballad-single/6791117302?uo=4", },
@@ -142,7 +142,7 @@ export const hymnSingles: Song[] = [
 		description: "A K-Pop / Rap reimagining of the hymn Count Your Blessings.",
 		image: "/songs/hymns/count-your-blessings-k-pop-rap.webp",
 		links: [
-			{ name: "Cinematic", url: "https://youtu.be/t_ubGu73-a0", },
+			{ name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/t_ubGu73-a0", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/338EkaJiC9mDiSJB1EOMox?si=0b8cd058d1f149a2", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=Vkn1bIqzTHM&si=BaU_BwcclN80G-ZQ", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/count-your-blessings-k-pop-rap/6807757261", },
@@ -162,7 +162,7 @@ export const hymnSingles: Song[] = [
 		description: "A Pop/Rock reimagining of the hymn Joseph Smith's First Prayer.",
 		image: "/songs/hymns/joseph-smiths-first-prayer-pop-rock.webp",
 		links: [
-			{ name: "Cinematic", url: "https://youtu.be/Gn1TxPDNukg", },
+			{ name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/Gn1TxPDNukg", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/1gzBT9GbHaUDEJoWiSEpVT?si=82957d7fb24046fb", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=EJpXdnXLw1o&si=UpMZbn7VvNVsd8a8", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/joseph-smiths-first-prayer-pop-rock/6813779262", },
@@ -182,7 +182,7 @@ export const hymnSingles: Song[] = [
 		description: "A Cinematic Gospel Rock reimagining of the all time classic hymn Battle Hymn of the Republic.",
 		image: "/songs/hymns/battle-hymn-of-the-republic-cinematic-gospel-rock.webp",
 		links: [
-			{ name: "Cinematic", url: "https://youtu.be/w3Ctda6ukAk", },
+			{ name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/w3Ctda6ukAk", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/4pOsG2n1RefglAFJwj9GoP?si=4db96623b50947db", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=QV7bmTJtDrY&si=dPDOHwlWhDcUShwm", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/battle-hymn-of-the-republic-cinematic-gospel-rock/6814127571", },
@@ -202,7 +202,7 @@ export const hymnSingles: Song[] = [
 		description: "A Country Ballad reimagining of the all time classic hymn A Poor Wayfaring Man of Grief.",
 		image: "/songs/hymns/a-poor-wayfaring-man-of-grief-country-ballad.webp",
 		links: [
-			{ name: "Cinematic", url: "https://youtu.be/kqWz9y6dtr0", },
+			{ name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/kqWz9y6dtr0", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/3DhA2aB4b5TQ06eib54ufT?si=2f9ed8258b914708", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=Uwc4u8ZOvrI&si=xTYPOh675YnPqn9g", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/a-poor-wayfaring-man-of-grief-country-ballad/6815502211", },
@@ -222,7 +222,7 @@ export const hymnSingles: Song[] = [
 		description: "An Alternative Pop Punk Rock reimagining of the hymn Dare to Do Right.",
 		image: "/songs/hymns/dare-to-do-right-alternative-pop-punk-rock.webp",
 		links: [
-			{ name: "Cinematic", url: "https://youtu.be/O5UeVDl5MOU", },
+			{ name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/O5UeVDl5MOU", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/6dger1xGik7fQvdyVuQN6G?si=9b9f9a1ea44b4181", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=MddK9sLORyw&si=ocaUxpUEIXKHchgB", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/dare-to-do-right-alternative-pop-punk-rock-single/6815789047?uo=4", },
@@ -242,7 +242,7 @@ export const hymnSingles: Song[] = [
     description: "An energetic Pop Big Band reimagining of the Primary song Saturday.",
 		image: "/songs/hymns/saturday-pop-big-band.webp",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/r8q7uaGQj8M" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/r8q7uaGQj8M" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/12GZuf26UypZs637cjflp0?si=94698848a7b84af9" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=U-r7pzxaEEU&si=ebuVEa_ARoiM8LoV" },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/saturday-pop-big-band/6815773969" },
@@ -262,7 +262,7 @@ export const hymnSingles: Song[] = [
     description: "A Cinematic Pop Rock reimagining of the hymn We Thank Thee, O God, For a Prophet.",
 		image: "/songs/hymns/we-thank-thee-o-god-for-a-prophet-cinematic-pop-rock.webp",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/dM7aTH7YlMY" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/dM7aTH7YlMY" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/3eHgSyBmN1hvvOQ1txhCtP?si=6b33d9d449bd4c41" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=42cm4hglDIk&si=Dv5LnTdBhXeD_AAN" },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/we-thank-thee-o-god-for-a-prophet-cinematic-pop-rock-single/6819070162?uo=4" },
@@ -282,7 +282,7 @@ export const hymnSingles: Song[] = [
     description: "A Celtic Folk Rock reimagining of the hymn Praise to the Man.",
 		image: "/songs/hymns/praise-to-the-man-celtic-folk-rock.webp",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/apw5kYEm4mc" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/apw5kYEm4mc" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/0VVsR52M9UvlFKvfXtpwnY?si=92fc3141c357490f" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=xAZih7qH44Y&si=Kigd442Q_yZoPW8M" },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/praise-to-the-man-celtic-folk-rock/6819078881" },
@@ -302,7 +302,7 @@ export const hymnSingles: Song[] = [
     description: "A Sacred Pop reimagining of the hymn Truth Eternal.",
 		image: "/songs/hymns/truth-eternal-sacred-pop.webp",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/_mbxMHys970" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/_mbxMHys970" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/3tWhZD3ZCkf1jTNWYB5bp0?si=f859ff4d7f3e4de0" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mdoSgbANSyoC2d7RErHEWKxQjdznLIOtE&si=rBQxDz3hHpbZcNHt" },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/truth-eternal/6818046236" },
@@ -322,7 +322,7 @@ export const hymnSingles: Song[] = [
     description: "A Cinematic Worship reimagining of the hymn The Day Dawn Is Breaking.",
 		image: "/songs/hymns/the-day-dawn-is-breaking-cinematic-worship.webp",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/VAe_EVXWg8s" },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/VAe_EVXWg8s" },
 			{ name: "Spotify", url: "https://open.spotify.com/track/1Mlt7ARuaYrvhh5vNOCGj1?si=d5f6cd1a48b44f00" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=y0GGNGuOxFc&si=dRMiFwEZ3pVOP4f4" },
 			{ name: "Apple Music", url: "https://music.apple.com/us/song/the-day-dawn-is-breaking-cinematic/6795384852" },
@@ -342,7 +342,7 @@ export const hymnSingles: Song[] = [
     description: "A Gospel Folk reimagining of the hymn Come Ye Children of the Lord.",
 		image: "/songs/hymns/come-ye-children-of-the-lord-gospel-folk.webp",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/1fwKOLtU1Rg" },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/1fwKOLtU1Rg" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/come-ye-children-of-the-lord?lang=eng", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/2NDRm1LtyOemQp3uGaeQM7?si=cc502bcae9ac4842" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=O50pJKtCACE&si=_4Zm6IHvgAsO4Q0e" },
@@ -362,7 +362,7 @@ export const hymnSingles: Song[] = [
     description: "A Heartland Rock reimagining of the hymn Do What Is Right.",
 		image: "/songs/hymns/do-what-is-right-heartland-rock.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/o17ySOoRFeA" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/o17ySOoRFeA" },
 			{ name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/do-what-is-right?crumbs=hymns&order=number&lang=eng", },
 			{ name: "Spotify", url: "https://open.spotify.com/track/5lxmbJelHnAmgCWTwi3r3Q?si=58dba385210b4057" },
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=NngoDN14t84&si=S10Vw0fULCeAs6TP" },

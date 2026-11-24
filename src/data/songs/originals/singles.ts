@@ -11,7 +11,7 @@ export const originalSingles: Song[] = [
 	  image: "/songs/originals/russell-m-nelson-his-voice-our-guide.webp",
     description: "An original song celebrating the life, legacy, and teachings of Russell M. Nelson.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/gxBneNBnc-Y", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/gxBneNBnc-Y", },
       { name: "Spotify", url: "https://open.spotify.com/album/3w7m3AoVRCHK9ICy8dvEKx?si=ogtWcFvPRGmiK5oHlL5LjA", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Pye3RqJQJZ8&si=4W73FxANf7j8yFrx", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/his-voice-our-guide-russell-m-nelson-life-tribute-single/1842992468?uo=4", },
@@ -28,7 +28,7 @@ export const originalSingles: Song[] = [
 	  image: "/songs/originals/he-knelt-in-faith.webp",
     description: "An original Tuned Testimony song about choosing faith, humility, and prayer in moments of uncertainty and need.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/-ku_TuCPOcA", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/-ku_TuCPOcA", },
       { name: "Spotify", url: "https://open.spotify.com/album/4RPLi3Y8rGoGlQ1u1beNK6?si=5dFFntS1QcKIG1gosi8rVg", },
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_k5Pv418o1obEMB1n9KNk2NSvke0XcpUAI&si=0FkHsnpi_VB28whn", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/he-knelt-in-faith-original-songs-single/6785810878?uo=4", },
@@ -45,7 +45,7 @@ export const originalSingles: Song[] = [
 	  image: "/songs/originals/not-another-gospel.webp",
     description: "An original Tuned Testimony song exploring restoration, grace, and the claim that the restored gospel is the same good news of Jesus Christ.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/-sgm_fdH9NA", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/-sgm_fdH9NA", },
       { name: "Spotify", url: "https://open.spotify.com/album/0GcE0pkl891L6Pg0ioiywj", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=hmahTw71xdM&si=OewYFvUCepbnHAhR", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/not-another-gospel-single/6792444702", },
@@ -62,7 +62,7 @@ export const originalSingles: Song[] = [
 	  image: "/songs/originals/mormon-mafia.webp",
     description: "A humorous original Tuned Testimony song that flips the phrase “Mormon Mafia” into a celebration of organized kindness, service, casseroles, and showing up for one another.",
     links: [
-      { name: "Cinematic", url: "https://youtu.be/6i8dTtYND_w", },
+      { name: "YouTube Cinematic Lyric Video", url: "https://youtu.be/6i8dTtYND_w", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=WXbumePGzvo&si=2bxs-vS4r9xs5wN_", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/the-mormon-mafia-single/6798637966", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0HD7BPDYY?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_GMWGPeUgGYJnJncZwdLJh7E1a", },
@@ -78,7 +78,7 @@ export const originalSingles: Song[] = [
 	  image: "/songs/originals/i-saw-a-pillar-of-light.webp",
     description: "An original song celebrating the First Vision of Joseph Smith and the restoration of the gospel of Jesus Christ.",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/s9n3iNKXTMA", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/s9n3iNKXTMA", },
       { name: "Spotify", url: "https://open.spotify.com/track/5R710KuRCJjBaFPT3IAW8b?si=fbd1bd80b195475f", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=ehHukPhqp2A&si=9gF8BP4NWba3kuJT", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/i-saw-a-pillar-of-light-single/6802166793", },

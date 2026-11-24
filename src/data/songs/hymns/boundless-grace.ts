@@ -13,7 +13,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "A pop-country reimagining of the beloved hymn Come, Thou Fount Of Every Blessing.",
     image: "/songs/hymns/come-thou-fount-of-every-blessing.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/7vQpCxOIMGI" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/7vQpCxOIMGI" },
       { name: "Spotify", url: "https://open.spotify.com/track/579CcvacVD9uauP7RaPBAy?si=96a5a5d0670846f9" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/come-thou-fount-of-every-blessing-pop-country/1876125097" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=hHBtJ8K9Rd8&si=xZ0d0Ig4Pr1S-jG1" },
@@ -32,7 +32,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "A classic-rock reimagining of the beloved hymn Amazing Grace.",
     image: "/songs/hymns/amazing-grace.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/OLf2tvFDtNY" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/OLf2tvFDtNY" },
       { name: "Spotify", url: "https://open.spotify.com/track/35MJa1fGIJ7Aia28M1ICCV?si=5e5fab75652a43eb" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/amazing-grace-classic-rock/1876125098" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=-QsydLuWsP0&si=kwOudUTYQyXR4zrc" },
@@ -51,7 +51,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "An 80's ballad reimagining of the hymn My Shepherd Will Supply My Need.",
     image: "/songs/hymns/my-shepherd-will-supply-my-need.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/MgeFxSr5G4A" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/MgeFxSr5G4A" },
       { name: "Spotify", url: "https://open.spotify.com/track/0HQBVm3qgaS6oaPyDBoVPf?si=7b9b6030963a4ea2" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/my-shepherd-will-supply-my-need-80s-ballad/1876125099" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=f9sKfwZMCDM&si=fU3JYSQ5C1RrqC5F" },
@@ -69,7 +69,7 @@ export const boundlessGraceSongs: Song[] = [
     albumTitle: "Boundless Grace",
     description: "A country-ballad reimagining of the hymn The Lord’s My Shepherd.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/ac7tbpZ52MA" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/ac7tbpZ52MA" },
       { name: "Spotify", url: "https://open.spotify.com/track/7vviAwGvxsjotnKoqNbfmc?si=37c53570ec6c4c07" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/the-lords-my-shepherd-country-ballad/1876125100" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=I7fj2kj6X6w&si=Xo876clX8pEnqWze" },
@@ -87,7 +87,7 @@ export const boundlessGraceSongs: Song[] = [
     albumTitle: "Boundless Grace",
     description: "A pop-country reimagining of the hymn His Eye Is On The Sparrow.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/PD4muyKktRA" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/PD4muyKktRA" },
       { name: "Spotify", url: "https://open.spotify.com/track/2jZ5D6Hg9RD9csD8ym49B9?si=d4169de82a524f80" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/his-eye-is-on-the-sparrow-pop-country/1876125101" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=wJAA35a6C30&si=j1sy_7FbElHlVvLp" },
@@ -105,7 +105,7 @@ export const boundlessGraceSongs: Song[] = [
     albumTitle: "Boundless Grace",
     description: "A surf-rock reimagining of the hymn Softly And Tenderly Jesus Is Calling.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/n9p_bx8xC-E?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/n9p_bx8xC-E?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/3d9ZSJWudKLTppOJdGp9WL?si=5db5469ecc104bec" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/softly-and-tenderly-jesus-is-calling-surf-rock/1876125102" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=n26XSjZ-7n8&si=yii8rGD2mw3P5M9w" },
@@ -124,7 +124,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "An a cappella reimagining of the hymn Take My Heart And Let It Be Consecrated.",
     image: "/songs/hymns/take-my-heart-and-let-it-be-consecrated.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/cYoS-rvhMXI?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/cYoS-rvhMXI?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/2uSHLO30Sf357T6CXSrdSw?si=20b00fa63b8a41ea" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/take-my-heart-and-let-it-be-consecrated-acapella/1876125103" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=SXH96LiqZk0&si=ccmQfrM5Fs9WFG6u" },
@@ -143,7 +143,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "A rock reimagining of the hymn Standing On The Promises.",
     image: "/songs/hymns/standing-on-the-promises.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/PHPmy6-HSjA" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/PHPmy6-HSjA" },
       { name: "Spotify", url: "https://open.spotify.com/track/020gssZLSRAftdpkeD0DFR?si=3675531051fb40d2" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/standing-on-the-promises-rock/1876125104" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=q3a_NSrS2AI&si=n3N84PPn_QczChhN" },
@@ -162,7 +162,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "An orchestral-worship reimagining of the hymn It Is Well With My Soul.",
     image: "/songs/hymns/it-is-well-with-my-soul.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/R9wPupDrfEs" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/R9wPupDrfEs" },
       { name: "Spotify", url: "https://open.spotify.com/track/1TuGIVRYSAubsq88XspSL3?si=abfe7c47b89e4719" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/it-is-well-with-my-soul-orchestral-worship/1876125105" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=dBEQo4kJqI8&si=KRDfQV202R9b9NUu" },
@@ -180,7 +180,7 @@ export const boundlessGraceSongs: Song[] = [
     albumTitle: "Boundless Grace",
     description: "A pop-rock reimagining of the hymn This Little Light Of Mine.",
     links: [
-      { name: "Lyric Video", url: "https://youtube.com/shorts/NP_T0d82EWg?feature=share" },
+      { name: "YouTube Short", url: "https://youtube.com/shorts/NP_T0d82EWg?feature=share" },
       { name: "Spotify", url: "https://open.spotify.com/track/2UlmDZUwU3nTnn0i91jbXk?si=806238c787dc4e69" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/this-little-light-of-mine-pop-rock/1876125107" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=TRKGhaKvWFM&si=ZL3CicZMPxgOgSj8" },
@@ -199,7 +199,7 @@ export const boundlessGraceSongs: Song[] = [
     description: "A power-ballad reimagining of the hymn His Voice As The Sound.",
     image: "/songs/hymns/his-voice-as-the-sound.webp",
     links: [
-      { name: "Lyric Video", url: "https://youtu.be/XNqvAyhUu-8" },
+      { name: "YouTube Vertical Lyric Video", url: "https://youtu.be/XNqvAyhUu-8" },
       { name: "Spotify", url: "https://open.spotify.com/track/5QE5AscNZwSq4ZZ7aBz0Zj?si=f9604bdb9a9e4f8e" },
       { name: "Apple Music", url: "https://music.apple.com/us/song/his-voice-as-the-sound-power-ballad/1876125108" },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=a5Udp2LoIs4&si=St15kprVI13FMz8u" },

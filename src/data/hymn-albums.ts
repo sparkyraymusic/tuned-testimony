@@ -25,11 +25,13 @@ export const hymnAlbums: HymnAlbum[] = [
 		subtitle: "Hymns celebrating the birth of Jesus Christ",
 		image: "/albums/the-world-rejoices.webp",
 		links: [
-			{ name: "YouTube", url: "https://www.youtube.com/playlist?list=PLL_K6V2TCstA", },
+			{ name: "YouTube Playlist", url: "https://www.youtube.com/playlist?list=PLL_K6V2TCstA", },
 			{ name: "Spotify", url: "https://open.spotify.com/album/1BvYfAlq9oA41hZ8wFZDaa?si=k7kUhiS4SxCv2AGFYewRYA", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_ksHrgKJpHO1CzIqRivyM4RJoOqy0rNve0&si=TSoCBU0vuZA1SZvU", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/the-world-rejoices/6838166084", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0HSN118YQ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_JUKjNGBNjYoxGqpUaY3Ld5mw0", },
+			{ name: "Amuse SmartLink", url: "https://share.amuse.io/album/tuned-testimony-the-world-rejoices", },
+			{ name: "Deezer", url: "https://link.deezer.com/s/352Yhx446bPGn7NgIZR7j", },
 		],
 		tracks: [
 			{ title: "Joy to the World", style: "Big Band", songSlug: "joy-to-the-world-big-band", },
@@ -124,7 +126,7 @@ export const hymnAlbums: HymnAlbum[] = [
     subtitle: "Timeless songs. Eternal truths.",
     image: "/albums/primary-days.webp",
 		links: [
-			{ name: "YouTube Lyric Videos", url: "https://www.youtube.com/playlist?list=PLHfoT_AcfQVg", },
+			{ name: "YouTube Playlist", url: "https://www.youtube.com/playlist?list=PLHfoT_AcfQVg", },
 			{ name: "Spotify", url: "https://open.spotify.com/album/5PUQtHwAmD4tIW2FV6Eg6x", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/childrens-songbook-reimagined/1805332998?uo=4", },
 			{ name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_klAc1m__k3In_57hTSv1kwQBNHJ5SWOt8", },

@@ -22,7 +22,7 @@ export const april1976ConferenceSongs: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=zDZWFf0j2Mo&si=3aPeiNrfR7Z6dIZu" },
       { name: "Apple Music", url: "https://music.apple.com/us/album/ezra-taft-benson-the-constitution-a-glorious/6776859995" },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H424C6GS?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_tWQBlGmtpkcnA2cc79927ZBNS&trackAsin=B0H426PB7L" },
-      { name: "Lyric Video", url: "https://youtu.be/zDZWFf0j2Mo" },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/zDZWFf0j2Mo" },
     ],
   },
 ];

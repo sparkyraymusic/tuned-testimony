@@ -22,7 +22,7 @@ export const april2007ConferenceSongs: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_l7o321J1_GXx-FHSDxThJbquEu7-MeJ2A&si=Va69yzIS857FI0H4", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/james-e-faust-message-to-my-grandsons-conference-talk/6774033469?uo=4", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H34QVLSJ?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_3W85EK1nChBC1XJ8ziccaub90&trackAsin=B0H34WCMPQ", },
-      { name: "Lyric Video", url: "https://youtu.be/aso_YajzWWw", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/aso_YajzWWw", },
     ],
   },
   {
@@ -46,7 +46,7 @@ export const april2007ConferenceSongs: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=Z4Fg7LvfQIQ&si=K2H7JsE7GlsYPgAJ", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/james-e-faust-the-healing-power-of/6774734807?uo=4", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H38SMW4J?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_oaM4wmepJWoX8LY4fsO8MFktB", },
-      { name: "Lyric Video", url: "https://youtu.be/M4uEHQIfCck", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/M4uEHQIfCck", },
     ],
   },
 ];

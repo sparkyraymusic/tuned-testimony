@@ -16,7 +16,7 @@ export const internationalSingles: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=LIq43ufveGU&si=dI29R3ZYT3yDjsEk", },
       { name: "Apple Music", url: "https://music.apple.com/us/album/ya-regocijemos-now-let-us-rejoice-spanish-single/6775444653", },
       { name: "Amazon Music", url: "https://music.amazon.com/tracks/B0H2YF79RK?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_jnOqs47JiNdj88XGJiyB4JRUN", },
-      { name: "Lyric Video", url: "https://youtu.be/IplyqcYfxY4", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/IplyqcYfxY4", },
     ],
   },
   {
@@ -34,7 +34,7 @@ export const internationalSingles: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mdNuSi1EBk779dYL4TZ9HOmrS6WlJclLA&si=HArpeZK1lAlgYh8R", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/alegres-cantemos-now-let-us-rejoice-portuguese/6773519338", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H31W2JSB?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_LAGBRB2jAyoKPac8I4uUUtyau&trackAsin=B0H31WG8LH", },
-      { name: "Lyric Video", url: "https://youtu.be/qfMw80tIdOI", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/qfMw80tIdOI", },
     ],
   },
   {
@@ -52,7 +52,7 @@ export const internationalSingles: Song[] = [
       { name: "YouTube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mTJNcUaYYmXrBNVsyjS6e0NbDfpehLzC0&si=xR7Ssu4aj3Y53Ud2", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/tayoy-magalak-now-let-us-rejoice-tagalog/6773226878", },
       { name: "Amazon Music", url: "https://music.amazon.com/albums/B0H2YLBT5J?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_lYbpfVASi94Gp1Mo1GfdtXMKo&trackAsin=B0H2YD56G6", },
-      { name: "Lyric Video", url: "https://youtu.be/6ZMAOr7F7y4", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/6ZMAOr7F7y4", },
     ],
   },
 
@@ -71,7 +71,7 @@ export const internationalSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=BcNQvj2IB6w&si=k3j7yOStSRPM28Ac", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/ich-wei%C3%9F-da%C3%9F-mein-erl%C3%B6ser-lebt-i-know-that-my-redeemer/6776904475?uo=4", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/albums/B0H44HFR9V?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_LwJOoD7l4FKzk0MA7IP54tEh1&trackAsin=B0H44L4D5L", },
-			{ name: "Lyric Video", url: "https://youtu.be/hbK-sITctnE", },
+			{ name: "YouTube Lyric Video", url: "https://youtu.be/hbK-sITctnE", },
 		],
 	},
 	{
@@ -89,7 +89,7 @@ export const internationalSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=3Wp9iQArvag&si=amTog9FIeEPEzE3t", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/jesus-minha-luz-pop-ballad-version-single/1844107864?uo=4", },
 			{ name: "Amazon Music", url: "https://music.amazon.com/tracks/B0FTMKTYD9?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_J60TB5C0IF1fwSREa4KGLLJTY", },
-			{ name: "Lyric Video", url: "https://youtu.be/3Wp9iQArvag", },
+			{ name: "YouTube Lyric Video", url: "https://youtu.be/3Wp9iQArvag", },
 		],
 	},
 	{
@@ -107,7 +107,7 @@ export const internationalSingles: Song[] = [
 			{ name: "YouTube Music", url: "https://music.youtube.com/watch?v=As1Q69jB3gE&si=v5K44NKlvjHOZNgu", },
 			{ name: "Apple Music", url: "https://music.apple.com/us/album/jesus-minha-luz-pop-ballad-version-single/1844107864?uo=4", },
 			{ name: "Amazon Music", url: "http://www.amazon.com/gp/product/B0H48VNKMK", },
-			{ name: "Lyric Video", url: "https://youtube.com/shorts/E8ZB-jMwwCo?feature=share", },
+			{ name: "YouTube Lyric Video", url: "https://youtube.com/shorts/E8ZB-jMwwCo?feature=share", },
 		],
 	},
 ];
