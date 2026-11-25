@@ -114,6 +114,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/once-in-royal-davids-city-synth-pop.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/once-in-royal-davids-city?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/B3_yutKlnCA", },
       { name: "Spotify", url: "https://open.spotify.com/track/1pYSzbPfnRuan7weHkk2cM?si=a5dc9fe4018f45d1", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=wqa1p1JkL8o&si=jO2E7s0XronOeh1L", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/once-in-royal-davids-city/6838166250", },
@@ -133,6 +134,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/what-child-is-this-celtic-rock-ballad.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/what-child-is-this?crumbs=hymns-for-home-and-church&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns-for-home-and-church%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/XsKtg0CAaaM", },
       { name: "Spotify", url: "https://open.spotify.com/track/2xQ5wmvW4TBeSO0JaL4viM?si=ddbe33f56df6491b", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=fndMqG2kbaE&si=eRdSHq-Nwt75bPXQ", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/what-child-is-this/6838166255", },
@@ -152,6 +154,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/o-little-town-of-bethlehem-nashville-country.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/o-little-town-of-bethlehem?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/pTwo5WLp4U8", },
       { name: "Spotify", url: "https://open.spotify.com/track/7yWA3C14SBr1Q47ve6Fdhm?si=671834a4de1d4e91", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=NYOpCVT1XOI&si=Hm8UBw_5my1-K_CS", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/o-little-town-of-bethlehem/6838166260", },
