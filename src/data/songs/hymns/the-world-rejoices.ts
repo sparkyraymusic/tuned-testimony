@@ -162,18 +162,19 @@ export const theWorldRejoicesSongs: Song[] = [
     ],
   },
   {
-    slug: "away-in-a-manger-gospel-pop-lullaby",
+    slug: "away-in-a-manger-celtic-pop-lullaby",
     hymnId: "away-in-a-manger",
     title: "Away in a Manger",
     collection: "Hymns",
     releaseType: "Album Track",
-    style: "Gospel Pop Lullaby",
+    style: "Celtic Pop Lullaby",
     albumSlug: "the-world-rejoices",
     albumTitle: "The World Rejoices",
-    description: "A Gospel Pop Lullaby re magining of the hymn Away in a Manger",
-    image: "/albums/the-world-rejoices/away-in-a-manger-gospel-pop-lullaby.webp",
+    description: "A Celtic Pop Lullaby reimagining of the hymn Away in a Manger",
+    image: "/albums/the-world-rejoices/away-in-a-manger-celtic-pop-lullaby.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/away-in-a-manger?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/5clzFG_pAxI", },
       { name: "Spotify", url: "https://open.spotify.com/track/3oGnwLTeQUOLTIpVrHlOAw?si=4fb04db81d664b17", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=6_q2cT9mTaw&si=qXir9reSJEz1lJBZ", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/away-in-a-manger/6838166261", },
@@ -193,6 +194,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/with-wondering-awe-african-gospel-pop.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/with-wondering-awe?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/yBZlY0cyl6A", },
       { name: "Spotify", url: "https://open.spotify.com/track/5vswUZPHzkKHBz7sc6eKj0?si=bc3f87e7d46040c2", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=bPjbuAxihLc&si=N-Y82QiGZMP6dguA", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/with-wondering-awe/6838166262", },
@@ -212,6 +214,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/i-heard-the-bells-on-christmas-day-jpop-yodel-fusion.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/i-heard-the-bells-on-christmas-day?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/d-TNcVD5i9s", },
       { name: "Spotify", url: "https://open.spotify.com/track/7o0ZSm5veu6AE22Futp4Lo?si=c70fbea6a9cf4780", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=hUTaW5WScd0&si=iD3y7Lh7kvDfJAer", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/i-heard-the-bells-on-christmas-day/6838166263", },
@@ -231,6 +234,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/go-tell-it-on-the-mountain-appalachian-bluegrass-gospel.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/go-tell-it-on-the-mountain?crumbs=hymns-for-home-and-church&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns-for-home-and-church%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/fHsByLx1kyM", },
       { name: "Spotify", url: "https://open.spotify.com/track/4Kwa5O0ixEC38tSQWgZ7v8?si=478443f4abe645e8", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=3-HnASl28oA&si=Gq6aFIKIconSRmEh", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/go-tell-it-on-the-mountain/6838166264", },
