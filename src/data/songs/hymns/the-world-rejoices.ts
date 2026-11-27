@@ -254,6 +254,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/oh-come-all-ye-faithful-new-orleans-brass-gospel.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/oh-come-all-ye-faithful?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/j1E9H0ZPLAM", },
       { name: "Spotify", url: "https://open.spotify.com/track/1TDghSMtqecnLkQb1xLEkG?si=27e058578ccb430c", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=GfP-inhz4_8&si=j2eGejzBdiKfDI2r", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/o-come-all-ye-faithful/6838166265", },
@@ -273,6 +274,7 @@ export const theWorldRejoicesSongs: Song[] = [
     image: "/albums/the-world-rejoices/silent-night-nordic-ambient-folk.webp",
     links: [
       { name: "Hymn", url: "https://www.churchofjesuschrist.org/media/music/songs/silent-night?crumbs=hymns&songListFilters=%7B%22limit%22%3A500%2C%22offset%22%3A0%2C%22orderByKey%22%3A%5B%22music.sortType%22%5D%2C%22bookQueryList%22%3A%5B%22hymns%22%5D%7D&lang=eng", },
+      { name: "YouTube Lyric Video", url: "https://youtu.be/hQ-UGt51xNg", },
       { name: "Spotify", url: "https://open.spotify.com/track/1JJglpOtdu50kHTWjr3ovH?si=56985ce1470e459f", },
       { name: "YouTube Music", url: "https://music.youtube.com/watch?v=DLJOmbe6FEg&si=szw4-GQEc5bMzJl7", },
       { name: "Apple Music", url: "https://music.apple.com/us/song/silent-night/6838166267", },

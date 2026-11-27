@@ -42,7 +42,7 @@ export const hymnAlbums: HymnAlbum[] = [
 			{ title: "Once in Royal David's City", style: "Synth Pop", songSlug: "once-in-royal-davids-city-synth-pop", },
 			{ title: "What Child Is This?", style: "Celtic Rock Ballad", songSlug: "what-child-is-this-celtic-rock-ballad", },
 			{ title: "O Little Town of Bethlehem", style: "Nashville Country", songSlug: "o-little-town-of-bethlehem-nashville-country", },
-			{ title: "Away in a Manger", style: "Gospel Pop Lullaby", songSlug: "away-in-a-manger-gospel-pop-lullaby", },
+			{ title: "Away in a Manger", style: "Celtic Pop Lullaby", songSlug: "away-in-a-manger-celtic-pop-lullaby", },
 			{ title: "With Wondering Awe", style: "African Gospel Pop", songSlug: "with-wondering-awe-african-gospel-pop", },
 			{ title: "I Heard the Bells on Christmas Day", style: "J-pop Yodel Fusion", songSlug: "i-heard-the-bells-on-christmas-day-jpop-yodel-fusion", },
 			{ title: "Go Tell It on the Mountain", style: "Appalachian Bluegrass Gospel", songSlug: "go-tell-it-on-the-mountain-appalachian-bluegrass-gospel", },
